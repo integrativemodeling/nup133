@@ -36,7 +36,7 @@ be run in order:
     `scripts/script8_split_density.py` and
     `scripts/script9_symmetric_multiple_fitting.py`
 
-## Info
+## Information
 
 _Author(s)_: Seung Joong Kim
 
