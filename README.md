@@ -10,7 +10,7 @@ is used to fit these components together into the electron microscopy density
 map of the entire complex.
 
 A full description of the scripts can be found in
-[Integrative structure-function mapping of the nucleoporin Nup133 suggests a conserved mechanism for membrane anchoring of the nuclear pore complex](mcponline.org/content/early/2014/08/19/mcp.M114.040915).
+[Integrative structure-function mapping of the nucleoporin Nup133 suggests a conserved mechanism for membrane anchoring of the nuclear pore complex](http://mcponline.org/content/early/2014/08/19/mcp.M114.040915).
 
 ## Steps
 
