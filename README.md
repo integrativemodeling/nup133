@@ -7,12 +7,12 @@ These scripts demonstrate the use of [IMP](http://salilab.org/imp),
 Nup133 in the Nuclear Pore Complex (NPC). First, MODELLER is used to generate
 structures for the individual components in the Nup133. Then, IMP
 is used to fit these components together into the electron microscopy density
-map of the entire complex.
+map of Nup133.
 
 A full description of the scripts can be found in
 [Integrative structure-function mapping of the nucleoporin Nup133 suggests a conserved mechanism for membrane anchoring of the nuclear pore complex](http://mcponline.org/content/early/2014/08/19/mcp.M114.040915).
 
-## Steps
+## Steps (UNDER CONSTRUCTION)
 
 First, make a directory for the output by running `mkdir output`. Output
 files that were generated when these scripts were run for the first time are
@@ -38,10 +38,9 @@ be run in order:
 
 ## Info
 
-_Author(s)_: Keren Lasker
+_Author(s)_: Seung Joong Kim
 
-_Version_: 1.0
-
+_Date_: September 2nd, 2014
 
 _License_: [LGPL](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).
 This library is free software; you can redistribute it and/or
