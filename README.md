@@ -1,8 +1,9 @@
 # Nup133
 
 These scripts demonstrate the use of IMP,
-[MODELLER](http://salilab.org/modeller/) and
-[Chimera](http://www.cgl.ucsf.edu/chimera/) in the modeling of the
+[MODELLER](http://salilab.org/modeller/),
+[FoXS](http://salilab.org/foxs/), and
+Minimal Ensemble Search in the modeling of the
 bacterial molecular chaperone GroEL. First, MODELLER is used to generate
 structures for the individual components in the GroEL complex. Then, IMP
 is used to fit these components together into the electron microscopy density
