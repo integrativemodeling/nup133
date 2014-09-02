@@ -57,4 +57,4 @@ _Parallelizeable_: No
 _Publications_:
  - Seung Joong Kim*, Javier Fernandez-Martinez*, Parthasarathy Sampathkumar*, Anne Martel, Tsutomu Matsui, Hiro Tsuruta, Thomas Weiss, Yi Shi, Ane Markina-Inarrairaegui, Jeffery B. Bonanno, J. Michael Sauder, Stephen K. Burley, Brian T. Chait, Steven C. Almo, Michael P. Rout, and Andrej Sali, [Integrative structure-function mapping of the nucleoporin Nup133 suggests a conserved mechanism for membrane anchoring of the nuclear pore complex](http://mcponline.org/content/early/2014/08/19/mcp.M114.040915), Molecular & Cellular Proteomics, 2014, mcp.M114.040915.
 
-* These authors contributed equally to this work as co-first authors.
+ *These authors contributed equally to this work as co-first authors.
