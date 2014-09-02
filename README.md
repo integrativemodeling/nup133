@@ -1,8 +1,8 @@
 # Nup133
 
 These scripts demonstrate the use of [IMP](http://salilab.org/imp),
-[MODELLER](http://salilab.org/modeller/),
-[FoXS](http://salilab.org/foxs/), and
+[MODELLER](http://salilab.org/modeller),
+[FoXS](http://salilab.org/foxs), and
 [Minimal Ensemble Search](http://bl1231.als.lbl.gov/saxs_protocols/mes.php) in the modeling of the
 Nup133 in the Nuclear Pore Complex (NPC). First, MODELLER is used to generate
 structures for the individual components in the Nup133. Then, IMP
