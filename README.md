@@ -4,7 +4,7 @@ These scripts demonstrate the use of IMP,
 [MODELLER](http://salilab.org/modeller/),
 [FoXS](http://salilab.org/foxs/), and
 Minimal Ensemble Search in the modeling of the
-bacterial molecular chaperone GroEL. First, MODELLER is used to generate
+Nup133 in the Nuclear Pore Complex (NPC). First, MODELLER is used to generate
 structures for the individual components in the GroEL complex. Then, IMP
 is used to fit these components together into the electron microscopy density
 map of the entire complex.
