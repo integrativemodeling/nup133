@@ -1,0 +1,14 @@
+DSS
+
+Nup133(966)-Nup84(625)  : B 89 - A 120  ./calculate_ca_distances.py -pdb ./Nup133_Nup84.pdb -r1 120 -r2 89
+Nup133(936)-Nup84(712)  : B 59 - A 207  ./calculate_ca_distances.py -pdb ./Nup133_Nup84.pdb -r1 207 -r2 59
+
+
+EDC
+Nup133(936)-Nup84(713)  : B 59 - A 208  ./calculate_ca_distances.py -pdb ./Nup133_Nup84.pdb -r1 208 -r2 59
+Nup133(935)-Nup84(712)  : B 58 - A 207  ./calculate_ca_distances.py -pdb ./Nup133_Nup84.pdb -r1 207 -r2 58
+
+
+
+nup133 880 = chain B 1  (-878)
+Nup84 506 = chain A 1  (-505)
