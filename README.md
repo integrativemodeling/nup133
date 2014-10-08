@@ -12,7 +12,7 @@ map of Nup133.
 A full description of the scripts can be found in
 [Integrative structure-function mapping of the nucleoporin Nup133 suggests a conserved mechanism for membrane anchoring of the nuclear pore complex](http://mcponline.org/content/early/2014/08/19/mcp.M114.040915).
 
-## Steps (UNDER CONSTRUCTION)
+## Steps
 
 First, make a directory for the output by running `mkdir output`. Output
 files that were generated when these scripts were run for the first time are
