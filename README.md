@@ -1,5 +1,3 @@
-# Nup133
-
 These scripts demonstrate the use of [IMP](http://salilab.org/imp),
 [MODELLER](http://salilab.org/modeller),
 [FoXS](http://salilab.org/foxs), and
