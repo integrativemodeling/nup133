@@ -1,0 +1,44 @@
+8d7
+< #include "lib/EM2DEnsembleScore.h"
+193d191
+<   bool nnls = false;
+219d216
+<     ("nnls,n", "run Non negative least square on all profiles (default = false)")
+242d238
+<   if(vm.count("nnls")) nnls=true;
+319,321d314
+< 
+<     std::vector<EnsembleScore*> scorers;
+< 
+323c316
+<     SAXSEnsembleScore *saxs_ensemble_score =
+---
+>     SAXSEnsembleScore *ensemble_score =
+326,330d318
+<     scorers.push_back(saxs_ensemble_score);
+< 
+<     std::string em2d_file_name = "file";
+<     EM2DEnsembleScore *em2d_ensemble_score = new EM2DEnsembleScore(em2d_file_name);
+<     scorers.push_back(em2d_ensemble_score);
+334,348c322
+<       saxs_ensemble_score->output_matrix(out, saxs_ensemble_score->get_average_c1(), saxs_ensemble_score->get_average_c2());
+<     }
+< 
+<     if(nnls) {
+<       IMP::saxs::WeightedFitParameters fp = saxs_ensemble_score->get_fit_parameters();
+<       std::ofstream s("nnls.txt");
+<       s.setf(std::ios::fixed, std::ios::floatfield);
+<       s << std::setw(6) << std::setprecision(3) << " Chi = " << fp.get_chi()
+<         << " c1 = " << fp.get_c1() << " c2 = " << fp.get_c2() << std::endl;
+<       for(unsigned int i=0; i<clustered_profiles.size(); i++) {
+<         s << std::setw(4) << i << " " << clustered_profiles[i]->get_name();
+<         s << std::setw(5) << std::setprecision(3) << "(" << fp.get_weights()[i] << ") ";
+<         s << std::endl;
+<       }
+<       s.close();
+---
+>       ensemble_score->output_matrix(out, ensemble_score->get_average_c1(), ensemble_score->get_average_c2());
+351c325
+<     EnsembleGenerator eg(clustered_profiles.size(), best_k, scorers);
+---
+>     EnsembleGenerator eg(clustered_profiles.size(), best_k, ensemble_score);

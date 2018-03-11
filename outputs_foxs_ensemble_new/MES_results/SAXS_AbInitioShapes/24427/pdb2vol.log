@@ -1,0 +1,266 @@
+lib_pio> 1808 atoms read.
+pdb2vol> Found 0 hydrogens, 106 water atoms, 0 codebook vectors, 0 density atoms
+pdb2vol> 106 water atoms found in file /Users/sjkim/Desktop/SAXS/SLAC_1115_2009/AbInitioShapes/24427/23922_SGX.pdb 
+pdb2vol> Mass-weighting on.
+pdb2vol> Do you want to exclude the water atoms?
+pdb2vol> 
+pdb2vol>      1: No
+pdb2vol>      2: Yes
+pdb2vol> pdb2vol> Do you want to select atoms based on a B-factor threshold?
+pdb2vol> 
+pdb2vol>      1: No
+pdb2vol>      2: Yes
+pdb2vol> pdb2vol> 1808 out of 1808 atoms selected for conversion.
+pdb2vol> 
+pdb2vol> The input structure measures 47.682 x 46.360 x 39.808 Angstrom
+pdb2vol> 
+pdb2vol> Please enter the desired voxel spacing for the output map (in Angstrom): pdb2vol> Voxel spacing set to minimum value: 0.1 Angstrom
+pdb2vol> 
+pdb2vol> Kernel width. Please enter (in Angstrom):
+pdb2vol>      (as pos. value) kernel half-max radius or 
+pdb2vol>      (as neg. value) target resolution (2 sigma)
+pdb2vol> Now enter (signed) value: pdb2vol> Projecting atoms to cubic lattice by trilinear interpolation... 
+pdb2vol> ... done. Lattice smoothing (sigma = atom rmsd):  0.071 Angstrom
+lib_vio> Writing density data... 
+lib_vio> Volumetric data written to file /Users/sjkim/Desktop/SAXS/SLAC_1115_2009/AbInitioShapes/24427/23922_SGX.pdb.situs 
+lib_vio> File /Users/sjkim/Desktop/SAXS/SLAC_1115_2009/AbInitioShapes/24427/23922_SGX.pdb.situs - Header information: 
+lib_vio> Columns, rows, and sections: x=1-482, y=1-470, z=1-405
+lib_vio> 3D coordinates of first voxel: (12.700000,-22.600000,-6.500000)
+lib_vio> Voxel size in Angstrom: 0.100000 
+pdb2vol> 
+pdb2vol> Warning: kernel width should be large relative to lattice voxel spacing! 
+pdb2vol> If kernel smoothing desired, increase kernel width or decrease lattice spacing. 
+pdb2vol> Map projected to lattice only, and written to file /Users/sjkim/Desktop/SAXS/SLAC_1115_2009/AbInitioShapes/24427/23922_SGX.pdb.situs.
+pdb2vol> Effective spatial resolution (2 sigma) of lattice projection:  0.142A
+lib_pio> 1578 atoms read.
+pdb2vol> Found 0 hydrogens, 0 water atoms, 0 codebook vectors, 0 density atoms
+pdb2vol> Do you want to mass-weight the atoms ?
+pdb2vol> 
+pdb2vol>      1: No
+pdb2vol>      2: Yes
+pdb2vol> pdb2vol> Do you want to select atoms based on a B-factor threshold?
+pdb2vol> 
+pdb2vol>      1: No
+pdb2vol>      2: Yes
+pdb2vol> pdb2vol> 1578 out of 1578 atoms selected for conversion.
+pdb2vol> 
+pdb2vol> The input structure measures 53.153 x 51.907 x 43.187 Angstrom
+pdb2vol> 
+pdb2vol> Please enter the desired voxel spacing for the output map (in Angstrom): pdb2vol> 
+pdb2vol> Kernel width. Please enter (in Angstrom):
+pdb2vol>      (as pos. value) kernel half-max radius or 
+pdb2vol>      (as neg. value) target resolution (2 sigma)
+pdb2vol> Now enter (signed) value: pdb2vol> 
+pdb2vol> Please select the type of smoothing kernel:
+pdb2vol> 
+pdb2vol>      1: Gaussian, exp(-1.5 r^2 / sigma^2)
+pdb2vol>         sigma =  5.202A, r-half =  3.536A, r-cut =  9.010A
+pdb2vol> 
+pdb2vol>      2: Triangular, max(0, 1 - 0.5 |r| / r-half) 
+pdb2vol>         sigma =  4.473A, r-half =  3.536A, r-cut =  7.072A
+pdb2vol> 
+pdb2vol>      3: Semi-Epanechnikov, max(0, 1 - 0.5 |r|^1.5 / r-half^1.5) 
+pdb2vol>         sigma =  3.618A, r-half =  3.536A, r-cut =  5.613A
+pdb2vol> 
+pdb2vol>      4: Epanechnikov, max(0, 1 - 0.5 r^2 / r-half^2) 
+pdb2vol>         sigma =  3.274A, r-half =  3.536A, r-cut =  5.001A
+pdb2vol> 
+pdb2vol>      5: Hard Sphere, max(0, 1 - 0.5 r^60 / r-half^60) 
+pdb2vol>         sigma =  2.728A, r-half =  3.536A, r-cut =  3.577A
+pdb2vol> pdb2vol> 
+pdb2vol> Do you want to correct for lattice interpolation smoothing effects?
+pdb2vol> 
+pdb2vol>      1: Yes (slightly lowers the kernel width to maintain target resolution) 
+pdb2vol>      2: No 
+pdb2vol> pdb2vol> 
+pdb2vol> Finally, please enter the desired kernel amplitude (scaling factor): pdb2vol> 
+pdb2vol> Projecting atoms to cubic lattice by trilinear interpolation... 
+pdb2vol> ... done. Lattice smoothing (sigma = atom rmsd):  2.502 Angstrom
+pdb2vol> 
+pdb2vol> Computing Hard Sphere kernel (no lattice correction) ... 
+pdb2vol> ... done. Kernel map extent 5 x 5 x 5 voxels 
+pdb2vol> 
+pdb2vol> Convolving lattice with kernel... 
+pdb2vol> ... done. Spatial resolution (2 sigma) of output map:  7.403A 
+pdb2vol> (slightly larger than target resolution due to uncorrected lattice smoothing)
+pdb2vol> 
+lib_vio> Writing density data... 
+lib_vio> Volumetric data written to file /Users/sjkim/Desktop/SAXS/SLAC_1115_2009/AbInitioShapes/24427/23922_merge_dammif_r.pdb.situs 
+lib_vio> File /Users/sjkim/Desktop/SAXS/SLAC_1115_2009/AbInitioShapes/24427/23922_merge_dammif_r.pdb.situs - Header information: 
+lib_vio> Columns, rows, and sections: x=1-25, y=1-25, z=1-22
+lib_vio> 3D coordinates of first voxel: (-7.072000,-42.432000,-24.752000)
+lib_vio> Voxel size in Angstrom: 3.536000 
+lib_pio> 2465 atoms read.
+pdb2vol> Found 0 hydrogens, 0 water atoms, 0 codebook vectors, 0 density atoms
+pdb2vol> Do you want to mass-weight the atoms ?
+pdb2vol> 
+pdb2vol>      1: No
+pdb2vol>      2: Yes
+pdb2vol> pdb2vol> Do you want to select atoms based on a B-factor threshold?
+pdb2vol> 
+pdb2vol>      1: No
+pdb2vol>      2: Yes
+pdb2vol> pdb2vol> 2465 out of 2465 atoms selected for conversion.
+pdb2vol> 
+pdb2vol> The input structure measures 51.402 x 44.261 x 42.925 Angstrom
+pdb2vol> 
+pdb2vol> Please enter the desired voxel spacing for the output map (in Angstrom): pdb2vol> 
+pdb2vol> Kernel width. Please enter (in Angstrom):
+pdb2vol>      (as pos. value) kernel half-max radius or 
+pdb2vol>      (as neg. value) target resolution (2 sigma)
+pdb2vol> Now enter (signed) value: pdb2vol> 
+pdb2vol> Please select the type of smoothing kernel:
+pdb2vol> 
+pdb2vol>      1: Gaussian, exp(-1.5 r^2 / sigma^2)
+pdb2vol>         sigma =  4.460A, r-half =  3.032A, r-cut =  7.725A
+pdb2vol> 
+pdb2vol>      2: Triangular, max(0, 1 - 0.5 |r| / r-half) 
+pdb2vol>         sigma =  3.835A, r-half =  3.032A, r-cut =  6.064A
+pdb2vol> 
+pdb2vol>      3: Semi-Epanechnikov, max(0, 1 - 0.5 |r|^1.5 / r-half^1.5) 
+pdb2vol>         sigma =  3.102A, r-half =  3.032A, r-cut =  4.813A
+pdb2vol> 
+pdb2vol>      4: Epanechnikov, max(0, 1 - 0.5 r^2 / r-half^2) 
+pdb2vol>         sigma =  2.807A, r-half =  3.032A, r-cut =  4.288A
+pdb2vol> 
+pdb2vol>      5: Hard Sphere, max(0, 1 - 0.5 r^60 / r-half^60) 
+pdb2vol>         sigma =  2.339A, r-half =  3.032A, r-cut =  3.067A
+pdb2vol> pdb2vol> 
+pdb2vol> Do you want to correct for lattice interpolation smoothing effects?
+pdb2vol> 
+pdb2vol>      1: Yes (slightly lowers the kernel width to maintain target resolution) 
+pdb2vol>      2: No 
+pdb2vol> pdb2vol> 
+pdb2vol> Finally, please enter the desired kernel amplitude (scaling factor): pdb2vol> 
+pdb2vol> Projecting atoms to cubic lattice by trilinear interpolation... 
+pdb2vol> ... done. Lattice smoothing (sigma = atom rmsd):  2.142 Angstrom
+pdb2vol> 
+pdb2vol> Computing Hard Sphere kernel (no lattice correction) ... 
+pdb2vol> ... done. Kernel map extent 5 x 5 x 5 voxels 
+pdb2vol> 
+pdb2vol> Convolving lattice with kernel... 
+pdb2vol> ... done. Spatial resolution (2 sigma) of output map:  6.343A 
+pdb2vol> (slightly larger than target resolution due to uncorrected lattice smoothing)
+pdb2vol> 
+lib_vio> Writing density data... 
+lib_vio> Volumetric data written to file /Users/sjkim/Desktop/SAXS/SLAC_1115_2009/AbInitioShapes/24427/23922_merge_gasbor_r.pdb.situs 
+lib_vio> File /Users/sjkim/Desktop/SAXS/SLAC_1115_2009/AbInitioShapes/24427/23922_merge_gasbor_r.pdb.situs - Header information: 
+lib_vio> Columns, rows, and sections: x=1-27, y=1-25, z=1-25
+lib_vio> 3D coordinates of first voxel: (-3.032000,-36.384000,-24.256000)
+lib_vio> Voxel size in Angstrom: 3.032000 
+lib_pio> 1385 atoms read.
+pdb2vol> Found 0 hydrogens, 0 water atoms, 0 codebook vectors, 0 density atoms
+pdb2vol> Do you want to mass-weight the atoms ?
+pdb2vol> 
+pdb2vol>      1: No
+pdb2vol>      2: Yes
+pdb2vol> pdb2vol> Do you want to select atoms based on a B-factor threshold?
+pdb2vol> 
+pdb2vol>      1: No
+pdb2vol>      2: Yes
+pdb2vol> pdb2vol> 1385 out of 1385 atoms selected for conversion.
+pdb2vol> 
+pdb2vol> The input structure measures 48.955 x 64.379 x 47.356 Angstrom
+pdb2vol> 
+pdb2vol> Please enter the desired voxel spacing for the output map (in Angstrom): pdb2vol> 
+pdb2vol> Kernel width. Please enter (in Angstrom):
+pdb2vol>      (as pos. value) kernel half-max radius or 
+pdb2vol>      (as neg. value) target resolution (2 sigma)
+pdb2vol> Now enter (signed) value: pdb2vol> 
+pdb2vol> Please select the type of smoothing kernel:
+pdb2vol> 
+pdb2vol>      1: Gaussian, exp(-1.5 r^2 / sigma^2)
+pdb2vol>         sigma =  5.955A, r-half =  4.048A, r-cut = 10.314A
+pdb2vol> 
+pdb2vol>      2: Triangular, max(0, 1 - 0.5 |r| / r-half) 
+pdb2vol>         sigma =  5.120A, r-half =  4.048A, r-cut =  8.096A
+pdb2vol> 
+pdb2vol>      3: Semi-Epanechnikov, max(0, 1 - 0.5 |r|^1.5 / r-half^1.5) 
+pdb2vol>         sigma =  4.141A, r-half =  4.048A, r-cut =  6.426A
+pdb2vol> 
+pdb2vol>      4: Epanechnikov, max(0, 1 - 0.5 r^2 / r-half^2) 
+pdb2vol>         sigma =  3.748A, r-half =  4.048A, r-cut =  5.725A
+pdb2vol> 
+pdb2vol>      5: Hard Sphere, max(0, 1 - 0.5 r^60 / r-half^60) 
+pdb2vol>         sigma =  3.123A, r-half =  4.048A, r-cut =  4.095A
+pdb2vol> pdb2vol> 
+pdb2vol> Do you want to correct for lattice interpolation smoothing effects?
+pdb2vol> 
+pdb2vol>      1: Yes (slightly lowers the kernel width to maintain target resolution) 
+pdb2vol>      2: No 
+pdb2vol> pdb2vol> 
+pdb2vol> Finally, please enter the desired kernel amplitude (scaling factor): pdb2vol> 
+pdb2vol> Projecting atoms to cubic lattice by trilinear interpolation... 
+pdb2vol> ... done. Lattice smoothing (sigma = atom rmsd):  2.857 Angstrom
+pdb2vol> 
+pdb2vol> Computing Hard Sphere kernel (no lattice correction) ... 
+pdb2vol> ... done. Kernel map extent 5 x 5 x 5 voxels 
+pdb2vol> 
+pdb2vol> Convolving lattice with kernel... 
+pdb2vol> ... done. Spatial resolution (2 sigma) of output map:  8.465A 
+pdb2vol> (slightly larger than target resolution due to uncorrected lattice smoothing)
+pdb2vol> 
+lib_vio> Writing density data... 
+lib_vio> Volumetric data written to file /Users/sjkim/Desktop/SAXS/SLAC_1115_2009/AbInitioShapes/24427/24427_merged_dammifr.pdb.situs 
+lib_vio> File /Users/sjkim/Desktop/SAXS/SLAC_1115_2009/AbInitioShapes/24427/24427_merged_dammifr.pdb.situs - Header information: 
+lib_vio> Columns, rows, and sections: x=1-22, y=1-26, z=1-21
+lib_vio> 3D coordinates of first voxel: (-4.048000,-48.576000,-28.336000)
+lib_vio> Voxel size in Angstrom: 4.048000 
+lib_pio> 2466 atoms read.
+pdb2vol> Found 0 hydrogens, 0 water atoms, 0 codebook vectors, 0 density atoms
+pdb2vol> Do you want to mass-weight the atoms ?
+pdb2vol> 
+pdb2vol>      1: No
+pdb2vol>      2: Yes
+pdb2vol> pdb2vol> Do you want to select atoms based on a B-factor threshold?
+pdb2vol> 
+pdb2vol>      1: No
+pdb2vol>      2: Yes
+pdb2vol> pdb2vol> 2466 out of 2466 atoms selected for conversion.
+pdb2vol> 
+pdb2vol> The input structure measures 54.241 x 45.895 x 41.510 Angstrom
+pdb2vol> 
+pdb2vol> Please enter the desired voxel spacing for the output map (in Angstrom): pdb2vol> 
+pdb2vol> Kernel width. Please enter (in Angstrom):
+pdb2vol>      (as pos. value) kernel half-max radius or 
+pdb2vol>      (as neg. value) target resolution (2 sigma)
+pdb2vol> Now enter (signed) value: pdb2vol> 
+pdb2vol> Please select the type of smoothing kernel:
+pdb2vol> 
+pdb2vol>      1: Gaussian, exp(-1.5 r^2 / sigma^2)
+pdb2vol>         sigma =  4.460A, r-half =  3.032A, r-cut =  7.725A
+pdb2vol> 
+pdb2vol>      2: Triangular, max(0, 1 - 0.5 |r| / r-half) 
+pdb2vol>         sigma =  3.835A, r-half =  3.032A, r-cut =  6.064A
+pdb2vol> 
+pdb2vol>      3: Semi-Epanechnikov, max(0, 1 - 0.5 |r|^1.5 / r-half^1.5) 
+pdb2vol>         sigma =  3.102A, r-half =  3.032A, r-cut =  4.813A
+pdb2vol> 
+pdb2vol>      4: Epanechnikov, max(0, 1 - 0.5 r^2 / r-half^2) 
+pdb2vol>         sigma =  2.807A, r-half =  3.032A, r-cut =  4.288A
+pdb2vol> 
+pdb2vol>      5: Hard Sphere, max(0, 1 - 0.5 r^60 / r-half^60) 
+pdb2vol>         sigma =  2.339A, r-half =  3.032A, r-cut =  3.067A
+pdb2vol> pdb2vol> 
+pdb2vol> Do you want to correct for lattice interpolation smoothing effects?
+pdb2vol> 
+pdb2vol>      1: Yes (slightly lowers the kernel width to maintain target resolution) 
+pdb2vol>      2: No 
+pdb2vol> pdb2vol> 
+pdb2vol> Finally, please enter the desired kernel amplitude (scaling factor): pdb2vol> 
+pdb2vol> Projecting atoms to cubic lattice by trilinear interpolation... 
+pdb2vol> ... done. Lattice smoothing (sigma = atom rmsd):  2.144 Angstrom
+pdb2vol> 
+pdb2vol> Computing Hard Sphere kernel (no lattice correction) ... 
+pdb2vol> ... done. Kernel map extent 5 x 5 x 5 voxels 
+pdb2vol> 
+pdb2vol> Convolving lattice with kernel... 
+pdb2vol> ... done. Spatial resolution (2 sigma) of output map:  6.345A 
+pdb2vol> (slightly larger than target resolution due to uncorrected lattice smoothing)
+pdb2vol> 
+lib_vio> Writing density data... 
+lib_vio> Volumetric data written to file /Users/sjkim/Desktop/SAXS/SLAC_1115_2009/AbInitioShapes/24427/24427_merged_gasborr.pdb.situs 
+lib_vio> File /Users/sjkim/Desktop/SAXS/SLAC_1115_2009/AbInitioShapes/24427/24427_merged_gasborr.pdb.situs - Header information: 
+lib_vio> Columns, rows, and sections: x=1-28, y=1-25, z=1-24
+lib_vio> 3D coordinates of first voxel: (-6.064000,-36.384000,-21.224000)
+lib_vio> Voxel size in Angstrom: 3.032000 

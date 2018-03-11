@@ -1,0 +1,1200 @@
+4196 atoms were read from PDB file 23902a.B99990001_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990001_MSE.pdb ../23902_merge_new2_q25.dat Chi = 5.32265 c1 = 1.03358 c2 = 0.275008 default chi = 8.6107
+4196 atoms were read from PDB file 23902a.B99990001.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990001.pdb ../23902_merge_new2_q25.dat Chi = 5.18254 c1 = 1.02635 c2 = 0.18592 default chi = 7.40081
+4196 atoms were read from PDB file 23902a.B99990002_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990002_MSE.pdb ../23902_merge_new2_q25.dat Chi = 3.6943 c1 = 1.00235 c2 = 1.91488 default chi = 7.16772
+4196 atoms were read from PDB file 23902a.B99990002.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990002.pdb ../23902_merge_new2_q25.dat Chi = 4.2858 c1 = 0.987136 c2 = 2.41024 default chi = 7.18974
+4196 atoms were read from PDB file 23902a.B99990003_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990003_MSE.pdb ../23902_merge_new2_q25.dat Chi = 10.0979 c1 = 0.964368 c2 = 3.37792 default chi = 11.7243
+4196 atoms were read from PDB file 23902a.B99990003.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990003.pdb ../23902_merge_new2_q25.dat Chi = 10.2889 c1 = 0.95 c2 = 3.65056 default chi = 11.8022
+4196 atoms were read from PDB file 23902a.B99990004_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990004_MSE.pdb ../23902_merge_new2_q25.dat Chi = 4.63216 c1 = 1.01962 c2 = 1.09581 default chi = 7.43108
+4196 atoms were read from PDB file 23902a.B99990004.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990004.pdb ../23902_merge_new2_q25.dat Chi = 5.02786 c1 = 1.00488 c2 = 1.3072 default chi = 6.76482
+4196 atoms were read from PDB file 23902a.B99990005_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990005_MSE.pdb ../23902_merge_new2_q25.dat Chi = 7.36801 c1 = 1.01686 c2 = 0.779776 default chi = 8.68413
+4196 atoms were read from PDB file 23902a.B99990005.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990005.pdb ../23902_merge_new2_q25.dat Chi = 8.06078 c1 = 0.99688 c2 = 1.1872 default chi = 8.81836
+4196 atoms were read from PDB file 23902a.B99990006_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990006_MSE.pdb ../23902_merge_new2_q25.dat Chi = 8.00817 c1 = 1.01203 c2 = 0.80512 default chi = 8.89347
+4196 atoms were read from PDB file 23902a.B99990006.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990006.pdb ../23902_merge_new2_q25.dat Chi = 8.30142 c1 = 1.00032 c2 = 0.974848 default chi = 8.85991
+4196 atoms were read from PDB file 23902a.B99990007_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990007_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.1572 c1 = 1.00274 c2 = 0.85888 default chi = 6.8573
+4196 atoms were read from PDB file 23902a.B99990007.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990007.pdb ../23902_merge_new2_q25.dat Chi = 6.33355 c1 = 0.98912 c2 = 1.0528 default chi = 6.77943
+4196 atoms were read from PDB file 23902a.B99990008_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990008_MSE.pdb ../23902_merge_new2_q25.dat Chi = 7.04924 c1 = 0.968896 c2 = 2.82784 default chi = 8.96891
+4196 atoms were read from PDB file 23902a.B99990008.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990008.pdb ../23902_merge_new2_q25.dat Chi = 7.54612 c1 = 0.95 c2 = 3.3088 default chi = 9.51131
+4196 atoms were read from PDB file 23902a.B99990009_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990009_MSE.pdb ../23902_merge_new2_q25.dat Chi = 8.50618 c1 = 0.95 c2 = 4 default chi = 12.2587
+4196 atoms were read from PDB file 23902a.B99990009.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990009.pdb ../23902_merge_new2_q25.dat Chi = 8.90649 c1 = 0.95 c2 = 4 default chi = 12.7042
+4196 atoms were read from PDB file 23902a.B99990010_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990010_MSE.pdb ../23902_merge_new2_q25.dat Chi = 5.62738 c1 = 1.02044 c2 = 0.928768 default chi = 8.11517
+4196 atoms were read from PDB file 23902a.B99990010.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990010.pdb ../23902_merge_new2_q25.dat Chi = 5.95392 c1 = 1.0118 c2 = 0.868864 default chi = 7.43707
+4196 atoms were read from PDB file 23902a.B99990011_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990011_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.86183 c1 = 1.00688 c2 = 1.7872 default chi = 9.34269
+4196 atoms were read from PDB file 23902a.B99990011.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990011.pdb ../23902_merge_new2_q25.dat Chi = 7.37455 c1 = 0.99648 c2 = 2.0512 default chi = 9.39492
+4196 atoms were read from PDB file 23902a.B99990012_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990012_MSE.pdb ../23902_merge_new2_q25.dat Chi = 10.1469 c1 = 1.00701 c2 = 1.98112 default chi = 12.0806
+4196 atoms were read from PDB file 23902a.B99990012.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990012.pdb ../23902_merge_new2_q25.dat Chi = 10.7766 c1 = 0.98152 c2 = 3.1744 default chi = 12.4963
+4196 atoms were read from PDB file 23902a.B99990013_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990013_MSE.pdb ../23902_merge_new2_q25.dat Chi = 5.2229 c1 = 1.03057 c2 = 0.371776 default chi = 8.2034
+4196 atoms were read from PDB file 23902a.B99990013.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990013.pdb ../23902_merge_new2_q25.dat Chi = 6.0492 c1 = 1.02121 c2 = 0.480448 default chi = 7.82908
+4196 atoms were read from PDB file 23902a.B99990014_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990014_MSE.pdb ../23902_merge_new2_q25.dat Chi = 9.24678 c1 = 0.96312 c2 = 4 default chi = 11.7333
+4196 atoms were read from PDB file 23902a.B99990014.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990014.pdb ../23902_merge_new2_q25.dat Chi = 9.58408 c1 = 0.95 c2 = 4 default chi = 12.1974
+4196 atoms were read from PDB file 23902a.B99990015_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990015_MSE.pdb ../23902_merge_new2_q25.dat Chi = 5.1658 c1 = 1.02299 c2 = 0.76288 default chi = 7.78932
+4196 atoms were read from PDB file 23902a.B99990015.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990015.pdb ../23902_merge_new2_q25.dat Chi = 6.11652 c1 = 1.00501 c2 = 1.33792 default chi = 7.69736
+4196 atoms were read from PDB file 23902a.B99990016_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990016_MSE.pdb ../23902_merge_new2_q25.dat Chi = 8.43315 c1 = 1.00472 c2 = 1.63437 default chi = 10.0926
+4196 atoms were read from PDB file 23902a.B99990016.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990016.pdb ../23902_merge_new2_q25.dat Chi = 8.99301 c1 = 0.9688 c2 = 2.872 default chi = 10.4546
+4196 atoms were read from PDB file 23902a.B99990017_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990017_MSE.pdb ../23902_merge_new2_q25.dat Chi = 5.37717 c1 = 0.996787 c2 = 1.42355 default chi = 6.75149
+4196 atoms were read from PDB file 23902a.B99990017.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990017.pdb ../23902_merge_new2_q25.dat Chi = 5.77622 c1 = 0.97416 c2 = 1.8928 default chi = 6.79413
+4196 atoms were read from PDB file 23902a.B99990018_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990018_MSE.pdb ../23902_merge_new2_q25.dat Chi = 7.30287 c1 = 0.98512 c2 = 2.3488 default chi = 9.14459
+4196 atoms were read from PDB file 23902a.B99990018.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990018.pdb ../23902_merge_new2_q25.dat Chi = 7.76307 c1 = 0.95 c2 = 3.44512 default chi = 9.62472
+4196 atoms were read from PDB file 23902a.B99990019_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990019_MSE.pdb ../23902_merge_new2_q25.dat Chi = 3.08414 c1 = 1.01665 c2 = 1.15341 default chi = 6.22573
+4196 atoms were read from PDB file 23902a.B99990019.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990019.pdb ../23902_merge_new2_q25.dat Chi = 3.75297 c1 = 1.00592 c2 = 1.36595 default chi = 5.9209
+4196 atoms were read from PDB file 23902a.B99990020_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990020_MSE.pdb ../23902_merge_new2_q25.dat Chi = 4.24856 c1 = 1.0177 c2 = 0.665152 default chi = 6.30249
+4196 atoms were read from PDB file 23902a.B99990020.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990020.pdb ../23902_merge_new2_q25.dat Chi = 4.6251 c1 = 1.00811 c2 = 0.69952 default chi = 5.76573
+4196 atoms were read from PDB file 23902a.B99990021_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990021_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.18415 c1 = 1.00151 c2 = 2.32038 default chi = 8.88734
+4196 atoms were read from PDB file 23902a.B99990021.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990021.pdb ../23902_merge_new2_q25.dat Chi = 6.48452 c1 = 0.986304 c2 = 2.73952 default chi = 8.7049
+4196 atoms were read from PDB file 23902a.B99990022_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990022_MSE.pdb ../23902_merge_new2_q25.dat Chi = 3.68424 c1 = 0.95 c2 = 4 default chi = 8.1263
+4196 atoms were read from PDB file 23902a.B99990022.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990022.pdb ../23902_merge_new2_q25.dat Chi = 4.29974 c1 = 0.95 c2 = 3.68512 default chi = 8.44649
+4196 atoms were read from PDB file 23902a.B99990023_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990023_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.62043 c1 = 1.01032 c2 = 0.965632 default chi = 8.03582
+4196 atoms were read from PDB file 23902a.B99990023.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990023.pdb ../23902_merge_new2_q25.dat Chi = 7.72875 c1 = 0.98448 c2 = 1.7872 default chi = 8.78511
+4196 atoms were read from PDB file 23902a.B99990024_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990024_MSE.pdb ../23902_merge_new2_q25.dat Chi = 5.96436 c1 = 1.02312 c2 = 0.7168 default chi = 8.39537
+4196 atoms were read from PDB file 23902a.B99990024.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990024.pdb ../23902_merge_new2_q25.dat Chi = 6.50537 c1 = 1.0156 c2 = 0.702592 default chi = 8.01906
+4196 atoms were read from PDB file 23902a.B99990025_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990025_MSE.pdb ../23902_merge_new2_q25.dat Chi = 8.26365 c1 = 0.9576 c2 = 3.784 default chi = 10.5689
+4196 atoms were read from PDB file 23902a.B99990025.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990025.pdb ../23902_merge_new2_q25.dat Chi = 8.4737 c1 = 0.95 c2 = 3.736 default chi = 10.4231
+4196 atoms were read from PDB file 23902a.B99990026_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990026_MSE.pdb ../23902_merge_new2_q25.dat Chi = 7.76971 c1 = 0.97816 c2 = 3.904 default chi = 10.9062
+4196 atoms were read from PDB file 23902a.B99990026.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990026.pdb ../23902_merge_new2_q25.dat Chi = 8.39241 c1 = 0.962992 c2 = 4 default chi = 11.4303
+4196 atoms were read from PDB file 23902a.B99990027_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990027_MSE.pdb ../23902_merge_new2_q25.dat Chi = 4.82534 c1 = 1.02075 c2 = 1.25248 default chi = 8.45419
+4196 atoms were read from PDB file 23902a.B99990027.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990027.pdb ../23902_merge_new2_q25.dat Chi = 5.74106 c1 = 0.999363 c2 = 1.99821 default chi = 8.34826
+4196 atoms were read from PDB file 23902a.B99990028_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990028_MSE.pdb ../23902_merge_new2_q25.dat Chi = 5.10121 c1 = 1.0216 c2 = 1.19258 default chi = 8.54538
+4196 atoms were read from PDB file 23902a.B99990028.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990028.pdb ../23902_merge_new2_q25.dat Chi = 6.08761 c1 = 1.00475 c2 = 1.96864 default chi = 8.72372
+4196 atoms were read from PDB file 23902a.B99990029_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990029_MSE.pdb ../23902_merge_new2_q25.dat Chi = 5.46606 c1 = 0.967248 c2 = 3.68608 default chi = 8.28907
+4196 atoms were read from PDB file 23902a.B99990029.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990029.pdb ../23902_merge_new2_q25.dat Chi = 5.91597 c1 = 0.95 c2 = 4 default chi = 8.85023
+4196 atoms were read from PDB file 23902a.B99990030_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990030_MSE.pdb ../23902_merge_new2_q25.dat Chi = 4.64889 c1 = 1.0072 c2 = 1.528 default chi = 7.51576
+4196 atoms were read from PDB file 23902a.B99990030.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990030.pdb ../23902_merge_new2_q25.dat Chi = 5.10893 c1 = 0.991712 c2 = 1.9287 default chi = 7.27626
+4196 atoms were read from PDB file 23902a.B99990031_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990031_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.18838 c1 = 0.95 c2 = 3.4912 default chi = 8.34944
+4196 atoms were read from PDB file 23902a.B99990031.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990031.pdb ../23902_merge_new2_q25.dat Chi = 6.60519 c1 = 0.95 c2 = 3.3088 default chi = 9.13586
+4196 atoms were read from PDB file 23902a.B99990032_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990032_MSE.pdb ../23902_merge_new2_q25.dat Chi = 10.0435 c1 = 0.95504 c2 = 4 default chi = 12.8345
+4196 atoms were read from PDB file 23902a.B99990032.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990032.pdb ../23902_merge_new2_q25.dat Chi = 10.3602 c1 = 0.95 c2 = 4 default chi = 13.0994
+4196 atoms were read from PDB file 23902a.B99990033_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990033_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.8571 c1 = 1.00744 c2 = 2.11341 default chi = 9.63518
+4196 atoms were read from PDB file 23902a.B99990033.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990033.pdb ../23902_merge_new2_q25.dat Chi = 7.57091 c1 = 0.967712 c2 = 3.59488 default chi = 9.88464
+4196 atoms were read from PDB file 23902a.B99990034_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990034_MSE.pdb ../23902_merge_new2_q25.dat Chi = 5.62799 c1 = 0.9772 c2 = 2.728 default chi = 7.91504
+4196 atoms were read from PDB file 23902a.B99990034.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990034.pdb ../23902_merge_new2_q25.dat Chi = 6.24402 c1 = 0.95 c2 = 3.568 default chi = 8.61053
+4196 atoms were read from PDB file 23902a.B99990035_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990035_MSE.pdb ../23902_merge_new2_q25.dat Chi = 2.97831 c1 = 1.0178 c2 = 0.252122 default chi = 4.36086
+4196 atoms were read from PDB file 23902a.B99990035.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990035.pdb ../23902_merge_new2_q25.dat Chi = 3.54849 c1 = 1.00234 c2 = 0.538048 default chi = 4.11528
+4196 atoms were read from PDB file 23902a.B99990036_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990036_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.98745 c1 = 1.01392 c2 = 1.5088 default chi = 9.20946
+4196 atoms were read from PDB file 23902a.B99990036.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990036.pdb ../23902_merge_new2_q25.dat Chi = 7.63592 c1 = 0.99488 c2 = 2.1472 default chi = 9.3376
+4196 atoms were read from PDB file 23902a.B99990037_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990037_MSE.pdb ../23902_merge_new2_q25.dat Chi = 4.16664 c1 = 1.0238 c2 = 0.247821 default chi = 6.25459
+4196 atoms were read from PDB file 23902a.B99990037.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990037.pdb ../23902_merge_new2_q25.dat Chi = 5.52117 c1 = 1.01454 c2 = 0.434368 default chi = 6.47304
+4196 atoms were read from PDB file 23902a.B99990038_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990038_MSE.pdb ../23902_merge_new2_q25.dat Chi = 8.23028 c1 = 0.95 c2 = 3.9136 default chi = 10.6409
+4196 atoms were read from PDB file 23902a.B99990038.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990038.pdb ../23902_merge_new2_q25.dat Chi = 8.55431 c1 = 0.95 c2 = 3.59488 default chi = 10.9571
+4196 atoms were read from PDB file 23902a.B99990039_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990039_MSE.pdb ../23902_merge_new2_q25.dat Chi = 4.72575 c1 = 0.95784 c2 = 4 default chi = 7.82017
+4196 atoms were read from PDB file 23902a.B99990039.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990039.pdb ../23902_merge_new2_q25.dat Chi = 5.30309 c1 = 0.95 c2 = 4 default chi = 8.43547
+4196 atoms were read from PDB file 23902a.B99990040_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990040_MSE.pdb ../23902_merge_new2_q25.dat Chi = 5.23591 c1 = 1.0128 c2 = 2.296 default chi = 9.56614
+4196 atoms were read from PDB file 23902a.B99990040.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990040.pdb ../23902_merge_new2_q25.dat Chi = 6.11878 c1 = 0.99152 c2 = 3.4528 default chi = 9.69317
+4196 atoms were read from PDB file 23902a.B99990041_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990041_MSE.pdb ../23902_merge_new2_q25.dat Chi = 4.91725 c1 = 1.00701 c2 = 0.99712 default chi = 6.30334
+4196 atoms were read from PDB file 23902a.B99990041.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990041.pdb ../23902_merge_new2_q25.dat Chi = 5.64162 c1 = 0.97664 c2 = 1.9072 default chi = 6.88658
+4196 atoms were read from PDB file 23902a.B99990042_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990042_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.01154 c1 = 1.00701 c2 = 1.96192 default chi = 8.9893
+4196 atoms were read from PDB file 23902a.B99990042.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990042.pdb ../23902_merge_new2_q25.dat Chi = 6.34253 c1 = 0.997904 c2 = 2.14336 default chi = 8.75722
+4196 atoms were read from PDB file 23902a.B99990043_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990043_MSE.pdb ../23902_merge_new2_q25.dat Chi = 4.96951 c1 = 1.02516 c2 = 0.211264 default chi = 6.76582
+4196 atoms were read from PDB file 23902a.B99990043.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990043.pdb ../23902_merge_new2_q25.dat Chi = 6.00122 c1 = 1.01315 c2 = 0.409024 default chi = 6.75434
+4196 atoms were read from PDB file 23902a.B99990044_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990044_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.81506 c1 = 0.974496 c2 = 2.07424 default chi = 8.05965
+4196 atoms were read from PDB file 23902a.B99990044.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990044.pdb ../23902_merge_new2_q25.dat Chi = 7.2563 c1 = 0.95 c2 = 2.60512 default chi = 8.57567
+4196 atoms were read from PDB file 23902a.B99990045_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990045_MSE.pdb ../23902_merge_new2_q25.dat Chi = 5.71645 c1 = 1.01894 c2 = 1.23059 default chi = 8.58411
+4196 atoms were read from PDB file 23902a.B99990045.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990045.pdb ../23902_merge_new2_q25.dat Chi = 6.52781 c1 = 1.00235 c2 = 1.78048 default chi = 8.53048
+4196 atoms were read from PDB file 23902a.B99990046_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990046_MSE.pdb ../23902_merge_new2_q25.dat Chi = 4.41598 c1 = 1.02525 c2 = -0.00127993 default chi = 6.02415
+4196 atoms were read from PDB file 23902a.B99990046.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990046.pdb ../23902_merge_new2_q25.dat Chi = 4.99271 c1 = 1.02005 c2 = -0.0435199 default chi = 5.8895
+4196 atoms were read from PDB file 23902a.B99990047_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990047_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.71683 c1 = 0.976112 c2 = 3.01024 default chi = 8.85761
+4196 atoms were read from PDB file 23902a.B99990047.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990047.pdb ../23902_merge_new2_q25.dat Chi = 6.95494 c1 = 0.95 c2 = 3.736 default chi = 8.96377
+4196 atoms were read from PDB file 23902a.B99990048_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990048_MSE.pdb ../23902_merge_new2_q25.dat Chi = 5.14524 c1 = 1.0234 c2 = 0.618266 default chi = 7.28174
+4196 atoms were read from PDB file 23902a.B99990048.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990048.pdb ../23902_merge_new2_q25.dat Chi = 5.17546 c1 = 1.01584 c2 = 0.559552 default chi = 6.51794
+4196 atoms were read from PDB file 23902a.B99990049_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990049_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.14084 c1 = 1.01688 c2 = 0.9472 default chi = 8.01562
+4196 atoms were read from PDB file 23902a.B99990049.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990049.pdb ../23902_merge_new2_q25.dat Chi = 7.38993 c1 = 1.0036 c2 = 1.22483 default chi = 8.56135
+4196 atoms were read from PDB file 23902a.B99990050_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990050_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.80136 c1 = 1.00248 c2 = 1.8112 default chi = 8.70101
+4196 atoms were read from PDB file 23902a.B99990050.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990050.pdb ../23902_merge_new2_q25.dat Chi = 7.23492 c1 = 0.9768 c2 = 2.632 default chi = 8.79181
+4196 atoms were read from PDB file 23902a.B99990051_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990051_MSE.pdb ../23902_merge_new2_q25.dat Chi = 5.25467 c1 = 1.01625 c2 = 0.721024 default chi = 6.94547
+4196 atoms were read from PDB file 23902a.B99990051.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990051.pdb ../23902_merge_new2_q25.dat Chi = 5.77887 c1 = 1.01 c2 = 0.668992 default chi = 6.7715
+4196 atoms were read from PDB file 23902a.B99990052_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990052_MSE.pdb ../23902_merge_new2_q25.dat Chi = 7.11922 c1 = 0.98512 c2 = 2.9488 default chi = 9.46459
+4196 atoms were read from PDB file 23902a.B99990052.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990052.pdb ../23902_merge_new2_q25.dat Chi = 7.30464 c1 = 0.96832 c2 = 3.4048 default chi = 9.22728
+4196 atoms were read from PDB file 23902a.B99990053_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990053_MSE.pdb ../23902_merge_new2_q25.dat Chi = 5.84784 c1 = 1.02096 c2 = 0.605632 default chi = 7.63723
+4196 atoms were read from PDB file 23902a.B99990053.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990053.pdb ../23902_merge_new2_q25.dat Chi = 6.72078 c1 = 1.00925 c2 = 0.84352 default chi = 7.72166
+4196 atoms were read from PDB file 23902a.B99990054_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990054_MSE.pdb ../23902_merge_new2_q25.dat Chi = 11.0451 c1 = 1.00139 c2 = 2.41888 default chi = 12.9389
+4196 atoms were read from PDB file 23902a.B99990054.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990054.pdb ../23902_merge_new2_q25.dat Chi = 11.6307 c1 = 0.96488 c2 = 4 default chi = 13.2779
+4196 atoms were read from PDB file 23902a.B99990055_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990055_MSE.pdb ../23902_merge_new2_q25.dat Chi = 9.2413 c1 = 1.00938 c2 = 1.31584 default chi = 10.5145
+4196 atoms were read from PDB file 23902a.B99990055.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990055.pdb ../23902_merge_new2_q25.dat Chi = 9.78873 c1 = 0.99 c2 = 1.8688 default chi = 10.8254
+4196 atoms were read from PDB file 23902a.B99990056_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990056_MSE.pdb ../23902_merge_new2_q25.dat Chi = 2.94925 c1 = 1.03116 c2 = 0.230003 default chi = 6.66414
+4196 atoms were read from PDB file 23902a.B99990056.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990056.pdb ../23902_merge_new2_q25.dat Chi = 4.01518 c1 = 1.0234 c2 = 0.291904 default chi = 6.24438
+4196 atoms were read from PDB file 23902a.B99990057_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990057_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.83063 c1 = 1.0079 c2 = 1.26976 default chi = 8.56169
+4196 atoms were read from PDB file 23902a.B99990057.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990057.pdb ../23902_merge_new2_q25.dat Chi = 7.74893 c1 = 0.98168 c2 = 2.1952 default chi = 9.19177
+4196 atoms were read from PDB file 23902a.B99990058_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990058_MSE.pdb ../23902_merge_new2_q25.dat Chi = 7.03032 c1 = 0.967008 c2 = 4 default chi = 10.5491
+4196 atoms were read from PDB file 23902a.B99990058.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990058.pdb ../23902_merge_new2_q25.dat Chi = 7.01506 c1 = 0.959325 c2 = 4 default chi = 9.99694
+4196 atoms were read from PDB file 23902a.B99990059_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990059_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.72509 c1 = 0.9932 c2 = 2.368 default chi = 8.89163
+4196 atoms were read from PDB file 23902a.B99990059.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990059.pdb ../23902_merge_new2_q25.dat Chi = 7.25017 c1 = 0.9524 c2 = 4 default chi = 9.39645
+4196 atoms were read from PDB file 23902a.B99990060_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990060_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.26166 c1 = 1.00932 c2 = 0.785152 default chi = 7.14848
+4196 atoms were read from PDB file 23902a.B99990060.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990060.pdb ../23902_merge_new2_q25.dat Chi = 6.90368 c1 = 0.999402 c2 = 0.890675 default chi = 7.42423
+4196 atoms were read from PDB file 23902a.B99990061_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990061_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.78017 c1 = 0.968272 c2 = 2.56672 default chi = 8.35235
+4196 atoms were read from PDB file 23902a.B99990061.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990061.pdb ../23902_merge_new2_q25.dat Chi = 7.1071 c1 = 0.95 c2 = 2.9488 default chi = 8.98021
+4196 atoms were read from PDB file 23902a.B99990062_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990062_MSE.pdb ../23902_merge_new2_q25.dat Chi = 1.61165 c1 = 1.01988 c2 = 0.782848 default chi = 5.80162
+4196 atoms were read from PDB file 23902a.B99990062.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990062.pdb ../23902_merge_new2_q25.dat Chi = 2.00754 c1 = 1.00904 c2 = 1.04205 default chi = 5.12329
+4196 atoms were read from PDB file 23902a.B99990063_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990063_MSE.pdb ../23902_merge_new2_q25.dat Chi = 7.99413 c1 = 1.00032 c2 = 2.42099 default chi = 10.4602
+4196 atoms were read from PDB file 23902a.B99990063.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990063.pdb ../23902_merge_new2_q25.dat Chi = 8.40574 c1 = 0.97792 c2 = 3.1072 default chi = 10.4113
+4196 atoms were read from PDB file 23902a.B99990064_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990064_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.78298 c1 = 0.97752 c2 = 2.8528 default chi = 9.02398
+4196 atoms were read from PDB file 23902a.B99990064.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990064.pdb ../23902_merge_new2_q25.dat Chi = 7.32784 c1 = 0.95 c2 = 3.62176 default chi = 9.377
+4196 atoms were read from PDB file 23902a.B99990065_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990065_MSE.pdb ../23902_merge_new2_q25.dat Chi = 2.25255 c1 = 1.02574 c2 = -0.00696312 default chi = 4.63001
+4196 atoms were read from PDB file 23902a.B99990065.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990065.pdb ../23902_merge_new2_q25.dat Chi = 2.43919 c1 = 1.01597 c2 = 0.0995201 default chi = 3.64
+4196 atoms were read from PDB file 23902a.B99990066_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990066_MSE.pdb ../23902_merge_new2_q25.dat Chi = 5.0412 c1 = 1.00459 c2 = 0.76288 default chi = 5.82515
+4196 atoms were read from PDB file 23902a.B99990066.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990066.pdb ../23902_merge_new2_q25.dat Chi = 5.39482 c1 = 0.991392 c2 = 0.95488 default chi = 5.84269
+4196 atoms were read from PDB file 23902a.B99990067_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990067_MSE.pdb ../23902_merge_new2_q25.dat Chi = 4.9433 c1 = 0.982 c2 = 2.68 default chi = 7.46717
+4196 atoms were read from PDB file 23902a.B99990067.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990067.pdb ../23902_merge_new2_q25.dat Chi = 5.46032 c1 = 0.95 c2 = 4 default chi = 7.871
+4196 atoms were read from PDB file 23902a.B99990068_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990068_MSE.pdb ../23902_merge_new2_q25.dat Chi = 8.76962 c1 = 0.994432 c2 = 1.94944 default chi = 10.0999
+4196 atoms were read from PDB file 23902a.B99990068.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990068.pdb ../23902_merge_new2_q25.dat Chi = 9.25924 c1 = 0.9672 c2 = 2.728 default chi = 10.3943
+4196 atoms were read from PDB file 23902a.B99990069_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990069_MSE.pdb ../23902_merge_new2_q25.dat Chi = 8.03785 c1 = 1.01531 c2 = 1.71424 default chi = 10.7826
+4196 atoms were read from PDB file 23902a.B99990069.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990069.pdb ../23902_merge_new2_q25.dat Chi = 8.89192 c1 = 0.9888 c2 = 2.872 default chi = 11.015
+4196 atoms were read from PDB file 23902a.B99990070_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990070_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.55291 c1 = 1.00992 c2 = 1.1488 default chi = 7.97258
+4196 atoms were read from PDB file 23902a.B99990070.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990070.pdb ../23902_merge_new2_q25.dat Chi = 6.85043 c1 = 1.00408 c2 = 1.0528 default chi = 7.75857
+4196 atoms were read from PDB file 23902a.B99990071_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990071_MSE.pdb ../23902_merge_new2_q25.dat Chi = 7.99827 c1 = 1.01804 c2 = 1.47117 default chi = 10.6494
+4196 atoms were read from PDB file 23902a.B99990071.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990071.pdb ../23902_merge_new2_q25.dat Chi = 9.13172 c1 = 0.98688 c2 = 2.7472 default chi = 11.1477
+4196 atoms were read from PDB file 23902a.B99990072_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990072_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.68724 c1 = 0.99448 c2 = 1.8352 default chi = 8.27417
+4196 atoms were read from PDB file 23902a.B99990072.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990072.pdb ../23902_merge_new2_q25.dat Chi = 7.71302 c1 = 0.95 c2 = 3.52192 default chi = 9.38399
+4196 atoms were read from PDB file 23902a.B99990073_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990073_MSE.pdb ../23902_merge_new2_q25.dat Chi = 8.50908 c1 = 0.995008 c2 = 2.79712 default chi = 11.0965
+4196 atoms were read from PDB file 23902a.B99990073.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990073.pdb ../23902_merge_new2_q25.dat Chi = 8.68581 c1 = 0.985504 c2 = 3.01216 default chi = 10.9197
+4196 atoms were read from PDB file 23902a.B99990074_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990074_MSE.pdb ../23902_merge_new2_q25.dat Chi = 3.90226 c1 = 1.0234 c2 = 0.396122 default chi = 6.01078
+4196 atoms were read from PDB file 23902a.B99990074.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990074.pdb ../23902_merge_new2_q25.dat Chi = 5.09438 c1 = 0.995152 c2 = 1.23712 default chi = 6.16327
+4196 atoms were read from PDB file 23902a.B99990075_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990075_MSE.pdb ../23902_merge_new2_q25.dat Chi = 7.73066 c1 = 1.0247 c2 = 0.775552 default chi = 9.85728
+4196 atoms were read from PDB file 23902a.B99990075.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990075.pdb ../23902_merge_new2_q25.dat Chi = 7.82895 c1 = 1.02279 c2 = 0.501952 default chi = 9.43182
+4196 atoms were read from PDB file 23902a.B99990076_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990076_MSE.pdb ../23902_merge_new2_q25.dat Chi = 3.60981 c1 = 0.9676 c2 = 2.51488 default chi = 5.91607
+4196 atoms were read from PDB file 23902a.B99990076.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990076.pdb ../23902_merge_new2_q25.dat Chi = 3.75958 c1 = 0.9512 c2 = 2.84512 default chi = 5.8707
+4196 atoms were read from PDB file 23902a.B99990077_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990077_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.18404 c1 = 0.998032 c2 = 2.35648 default chi = 9.0536
+4196 atoms were read from PDB file 23902a.B99990077.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990077.pdb ../23902_merge_new2_q25.dat Chi = 6.76078 c1 = 0.961264 c2 = 3.76288 default chi = 9.2344
+4196 atoms were read from PDB file 23902a.B99990078_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990078_MSE.pdb ../23902_merge_new2_q25.dat Chi = 5.86611 c1 = 1.01037 c2 = 1.72192 default chi = 8.62638
+4196 atoms were read from PDB file 23902a.B99990078.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990078.pdb ../23902_merge_new2_q25.dat Chi = 6.26871 c1 = 0.97928 c2 = 2.9872 default chi = 8.507
+4196 atoms were read from PDB file 23902a.B99990079_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990079_MSE.pdb ../23902_merge_new2_q25.dat Chi = 8.15227 c1 = 1.01088 c2 = 1.6432 default chi = 10.2949
+4196 atoms were read from PDB file 23902a.B99990079.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990079.pdb ../23902_merge_new2_q25.dat Chi = 8.73854 c1 = 0.993792 c2 = 2.15488 default chi = 10.3886
+4196 atoms were read from PDB file 23902a.B99990080_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990080_MSE.pdb ../23902_merge_new2_q25.dat Chi = 9.30938 c1 = 0.96032 c2 = 3.8272 default chi = 11.4101
+4196 atoms were read from PDB file 23902a.B99990080.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990080.pdb ../23902_merge_new2_q25.dat Chi = 9.71866 c1 = 0.95 c2 = 3.9136 default chi = 11.7944
+4196 atoms were read from PDB file 23902a.B99990081_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990081_MSE.pdb ../23902_merge_new2_q25.dat Chi = 7.93469 c1 = 0.98072 c2 = 2.82976 default chi = 10.2475
+4196 atoms were read from PDB file 23902a.B99990081.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990081.pdb ../23902_merge_new2_q25.dat Chi = 8.60332 c1 = 0.95 c2 = 4 default chi = 10.8601
+4196 atoms were read from PDB file 23902a.B99990082_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990082_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.51128 c1 = 1.00829 c2 = 0.80512 default chi = 7.42319
+4196 atoms were read from PDB file 23902a.B99990082.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990082.pdb ../23902_merge_new2_q25.dat Chi = 7.5803 c1 = 0.99072 c2 = 1.0912 default chi = 8.15309
+4196 atoms were read from PDB file 23902a.B99990083_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990083_MSE.pdb ../23902_merge_new2_q25.dat Chi = 5.12434 c1 = 0.991776 c2 = 2.69344 default chi = 8.22416
+4196 atoms were read from PDB file 23902a.B99990083.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990083.pdb ../23902_merge_new2_q25.dat Chi = 5.75861 c1 = 0.97408 c2 = 3.2512 default chi = 8.27628
+4196 atoms were read from PDB file 23902a.B99990084_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990084_MSE.pdb ../23902_merge_new2_q25.dat Chi = 8.1443 c1 = 0.989856 c2 = 2.41024 default chi = 10.0084
+4196 atoms were read from PDB file 23902a.B99990084.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990084.pdb ../23902_merge_new2_q25.dat Chi = 8.75122 c1 = 0.95 c2 = 3.784 default chi = 10.6529
+4196 atoms were read from PDB file 23902a.B99990085_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990085_MSE.pdb ../23902_merge_new2_q25.dat Chi = 5.51431 c1 = 0.962992 c2 = 4 default chi = 9.04353
+4196 atoms were read from PDB file 23902a.B99990085.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990085.pdb ../23902_merge_new2_q25.dat Chi = 6.08999 c1 = 0.95 c2 = 4 default chi = 9.63182
+4196 atoms were read from PDB file 23902a.B99990086_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990086_MSE.pdb ../23902_merge_new2_q25.dat Chi = 8.62912 c1 = 0.9588 c2 = 4 default chi = 11.0127
+4196 atoms were read from PDB file 23902a.B99990086.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990086.pdb ../23902_merge_new2_q25.dat Chi = 8.98647 c1 = 0.95 c2 = 4 default chi = 11.3381
+4196 atoms were read from PDB file 23902a.B99990087_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990087_MSE.pdb ../23902_merge_new2_q25.dat Chi = 8.45148 c1 = 0.9928 c2 = 2.272 default chi = 10.3469
+4196 atoms were read from PDB file 23902a.B99990087.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990087.pdb ../23902_merge_new2_q25.dat Chi = 9.06031 c1 = 0.95 c2 = 3.6928 default chi = 10.7993
+4196 atoms were read from PDB file 23902a.B99990088_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990088_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.17947 c1 = 0.991392 c2 = 2.39488 default chi = 8.57152
+4196 atoms were read from PDB file 23902a.B99990088.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990088.pdb ../23902_merge_new2_q25.dat Chi = 6.06363 c1 = 0.99488 c2 = 1.9072 default chi = 7.96898
+4196 atoms were read from PDB file 23902a.B99990089_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990089_MSE.pdb ../23902_merge_new2_q25.dat Chi = 4.14858 c1 = 1.01139 c2 = 1.04512 default chi = 6.22401
+4196 atoms were read from PDB file 23902a.B99990089.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990089.pdb ../23902_merge_new2_q25.dat Chi = 4.42451 c1 = 0.999216 c2 = 1.20671 default chi = 5.80992
+4196 atoms were read from PDB file 23902a.B99990090_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990090_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.45245 c1 = 0.98544 c2 = 3.0736 default chi = 9.35395
+4196 atoms were read from PDB file 23902a.B99990090.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990090.pdb ../23902_merge_new2_q25.dat Chi = 6.93724 c1 = 0.95944 c2 = 4 default chi = 9.68
+4196 atoms were read from PDB file 23902a.B99990091_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990091_MSE.pdb ../23902_merge_new2_q25.dat Chi = 5.79025 c1 = 1.02185 c2 = 0.601792 default chi = 7.77265
+4196 atoms were read from PDB file 23902a.B99990091.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990091.pdb ../23902_merge_new2_q25.dat Chi = 6.89624 c1 = 1.0072 c2 = 1.168 default chi = 8.21001
+4196 atoms were read from PDB file 23902a.B99990092_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990092_MSE.pdb ../23902_merge_new2_q25.dat Chi = 5.43528 c1 = 0.999299 c2 = 1.80141 default chi = 7.64975
+4196 atoms were read from PDB file 23902a.B99990092.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990092.pdb ../23902_merge_new2_q25.dat Chi = 5.68021 c1 = 0.985904 c2 = 2.08576 default chi = 7.44427
+4196 atoms were read from PDB file 23902a.B99990093_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990093_MSE.pdb ../23902_merge_new2_q25.dat Chi = 5.39193 c1 = 1.00032 c2 = 1.78874 default chi = 7.61668
+4196 atoms were read from PDB file 23902a.B99990093.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990093.pdb ../23902_merge_new2_q25.dat Chi = 5.59321 c1 = 0.993904 c2 = 1.77952 default chi = 7.28821
+4196 atoms were read from PDB file 23902a.B99990094_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990094_MSE.pdb ../23902_merge_new2_q25.dat Chi = 5.60446 c1 = 1.01389 c2 = 1.50112 default chi = 8.43209
+4196 atoms were read from PDB file 23902a.B99990094.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990094.pdb ../23902_merge_new2_q25.dat Chi = 6.20408 c1 = 1.00152 c2 = 2.0128 default chi = 8.59391
+4196 atoms were read from PDB file 23902a.B99990095_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990095_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.26167 c1 = 0.999312 c2 = 1.64128 default chi = 8.02768
+4196 atoms were read from PDB file 23902a.B99990095.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990095.pdb ../23902_merge_new2_q25.dat Chi = 6.50998 c1 = 0.9772 c2 = 2.128 default chi = 7.81433
+4196 atoms were read from PDB file 23902a.B99990096_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990096_MSE.pdb ../23902_merge_new2_q25.dat Chi = 3.86014 c1 = 0.9812 c2 = 2.728 default chi = 6.89345
+4196 atoms were read from PDB file 23902a.B99990096.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990096.pdb ../23902_merge_new2_q25.dat Chi = 3.90536 c1 = 0.967104 c2 = 3.02752 default chi = 6.5724
+4196 atoms were read from PDB file 23902a.B99990097_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990097_MSE.pdb ../23902_merge_new2_q25.dat Chi = 2.95234 c1 = 1.02025 c2 = 1.01709 default chi = 6.51351
+4196 atoms were read from PDB file 23902a.B99990097.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990097.pdb ../23902_merge_new2_q25.dat Chi = 3.79603 c1 = 1.00447 c2 = 1.54874 default chi = 6.11095
+4196 atoms were read from PDB file 23902a.B99990098_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990098_MSE.pdb ../23902_merge_new2_q25.dat Chi = 4.01472 c1 = 0.999424 c2 = 1.26112 default chi = 5.60716
+4196 atoms were read from PDB file 23902a.B99990098.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990098.pdb ../23902_merge_new2_q25.dat Chi = 4.66124 c1 = 0.985136 c2 = 1.53952 default chi = 5.78564
+4196 atoms were read from PDB file 23902a.B99990099_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990099_MSE.pdb ../23902_merge_new2_q25.dat Chi = 7.51188 c1 = 1.01101 c2 = 1.33792 default chi = 9.27369
+4196 atoms were read from PDB file 23902a.B99990099.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990099.pdb ../23902_merge_new2_q25.dat Chi = 7.79796 c1 = 1.00405 c2 = 1.33408 default chi = 9.04066
+4196 atoms were read from PDB file 23902a.B99990100_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990100_MSE.pdb ../23902_merge_new2_q25.dat Chi = 5.50187 c1 = 0.993248 c2 = 2.18752 default chi = 7.62863
+4196 atoms were read from PDB file 23902a.B99990100.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990100.pdb ../23902_merge_new2_q25.dat Chi = 6.12006 c1 = 0.972224 c2 = 2.82592 default chi = 7.86591
+4196 atoms were read from PDB file 23902a.B99990101_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990101_MSE.pdb ../23902_merge_new2_q25.dat Chi = 9.05094 c1 = 0.973536 c2 = 3.37024 default chi = 10.869
+4196 atoms were read from PDB file 23902a.B99990101.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990101.pdb ../23902_merge_new2_q25.dat Chi = 9.28436 c1 = 0.95 c2 = 4 default chi = 11.0554
+4196 atoms were read from PDB file 23902a.B99990102_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990102_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.9528 c1 = 1.01119 c2 = 0.607168 default chi = 7.6707
+4196 atoms were read from PDB file 23902a.B99990102.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990102.pdb ../23902_merge_new2_q25.dat Chi = 7.48073 c1 = 0.987872 c2 = 1.02208 default chi = 7.87287
+4196 atoms were read from PDB file 23902a.B99990103_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990103_MSE.pdb ../23902_merge_new2_q25.dat Chi = 4.98314 c1 = 0.999312 c2 = 2.09728 default chi = 7.93588
+4196 atoms were read from PDB file 23902a.B99990103.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990103.pdb ../23902_merge_new2_q25.dat Chi = 5.44856 c1 = 0.959296 c2 = 3.73024 default chi = 8.03933
+4196 atoms were read from PDB file 23902a.B99990104_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990104_MSE.pdb ../23902_merge_new2_q25.dat Chi = 5.52564 c1 = 1.0101 c2 = 1.16109 default chi = 7.31745
+4196 atoms were read from PDB file 23902a.B99990104.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990104.pdb ../23902_merge_new2_q25.dat Chi = 6.50913 c1 = 0.983632 c2 = 2.00512 default chi = 7.87902
+4196 atoms were read from PDB file 23902a.B99990105_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990105_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.22426 c1 = 0.98 c2 = 1.89952 default chi = 7.5783
+4196 atoms were read from PDB file 23902a.B99990105.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990105.pdb ../23902_merge_new2_q25.dat Chi = 6.51046 c1 = 0.95 c2 = 2.65888 default chi = 8.07089
+4196 atoms were read from PDB file 23902a.B99990106_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990106_MSE.pdb ../23902_merge_new2_q25.dat Chi = 4.99508 c1 = 0.999402 c2 = 1.6743 default chi = 7.25137
+4196 atoms were read from PDB file 23902a.B99990106.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990106.pdb ../23902_merge_new2_q25.dat Chi = 5.35092 c1 = 0.982544 c2 = 2.22976 default chi = 7.4373
+4196 atoms were read from PDB file 23902a.B99990107_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990107_MSE.pdb ../23902_merge_new2_q25.dat Chi = 3.18258 c1 = 1.01647 c2 = 1.65088 default chi = 7.72013
+4196 atoms were read from PDB file 23902a.B99990107.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990107.pdb ../23902_merge_new2_q25.dat Chi = 3.76526 c1 = 0.994957 c2 = 2.42195 default chi = 7.27063
+4196 atoms were read from PDB file 23902a.B99990108_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990108_MSE.pdb ../23902_merge_new2_q25.dat Chi = 5.09698 c1 = 1.03501 c2 = 0.30112 default chi = 8.94963
+4196 atoms were read from PDB file 23902a.B99990108.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990108.pdb ../23902_merge_new2_q25.dat Chi = 6.28165 c1 = 1.0256 c2 = 0.361792 default chi = 8.37745
+4196 atoms were read from PDB file 23902a.B99990109_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990109_MSE.pdb ../23902_merge_new2_q25.dat Chi = 7.89445 c1 = 0.95528 c2 = 4 default chi = 10.8665
+4196 atoms were read from PDB file 23902a.B99990109.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990109.pdb ../23902_merge_new2_q25.dat Chi = 8.25476 c1 = 0.95 c2 = 4 default chi = 10.9921
+4196 atoms were read from PDB file 23902a.B99990110_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990110_MSE.pdb ../23902_merge_new2_q25.dat Chi = 8.68576 c1 = 0.993568 c2 = 2.66656 default chi = 11.0975
+4196 atoms were read from PDB file 23902a.B99990110.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990110.pdb ../23902_merge_new2_q25.dat Chi = 9.60005 c1 = 0.9524 c2 = 4 default chi = 12.1259
+4196 atoms were read from PDB file 23902a.B99990111_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990111_MSE.pdb ../23902_merge_new2_q25.dat Chi = 7.70564 c1 = 1.01165 c2 = 1.47808 default chi = 9.77057
+4196 atoms were read from PDB file 23902a.B99990111.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990111.pdb ../23902_merge_new2_q25.dat Chi = 8.0816 c1 = 0.98544 c2 = 2.3296 default chi = 9.59058
+4196 atoms were read from PDB file 23902a.B99990112_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990112_MSE.pdb ../23902_merge_new2_q25.dat Chi = 4.12588 c1 = 1.01363 c2 = 0.798976 default chi = 5.86788
+4196 atoms were read from PDB file 23902a.B99990112.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990112.pdb ../23902_merge_new2_q25.dat Chi = 4.96863 c1 = 0.97968 c2 = 1.9552 default chi = 6.29105
+4196 atoms were read from PDB file 23902a.B99990113_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990113_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.22156 c1 = 1.01525 c2 = 0.62752 default chi = 7.42829
+4196 atoms were read from PDB file 23902a.B99990113.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990113.pdb ../23902_merge_new2_q25.dat Chi = 7.06245 c1 = 0.9964 c2 = 1.02208 default chi = 7.69669
+4196 atoms were read from PDB file 23902a.B99990114_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990114_MSE.pdb ../23902_merge_new2_q25.dat Chi = 9.3411 c1 = 0.9728 c2 = 3.232 default chi = 11.3482
+4196 atoms were read from PDB file 23902a.B99990114.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990114.pdb ../23902_merge_new2_q25.dat Chi = 9.50865 c1 = 0.95328 c2 = 3.7552 default chi = 11.3552
+4196 atoms were read from PDB file 23902a.B99990115_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990115_MSE.pdb ../23902_merge_new2_q25.dat Chi = 9.2428 c1 = 0.95688 c2 = 4 default chi = 11.6322
+4196 atoms were read from PDB file 23902a.B99990115.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990115.pdb ../23902_merge_new2_q25.dat Chi = 9.82493 c1 = 0.95 c2 = 4 default chi = 12.2917
+4196 atoms were read from PDB file 23902a.B99990116_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990116_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.95546 c1 = 1.02804 c2 = 0.319552 default chi = 8.83074
+4196 atoms were read from PDB file 23902a.B99990116.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990116.pdb ../23902_merge_new2_q25.dat Chi = 7.49709 c1 = 1.01945 c2 = 0.35465 default chi = 8.51152
+4196 atoms were read from PDB file 23902a.B99990117_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990117_MSE.pdb ../23902_merge_new2_q25.dat Chi = 5.36824 c1 = 1.00912 c2 = 2.1088 default chi = 9.19087
+4196 atoms were read from PDB file 23902a.B99990117.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990117.pdb ../23902_merge_new2_q25.dat Chi = 5.80426 c1 = 0.99248 c2 = 2.5552 default chi = 8.83374
+4196 atoms were read from PDB file 23902a.B99990118_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990118_MSE.pdb ../23902_merge_new2_q25.dat Chi = 3.86084 c1 = 1.0283 c2 = 0.364096 default chi = 6.99638
+4196 atoms were read from PDB file 23902a.B99990118.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990118.pdb ../23902_merge_new2_q25.dat Chi = 4.88163 c1 = 1.01534 c2 = 0.722867 default chi = 6.70326
+4196 atoms were read from PDB file 23902a.B99990119_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990119_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.46094 c1 = 1.02011 c2 = 0.675904 default chi = 8.17641
+4196 atoms were read from PDB file 23902a.B99990119.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990119.pdb ../23902_merge_new2_q25.dat Chi = 7.76581 c1 = 0.9984 c2 = 1.31488 default chi = 8.70059
+4196 atoms were read from PDB file 23902a.B99990120_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990120_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.2485 c1 = 0.973248 c2 = 4 default chi = 9.63771
+4196 atoms were read from PDB file 23902a.B99990120.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990120.pdb ../23902_merge_new2_q25.dat Chi = 6.75191 c1 = 0.959824 c2 = 4 default chi = 9.71289
+4196 atoms were read from PDB file 23902a.B99990121_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990121_MSE.pdb ../23902_merge_new2_q25.dat Chi = 4.84949 c1 = 0.997968 c2 = 2.28352 default chi = 8.26545
+4196 atoms were read from PDB file 23902a.B99990121.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990121.pdb ../23902_merge_new2_q25.dat Chi = 5.45589 c1 = 0.9828 c2 = 2.632 default chi = 8.1154
+4196 atoms were read from PDB file 23902a.B99990122_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990122_MSE.pdb ../23902_merge_new2_q25.dat Chi = 2.1277 c1 = 1.03304 c2 = 0.696448 default chi = 8.02935
+4196 atoms were read from PDB file 23902a.B99990122.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990122.pdb ../23902_merge_new2_q25.dat Chi = 1.93584 c1 = 1.02501 c2 = 0.75712 default chi = 6.79488
+4196 atoms were read from PDB file 23902a.B99990123_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990123_MSE.pdb ../23902_merge_new2_q25.dat Chi = 8.54765 c1 = 1.01101 c2 = 1.95712 default chi = 11.3549
+4196 atoms were read from PDB file 23902a.B99990123.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990123.pdb ../23902_merge_new2_q25.dat Chi = 9.14419 c1 = 0.98376 c2 = 3.1744 default chi = 11.4111
+4196 atoms were read from PDB file 23902a.B99990124_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990124_MSE.pdb ../23902_merge_new2_q25.dat Chi = 8.11273 c1 = 1.01421 c2 = 1.38592 default chi = 10.2384
+4196 atoms were read from PDB file 23902a.B99990124.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990124.pdb ../23902_merge_new2_q25.dat Chi = 8.68469 c1 = 0.98912 c2 = 2.3488 default chi = 10.4106
+4196 atoms were read from PDB file 23902a.B99990125_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990125_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.40819 c1 = 0.9972 c2 = 1.768 default chi = 8.28891
+4196 atoms were read from PDB file 23902a.B99990125.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990125.pdb ../23902_merge_new2_q25.dat Chi = 7.04027 c1 = 0.973536 c2 = 2.54944 default chi = 8.61591
+4196 atoms were read from PDB file 23902a.B99990126_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990126_MSE.pdb ../23902_merge_new2_q25.dat Chi = 8.56303 c1 = 1.02299 c2 = 1.27648 default chi = 11.2588
+4196 atoms were read from PDB file 23902a.B99990126.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990126.pdb ../23902_merge_new2_q25.dat Chi = 9.26604 c1 = 1.01225 c2 = 1.52877 default chi = 11.1506
+4196 atoms were read from PDB file 23902a.B99990127_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990127_MSE.pdb ../23902_merge_new2_q25.dat Chi = 7.84117 c1 = 1.02696 c2 = 0.294976 default chi = 9.5729
+4196 atoms were read from PDB file 23902a.B99990127.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990127.pdb ../23902_merge_new2_q25.dat Chi = 9.47826 c1 = 1.00725 c2 = 0.85888 default chi = 10.1813
+4196 atoms were read from PDB file 23902a.B99990128_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990128_MSE.pdb ../23902_merge_new2_q25.dat Chi = 8.39836 c1 = 0.996752 c2 = 1.73728 default chi = 9.71451
+4196 atoms were read from PDB file 23902a.B99990128.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990128.pdb ../23902_merge_new2_q25.dat Chi = 9.0079 c1 = 0.984224 c2 = 1.85056 default chi = 9.94486
+4196 atoms were read from PDB file 23902a.B99990129_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990129_MSE.pdb ../23902_merge_new2_q25.dat Chi = 8.74204 c1 = 0.987504 c2 = 3.15136 default chi = 11.1241
+4196 atoms were read from PDB file 23902a.B99990129.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990129.pdb ../23902_merge_new2_q25.dat Chi = 9.00863 c1 = 0.96312 c2 = 3.9904 default chi = 11.0463
+4196 atoms were read from PDB file 23902a.B99990130_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990130_MSE.pdb ../23902_merge_new2_q25.dat Chi = 9.1836 c1 = 0.955088 c2 = 3.65248 default chi = 10.795
+4196 atoms were read from PDB file 23902a.B99990130.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990130.pdb ../23902_merge_new2_q25.dat Chi = 9.1443 c1 = 0.95136 c2 = 3.4912 default chi = 10.4653
+4196 atoms were read from PDB file 23902a.B99990131_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990131_MSE.pdb ../23902_merge_new2_q25.dat Chi = 8.99732 c1 = 1.01315 c2 = 1.4343 default chi = 11.02
+4196 atoms were read from PDB file 23902a.B99990131.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990131.pdb ../23902_merge_new2_q25.dat Chi = 9.79417 c1 = 0.99552 c2 = 2.0128 default chi = 11.2378
+4196 atoms were read from PDB file 23902a.B99990132_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990132_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.80278 c1 = 0.970688 c2 = 3.28576 default chi = 8.84973
+4196 atoms were read from PDB file 23902a.B99990132.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990132.pdb ../23902_merge_new2_q25.dat Chi = 7.24558 c1 = 0.95 c2 = 4 default chi = 9.23463
+4196 atoms were read from PDB file 23902a.B99990133_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990133_MSE.pdb ../23902_merge_new2_q25.dat Chi = 8.22326 c1 = 0.969696 c2 = 4 default chi = 12.2154
+4196 atoms were read from PDB file 23902a.B99990133.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990133.pdb ../23902_merge_new2_q25.dat Chi = 8.2806 c1 = 0.96312 c2 = 4 default chi = 11.9981
+4196 atoms were read from PDB file 23902a.B99990134_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990134_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.70531 c1 = 1.02091 c2 = 0.518848 default chi = 8.19331
+4196 atoms were read from PDB file 23902a.B99990134.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990134.pdb ../23902_merge_new2_q25.dat Chi = 7.32668 c1 = 1.01286 c2 = 0.52576 default chi = 8.09585
+4196 atoms were read from PDB file 23902a.B99990135_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990135_MSE.pdb ../23902_merge_new2_q25.dat Chi = 8.40015 c1 = 0.960816 c2 = 3.29344 default chi = 10.1053
+4196 atoms were read from PDB file 23902a.B99990135.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990135.pdb ../23902_merge_new2_q25.dat Chi = 8.65074 c1 = 0.95 c2 = 3.44512 default chi = 10.2054
+4196 atoms were read from PDB file 23902a.B99990136_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990136_MSE.pdb ../23902_merge_new2_q25.dat Chi = 4.3428 c1 = 1.02861 c2 = 0.54112 default chi = 7.77998
+4196 atoms were read from PDB file 23902a.B99990136.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990136.pdb ../23902_merge_new2_q25.dat Chi = 4.90008 c1 = 1.0259 c2 = 0.390592 default chi = 7.54184
+4196 atoms were read from PDB file 23902a.B99990137_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990137_MSE.pdb ../23902_merge_new2_q25.dat Chi = 4.50075 c1 = 1.01899 c2 = 1.11808 default chi = 7.58084
+4196 atoms were read from PDB file 23902a.B99990137.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990137.pdb ../23902_merge_new2_q25.dat Chi = 5.44773 c1 = 1.01011 c2 = 1.38285 default chi = 7.75728
+4196 atoms were read from PDB file 23902a.B99990138_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990138_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.2547 c1 = 0.98312 c2 = 3.2128 default chi = 9.01291
+4196 atoms were read from PDB file 23902a.B99990138.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990138.pdb ../23902_merge_new2_q25.dat Chi = 6.50494 c1 = 0.96912 c2 = 3.5488 default chi = 8.78328
+4196 atoms were read from PDB file 23902a.B99990139_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990139_MSE.pdb ../23902_merge_new2_q25.dat Chi = 5.72048 c1 = 1.01621 c2 = 1.08352 default chi = 7.96997
+4196 atoms were read from PDB file 23902a.B99990139.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990139.pdb ../23902_merge_new2_q25.dat Chi = 6.02726 c1 = 1.01235 c2 = 0.93952 default chi = 7.64525
+4196 atoms were read from PDB file 23902a.B99990140_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990140_MSE.pdb ../23902_merge_new2_q25.dat Chi = 7.14027 c1 = 0.997008 c2 = 2.24512 default chi = 9.21899
+4196 atoms were read from PDB file 23902a.B99990140.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990140.pdb ../23902_merge_new2_q25.dat Chi = 7.87958 c1 = 0.977008 c2 = 2.90656 default chi = 9.63656
+4196 atoms were read from PDB file 23902a.B99990141_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990141_MSE.pdb ../23902_merge_new2_q25.dat Chi = 3.44225 c1 = 1.03304 c2 = 0.0641921 default chi = 6.50255
+4196 atoms were read from PDB file 23902a.B99990141.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990141.pdb ../23902_merge_new2_q25.dat Chi = 3.61577 c1 = 1.0206 c2 = 0.136077 default chi = 5.08917
+4196 atoms were read from PDB file 23902a.B99990142_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990142_MSE.pdb ../23902_merge_new2_q25.dat Chi = 8.05417 c1 = 1.0146 c2 = 1.44659 default chi = 10.183
+4196 atoms were read from PDB file 23902a.B99990142.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990142.pdb ../23902_merge_new2_q25.dat Chi = 8.31418 c1 = 1.00637 c2 = 1.53952 default chi = 9.92197
+4196 atoms were read from PDB file 23902a.B99990143_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990143_MSE.pdb ../23902_merge_new2_q25.dat Chi = 10.7498 c1 = 0.95 c2 = 4 default chi = 12.7264
+4196 atoms were read from PDB file 23902a.B99990143.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990143.pdb ../23902_merge_new2_q25.dat Chi = 10.9783 c1 = 0.95 c2 = 4 default chi = 12.9122
+4196 atoms were read from PDB file 23902a.B99990144_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990144_MSE.pdb ../23902_merge_new2_q25.dat Chi = 7.37104 c1 = 0.998 c2 = 1.72 default chi = 8.90278
+4196 atoms were read from PDB file 23902a.B99990144.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990144.pdb ../23902_merge_new2_q25.dat Chi = 7.83568 c1 = 0.99472 c2 = 1.6528 default chi = 9.02828
+4196 atoms were read from PDB file 23902a.B99990145_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990145_MSE.pdb ../23902_merge_new2_q25.dat Chi = 8.16488 c1 = 0.996848 c2 = 1.88512 default chi = 9.73354
+4196 atoms were read from PDB file 23902a.B99990145.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990145.pdb ../23902_merge_new2_q25.dat Chi = 8.63675 c1 = 0.9664 c2 = 2.80672 default chi = 9.93978
+4196 atoms were read from PDB file 23902a.B99990146_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990146_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.74624 c1 = 0.95688 c2 = 4 default chi = 9.81882
+4196 atoms were read from PDB file 23902a.B99990146.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990146.pdb ../23902_merge_new2_q25.dat Chi = 7.00471 c1 = 0.95 c2 = 4 default chi = 9.93456
+4196 atoms were read from PDB file 23902a.B99990147_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990147_MSE.pdb ../23902_merge_new2_q25.dat Chi = 4.88863 c1 = 1.0176 c2 = 1.23098 default chi = 8.13639
+4196 atoms were read from PDB file 23902a.B99990147.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990147.pdb ../23902_merge_new2_q25.dat Chi = 5.80561 c1 = 1.01208 c2 = 1.32486 default chi = 8.30708
+4196 atoms were read from PDB file 23902a.B99990148_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990148_MSE.pdb ../23902_merge_new2_q25.dat Chi = 7.38214 c1 = 0.99408 c2 = 2.6512 default chi = 9.6354
+4196 atoms were read from PDB file 23902a.B99990148.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990148.pdb ../23902_merge_new2_q25.dat Chi = 7.61216 c1 = 0.96392 c2 = 3.8416 default chi = 9.6431
+4196 atoms were read from PDB file 23902a.B99990149_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990149_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.19765 c1 = 1.0247 c2 = 0.790912 default chi = 8.81741
+4196 atoms were read from PDB file 23902a.B99990149.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990149.pdb ../23902_merge_new2_q25.dat Chi = 6.35288 c1 = 1.0177 c2 = 0.802048 default chi = 8.2335
+4196 atoms were read from PDB file 23902a.B99990150_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990150_MSE.pdb ../23902_merge_new2_q25.dat Chi = 4.6283 c1 = 1.0192 c2 = 1.21523 default chi = 7.90294
+4196 atoms were read from PDB file 23902a.B99990150.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990150.pdb ../23902_merge_new2_q25.dat Chi = 5.52093 c1 = 1.00868 c2 = 1.42355 default chi = 7.79533
+4196 atoms were read from PDB file 23902a.B99990151_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990151_MSE.pdb ../23902_merge_new2_q25.dat Chi = 7.75712 c1 = 1.01392 c2 = 1.2688 default chi = 9.82838
+4196 atoms were read from PDB file 23902a.B99990151.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990151.pdb ../23902_merge_new2_q25.dat Chi = 8.76424 c1 = 0.98752 c2 = 2.2528 default chi = 10.3058
+4196 atoms were read from PDB file 23902a.B99990152_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990152_MSE.pdb ../23902_merge_new2_q25.dat Chi = 7.11045 c1 = 1.02552 c2 = 1.0048 default chi = 10.2082
+4196 atoms were read from PDB file 23902a.B99990152.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990152.pdb ../23902_merge_new2_q25.dat Chi = 8.01128 c1 = 1.00998 c2 = 1.3383 default chi = 9.77392
+4196 atoms were read from PDB file 23902a.B99990153_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990153_MSE.pdb ../23902_merge_new2_q25.dat Chi = 1.71539 c1 = 1.02793 c2 = 0.594112 default chi = 6.58045
+4196 atoms were read from PDB file 23902a.B99990153.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990153.pdb ../23902_merge_new2_q25.dat Chi = 1.79227 c1 = 1.02261 c2 = 0.52192 default chi = 5.61267
+4196 atoms were read from PDB file 23902a.B99990154_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990154_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.8411 c1 = 0.967712 c2 = 2.75488 default chi = 8.62216
+4196 atoms were read from PDB file 23902a.B99990154.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990154.pdb ../23902_merge_new2_q25.dat Chi = 6.92406 c1 = 0.9564 c2 = 2.872 default chi = 8.37008
+4196 atoms were read from PDB file 23902a.B99990155_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990155_MSE.pdb ../23902_merge_new2_q25.dat Chi = 8.44453 c1 = 1.02215 c2 = 1.09581 default chi = 10.8279
+4196 atoms were read from PDB file 23902a.B99990155.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990155.pdb ../23902_merge_new2_q25.dat Chi = 9.4612 c1 = 1.00395 c2 = 1.60288 default chi = 11.0073
+4196 atoms were read from PDB file 23902a.B99990156_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990156_MSE.pdb ../23902_merge_new2_q25.dat Chi = 7.01195 c1 = 1.02046 c2 = 0.78592 default chi = 8.83954
+4196 atoms were read from PDB file 23902a.B99990156.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990156.pdb ../23902_merge_new2_q25.dat Chi = 7.62665 c1 = 1.00389 c2 = 1.2473 default chi = 8.81332
+4196 atoms were read from PDB file 23902a.B99990157_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990157_MSE.pdb ../23902_merge_new2_q25.dat Chi = 5.45279 c1 = 1.0035 c2 = 1.95136 default chi = 8.14973
+4196 atoms were read from PDB file 23902a.B99990157.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990157.pdb ../23902_merge_new2_q25.dat Chi = 6.12524 c1 = 0.97312 c2 = 3.2128 default chi = 8.55376
+4196 atoms were read from PDB file 23902a.B99990158_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990158_MSE.pdb ../23902_merge_new2_q25.dat Chi = 4.70431 c1 = 1.0116 c2 = 0.888832 default chi = 6.25409
+4196 atoms were read from PDB file 23902a.B99990158.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990158.pdb ../23902_merge_new2_q25.dat Chi = 5.33527 c1 = 0.99184 c2 = 1.4512 default chi = 6.42335
+4196 atoms were read from PDB file 23902a.B99990159_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990159_MSE.pdb ../23902_merge_new2_q25.dat Chi = 5.6809 c1 = 1.01647 c2 = 1.26938 default chi = 8.36134
+4196 atoms were read from PDB file 23902a.B99990159.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990159.pdb ../23902_merge_new2_q25.dat Chi = 6.67735 c1 = 0.999363 c2 = 2.032 default chi = 8.8421
+4196 atoms were read from PDB file 23902a.B99990160_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990160_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.39927 c1 = 1.00312 c2 = 1.4128 default chi = 8.0741
+4196 atoms were read from PDB file 23902a.B99990160.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990160.pdb ../23902_merge_new2_q25.dat Chi = 7.2494 c1 = 0.96712 c2 = 2.7088 default chi = 8.79429
+4196 atoms were read from PDB file 23902a.B99990161_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990161_MSE.pdb ../23902_merge_new2_q25.dat Chi = 9.38727 c1 = 1.00886 c2 = 1.74112 default chi = 11.2878
+4196 atoms were read from PDB file 23902a.B99990161.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990161.pdb ../23902_merge_new2_q25.dat Chi = 10.0867 c1 = 0.981552 c2 = 2.82592 default chi = 11.6768
+4196 atoms were read from PDB file 23902a.B99990162_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990162_MSE.pdb ../23902_merge_new2_q25.dat Chi = 7.04548 c1 = 1.00271 c2 = 1.97363 default chi = 9.38638
+4196 atoms were read from PDB file 23902a.B99990162.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990162.pdb ../23902_merge_new2_q25.dat Chi = 7.59384 c1 = 0.966368 c2 = 3.33952 default chi = 9.63244
+4196 atoms were read from PDB file 23902a.B99990163_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990163_MSE.pdb ../23902_merge_new2_q25.dat Chi = 9.07027 c1 = 1.00032 c2 = 2.16563 default chi = 11.0472
+4196 atoms were read from PDB file 23902a.B99990163.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990163.pdb ../23902_merge_new2_q25.dat Chi = 9.27481 c1 = 0.983408 c2 = 2.55712 default chi = 10.8667
+4196 atoms were read from PDB file 23902a.B99990164_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990164_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.84791 c1 = 1.01389 c2 = 1.29952 default chi = 9.28881
+4196 atoms were read from PDB file 23902a.B99990164.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990164.pdb ../23902_merge_new2_q25.dat Chi = 7.74905 c1 = 0.9888 c2 = 2.272 default chi = 9.58152
+4196 atoms were read from PDB file 23902a.B99990165_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990165_MSE.pdb ../23902_merge_new2_q25.dat Chi = 4.35413 c1 = 1.02385 c2 = 1.05741 default chi = 8.14393
+4196 atoms were read from PDB file 23902a.B99990165.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990165.pdb ../23902_merge_new2_q25.dat Chi = 4.95568 c1 = 1.00989 c2 = 1.47808 default chi = 7.72118
+4196 atoms were read from PDB file 23902a.B99990166_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990166_MSE.pdb ../23902_merge_new2_q25.dat Chi = 8.54893 c1 = 1.00123 c2 = 1.39744 default chi = 9.63172
+4196 atoms were read from PDB file 23902a.B99990166.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990166.pdb ../23902_merge_new2_q25.dat Chi = 9.12729 c1 = 0.9772 c2 = 2.128 default chi = 9.94546
+4196 atoms were read from PDB file 23902a.B99990167_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990167_MSE.pdb ../23902_merge_new2_q25.dat Chi = 9.96034 c1 = 0.95 c2 = 4 default chi = 12.1657
+4196 atoms were read from PDB file 23902a.B99990167.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990167.pdb ../23902_merge_new2_q25.dat Chi = 10.2362 c1 = 0.95 c2 = 3.8176 default chi = 12.3367
+4196 atoms were read from PDB file 23902a.B99990168_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990168_MSE.pdb ../23902_merge_new2_q25.dat Chi = 5.5896 c1 = 1.03139 c2 = 0.11488 default chi = 8.00847
+4196 atoms were read from PDB file 23902a.B99990168.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990168.pdb ../23902_merge_new2_q25.dat Chi = 6.60028 c1 = 1.0223 c2 = 0.182848 default chi = 7.7879
+4196 atoms were read from PDB file 23902a.B99990169_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990169_MSE.pdb ../23902_merge_new2_q25.dat Chi = 8.80411 c1 = 0.96912 c2 = 4 default chi = 11.6712
+4196 atoms were read from PDB file 23902a.B99990169.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990169.pdb ../23902_merge_new2_q25.dat Chi = 9.13232 c1 = 0.95472 c2 = 4 default chi = 11.976
+4196 atoms were read from PDB file 23902a.B99990170_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990170_MSE.pdb ../23902_merge_new2_q25.dat Chi = 5.54751 c1 = 1.01557 c2 = 0.62752 default chi = 6.85212
+4196 atoms were read from PDB file 23902a.B99990170.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990170.pdb ../23902_merge_new2_q25.dat Chi = 6.1174 c1 = 1.00405 c2 = 0.90112 default chi = 7.00156
+4196 atoms were read from PDB file 23902a.B99990171_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990171_MSE.pdb ../23902_merge_new2_q25.dat Chi = 7.37696 c1 = 0.994496 c2 = 2.82784 default chi = 10.069
+4196 atoms were read from PDB file 23902a.B99990171.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990171.pdb ../23902_merge_new2_q25.dat Chi = 7.84984 c1 = 0.96712 c2 = 3.7792 default chi = 9.97443
+4196 atoms were read from PDB file 23902a.B99990172_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990172_MSE.pdb ../23902_merge_new2_q25.dat Chi = 3.27375 c1 = 0.98232 c2 = 2.2048 default chi = 5.7018
+4196 atoms were read from PDB file 23902a.B99990172.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990172.pdb ../23902_merge_new2_q25.dat Chi = 3.38469 c1 = 0.958 c2 = 2.92 default chi = 5.68743
+4196 atoms were read from PDB file 23902a.B99990173_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990173_MSE.pdb ../23902_merge_new2_q25.dat Chi = 3.21156 c1 = 1.00565 c2 = 1.55872 default chi = 6.37786
+4196 atoms were read from PDB file 23902a.B99990173.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990173.pdb ../23902_merge_new2_q25.dat Chi = 3.99615 c1 = 0.99152 c2 = 2.0128 default chi = 6.49666
+4196 atoms were read from PDB file 23902a.B99990174_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990174_MSE.pdb ../23902_merge_new2_q25.dat Chi = 7.17434 c1 = 0.991968 c2 = 2.37952 default chi = 9.15201
+4196 atoms were read from PDB file 23902a.B99990174.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990174.pdb ../23902_merge_new2_q25.dat Chi = 7.66777 c1 = 0.95 c2 = 4 default chi = 9.5475
+4196 atoms were read from PDB file 23902a.B99990175_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990175_MSE.pdb ../23902_merge_new2_q25.dat Chi = 4.6773 c1 = 1.02446 c2 = 0.378688 default chi = 6.55582
+4196 atoms were read from PDB file 23902a.B99990175.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990175.pdb ../23902_merge_new2_q25.dat Chi = 5.1021 c1 = 1.01037 c2 = 0.57952 default chi = 5.99577
+4196 atoms were read from PDB file 23902a.B99990176_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990176_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.95326 c1 = 0.97592 c2 = 3.5488 default chi = 9.65183
+4196 atoms were read from PDB file 23902a.B99990176.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990176.pdb ../23902_merge_new2_q25.dat Chi = 7.61177 c1 = 0.95112 c2 = 4 default chi = 10.2217
+4196 atoms were read from PDB file 23902a.B99990177_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990177_MSE.pdb ../23902_merge_new2_q25.dat Chi = 9.93458 c1 = 0.96512 c2 = 4 default chi = 12.4589
+4196 atoms were read from PDB file 23902a.B99990177.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990177.pdb ../23902_merge_new2_q25.dat Chi = 10.4769 c1 = 0.9516 c2 = 4 default chi = 13.1656
+4196 atoms were read from PDB file 23902a.B99990178_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990178_MSE.pdb ../23902_merge_new2_q25.dat Chi = 4.17657 c1 = 1.0339 c2 = 0.428992 default chi = 9.13559
+4196 atoms were read from PDB file 23902a.B99990178.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990178.pdb ../23902_merge_new2_q25.dat Chi = 4.51459 c1 = 1.03 c2 = 0.451264 default chi = 8.61453
+4196 atoms were read from PDB file 23902a.B99990179_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990179_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.26892 c1 = 1.01957 c2 = 1.02592 default chi = 8.68216
+4196 atoms were read from PDB file 23902a.B99990179.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990179.pdb ../23902_merge_new2_q25.dat Chi = 7.17532 c1 = 1.002 c2 = 1.48 default chi = 8.66569
+4196 atoms were read from PDB file 23902a.B99990180_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990180_MSE.pdb ../23902_merge_new2_q25.dat Chi = 4.25008 c1 = 1.02915 c2 = 0.610624 default chi = 8.08665
+4196 atoms were read from PDB file 23902a.B99990180.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990180.pdb ../23902_merge_new2_q25.dat Chi = 4.90741 c1 = 1.01968 c2 = 0.721408 default chi = 7.38655
+4196 atoms were read from PDB file 23902a.B99990181_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990181_MSE.pdb ../23902_merge_new2_q25.dat Chi = 5.92583 c1 = 1.01945 c2 = 0.73769 default chi = 7.80962
+4196 atoms were read from PDB file 23902a.B99990181.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990181.pdb ../23902_merge_new2_q25.dat Chi = 6.72684 c1 = 1.00686 c2 = 0.88576 default chi = 7.69717
+4196 atoms were read from PDB file 23902a.B99990182_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990182_MSE.pdb ../23902_merge_new2_q25.dat Chi = 5.54196 c1 = 1.0177 c2 = 0.659008 default chi = 6.92736
+4196 atoms were read from PDB file 23902a.B99990182.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990182.pdb ../23902_merge_new2_q25.dat Chi = 5.94278 c1 = 0.9972 c2 = 1.168 default chi = 6.86393
+4196 atoms were read from PDB file 23902a.B99990183_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990183_MSE.pdb ../23902_merge_new2_q25.dat Chi = 3.93268 c1 = 1.00701 c2 = 1.83712 default chi = 6.90904
+4196 atoms were read from PDB file 23902a.B99990183.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990183.pdb ../23902_merge_new2_q25.dat Chi = 4.5559 c1 = 0.975968 c2 = 3.15328 default chi = 7.08686
+4196 atoms were read from PDB file 23902a.B99990184_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990184_MSE.pdb ../23902_merge_new2_q25.dat Chi = 7.84523 c1 = 0.9652 c2 = 3.952 default chi = 10.4177
+4196 atoms were read from PDB file 23902a.B99990184.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990184.pdb ../23902_merge_new2_q25.dat Chi = 8.13161 c1 = 0.9524 c2 = 4 default chi = 10.4518
+4196 atoms were read from PDB file 23902a.B99990185_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990185_MSE.pdb ../23902_merge_new2_q25.dat Chi = 1.35911 c1 = 1.0162 c2 = 1.17645 default chi = 5.41206
+4196 atoms were read from PDB file 23902a.B99990185.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990185.pdb ../23902_merge_new2_q25.dat Chi = 1.48067 c1 = 1.00861 c2 = 1.22752 default chi = 4.62048
+4196 atoms were read from PDB file 23902a.B99990186_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990186_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.72762 c1 = 1.0099 c2 = 1.86899 default chi = 9.366
+4196 atoms were read from PDB file 23902a.B99990186.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990186.pdb ../23902_merge_new2_q25.dat Chi = 7.48737 c1 = 0.982736 c2 = 3.05344 default chi = 9.7688
+4196 atoms were read from PDB file 23902a.B99990187_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990187_MSE.pdb ../23902_merge_new2_q25.dat Chi = 5.44847 c1 = 0.95 c2 = 3.568 default chi = 7.90362
+4196 atoms were read from PDB file 23902a.B99990187.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990187.pdb ../23902_merge_new2_q25.dat Chi = 5.88999 c1 = 0.95 c2 = 3.26656 default chi = 8.47075
+4196 atoms were read from PDB file 23902a.B99990188_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990188_MSE.pdb ../23902_merge_new2_q25.dat Chi = 5.72234 c1 = 1.00594 c2 = 0.717952 default chi = 6.3745
+4196 atoms were read from PDB file 23902a.B99990188.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990188.pdb ../23902_merge_new2_q25.dat Chi = 6.4067 c1 = 0.979888 c2 = 1.11808 default chi = 6.79384
+4196 atoms were read from PDB file 23902a.B99990189_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990189_MSE.pdb ../23902_merge_new2_q25.dat Chi = 3.59771 c1 = 1.02064 c2 = 0.442048 default chi = 5.7955
+4196 atoms were read from PDB file 23902a.B99990189.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990189.pdb ../23902_merge_new2_q25.dat Chi = 4.78656 c1 = 0.999357 c2 = 1.19795 default chi = 6.05948
+4196 atoms were read from PDB file 23902a.B99990190_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990190_MSE.pdb ../23902_merge_new2_q25.dat Chi = 7.34439 c1 = 0.991488 c2 = 1.63744 default chi = 8.65893
+4196 atoms were read from PDB file 23902a.B99990190.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990190.pdb ../23902_merge_new2_q25.dat Chi = 7.47128 c1 = 0.96184 c2 = 2.2912 default chi = 8.63147
+4196 atoms were read from PDB file 23902a.B99990191_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990191_MSE.pdb ../23902_merge_new2_q25.dat Chi = 8.75777 c1 = 1.0207 c2 = 1.33485 default chi = 11.3412
+4196 atoms were read from PDB file 23902a.B99990191.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990191.pdb ../23902_merge_new2_q25.dat Chi = 8.81741 c1 = 1.0165 c2 = 1.11424 default chi = 10.7089
+4196 atoms were read from PDB file 23902a.B99990192_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990192_MSE.pdb ../23902_merge_new2_q25.dat Chi = 9.60397 c1 = 0.977776 c2 = 4 default chi = 12.7699
+4196 atoms were read from PDB file 23902a.B99990192.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990192.pdb ../23902_merge_new2_q25.dat Chi = 10.0527 c1 = 0.967968 c2 = 4 default chi = 13.0213
+4196 atoms were read from PDB file 23902a.B99990193_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990193_MSE.pdb ../23902_merge_new2_q25.dat Chi = 6.78743 c1 = 1.00739 c2 = 1.57408 default chi = 8.84812
+4196 atoms were read from PDB file 23902a.B99990193.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990193.pdb ../23902_merge_new2_q25.dat Chi = 7.21234 c1 = 0.97936 c2 = 2.4688 default chi = 8.84349
+4196 atoms were read from PDB file 23902a.B99990194_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990194_MSE.pdb ../23902_merge_new2_q25.dat Chi = 5.20896 c1 = 0.987968 c2 = 2.97952 default chi = 8.40378
+4196 atoms were read from PDB file 23902a.B99990194.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990194.pdb ../23902_merge_new2_q25.dat Chi = 5.50914 c1 = 0.972224 c2 = 3.37792 default chi = 8.08438
+4196 atoms were read from PDB file 23902a.B99990195_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990195_MSE.pdb ../23902_merge_new2_q25.dat Chi = 4.18309 c1 = 1.02657 c2 = 0.778816 default chi = 8.12025
+4196 atoms were read from PDB file 23902a.B99990195.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990195.pdb ../23902_merge_new2_q25.dat Chi = 4.63754 c1 = 1.01647 c2 = 1.08659 default chi = 7.67214
+4196 atoms were read from PDB file 23902a.B99990196_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990196_MSE.pdb ../23902_merge_new2_q25.dat Chi = 5.66405 c1 = 0.990368 c2 = 1.92256 default chi = 7.40133
+4196 atoms were read from PDB file 23902a.B99990196.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990196.pdb ../23902_merge_new2_q25.dat Chi = 6.23759 c1 = 0.9588 c2 = 2.872 default chi = 7.79921
+4196 atoms were read from PDB file 23902a.B99990197_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990197_MSE.pdb ../23902_merge_new2_q25.dat Chi = 3.9662 c1 = 1.02802 c2 = 0.495808 default chi = 7.37179
+4196 atoms were read from PDB file 23902a.B99990197.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990197.pdb ../23902_merge_new2_q25.dat Chi = 4.03997 c1 = 1.01966 c2 = 0.586048 default chi = 6.42361
+4196 atoms were read from PDB file 23902a.B99990198_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990198_MSE.pdb ../23902_merge_new2_q25.dat Chi = 8.24671 c1 = 0.95 c2 = 3.8128 default chi = 10.4279
+4196 atoms were read from PDB file 23902a.B99990198.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990198.pdb ../23902_merge_new2_q25.dat Chi = 8.56777 c1 = 0.95 c2 = 3.50656 default chi = 10.7393
+4196 atoms were read from PDB file 23902a.B99990199_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990199_MSE.pdb ../23902_merge_new2_q25.dat Chi = 5.34472 c1 = 0.998147 c2 = 1.55795 default chi = 7.10912
+4196 atoms were read from PDB file 23902a.B99990199.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990199.pdb ../23902_merge_new2_q25.dat Chi = 6.33785 c1 = 0.95336 c2 = 3.2128 default chi = 8.02158
+4196 atoms were read from PDB file 23902a.B99990200_MSE.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990200_MSE.pdb ../23902_merge_new2_q25.dat Chi = 7.17836 c1 = 1.01165 c2 = 1.42048 default chi = 9.0632
+4196 atoms were read from PDB file 23902a.B99990200.pdb
+Profile read from file ../23902_merge_new2_q25.dat size = 268
+23902a.B99990200.pdb ../23902_merge_new2_q25.dat Chi = 8.00837 c1 = 0.994176 c2 = 1.94944 default chi = 9.37423

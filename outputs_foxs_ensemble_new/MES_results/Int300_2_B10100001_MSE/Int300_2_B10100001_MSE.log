@@ -1,0 +1,28 @@
+SCORING MODEL: Int300_2_B10100001_MSE.pdb
+score_model: time complete registration 73.1725301743
+coarse registration time 69.293831
+fine registration time 3.413536
+Score for image 0: 0.137555
+Score for image 1: 0.152361
+Score for image 2: 0.127098
+Score for image 3: 0.131592
+Score for image 4: 0.145831
+Score for image 5: 0.131456
+Score for image 6: 0.142168
+Score for image 7: 0.156593
+Score for image 8: 0.209263
+Score for image 9: 0.174389
+Score for image 10: 0.192045
+Score for image 11: 0.203889
+Score for image 12: 0.126960
+Score for image 13: 0.107273
+Score for image 14: 0.153017
+Score for image 15: 0.189734
+Score for image 16: 0.265446
+Score for image 17: 0.126926
+Score for image 18: 0.111567
+Score for image 19: 0.187976
+Score for image 20: 0.169680
+Score for image 21: 0.133357
+Score for image 22: 0.125410
+Global score  0.156590654363

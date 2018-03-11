@@ -1,0 +1,28 @@
+SCORING MODEL: ./Int325_6_B10770001_MSE.pdb
+score_model: time complete registration 491.443789959
+coarse registration time 90.822479
+fine registration time 344.087778
+Score for image 0: 0.154270
+Score for image 1: 0.167971
+Score for image 2: 0.093367
+Score for image 3: 0.181762
+Score for image 4: 0.147064
+Score for image 5: 0.155046
+Score for image 6: 0.147665
+Score for image 7: 0.121036
+Score for image 8: 0.129109
+Score for image 9: 0.134759
+Score for image 10: 0.131754
+Score for image 11: 0.150565
+Score for image 12: 0.108638
+Score for image 13: 0.106953
+Score for image 14: 0.129191
+Score for image 15: 0.096687
+Score for image 16: 0.117055
+Score for image 17: 0.132317
+Score for image 18: 0.149284
+Score for image 19: 0.171565
+Score for image 20: 0.161340
+Score for image 21: 0.142304
+Score for image 22: 0.132976
+Global score  0.137507759787

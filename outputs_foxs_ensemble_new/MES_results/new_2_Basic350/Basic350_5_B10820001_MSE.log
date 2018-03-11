@@ -1,0 +1,28 @@
+SCORING MODEL: ./Basic350_5_B10820001_MSE.pdb
+score_model: time complete registration 499.896970987
+coarse registration time 91.302688
+fine registration time 347.985904
+Score for image 0: 0.170223
+Score for image 1: 0.189232
+Score for image 2: 0.129927
+Score for image 3: 0.198944
+Score for image 4: 0.181177
+Score for image 5: 0.149164
+Score for image 6: 0.157040
+Score for image 7: 0.136962
+Score for image 8: 0.134833
+Score for image 9: 0.164239
+Score for image 10: 0.137156
+Score for image 11: 0.161665
+Score for image 12: 0.110892
+Score for image 13: 0.131229
+Score for image 14: 0.192418
+Score for image 15: 0.115523
+Score for image 16: 0.120381
+Score for image 17: 0.159694
+Score for image 18: 0.179657
+Score for image 19: 0.204715
+Score for image 20: 0.174812
+Score for image 21: 0.191092
+Score for image 22: 0.172048
+Global score  0.15926188876

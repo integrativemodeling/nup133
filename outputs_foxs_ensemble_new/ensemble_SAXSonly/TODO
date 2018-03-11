@@ -1,0 +1,41 @@
+1. Testing:
+    ses - scale the profiles in the matrix to the data,
+          read back results for rescoring - think about an interface to go back
+
+2. more general scoring function:
+      add support for SOAP score (general support for additive ensemble score)
+
+3. more speed up ideas:
+   0. check profiler output (why sum partial profiles takes so much)
+   1. enhance ensemble selection by comparing residuals
+   2. GPU nnls - probably won't be useful, since the matrix here is nxm, where m << n
+
+4. think how to work with SAXS and RDCs:
+    NNLS: solve for weights separately, get the scale, and solve again simulatneously after scaling correctly
+    data-based clustering?
+
+5. clustering:
+   1. check that cluster members are also not far in chi from the exp. profile
+   2. discard clusters of size 1, if the SOAP score is bad and the chi score is high
+   3. keep lowest chi in addition to lowest SOAP, if the chi gap to exp profile is big enough
+   4. cluster ensembles after each ensemble generation iteration - this requires to change EnsembleGenerator::generate function, to allow to generate one Ensemble size at a time, also to allow to get input Ensembles of size-1 (clustered). write EnsembleClustering that uses ProfileClustering and adds profile generation from Ensemble plus all the mapping of ids and scores.
+
+6. output:
+   1. output ensemble profile fits - output single fits for each ensemble - do we need it? maybe for visualization on the server
+   2. add SOAP score to ensemble output
+
+
+7. parallel ensemble generation
+   - separate clustering program
+   - additional program to compute all the ensemble statistics after runs done
+
+flow:   1. cluster
+        2. split_to_jobs
+        3. collect statistics
+
+
+Notes:
+
+- removal of zero weight member ensembles is not good, since this member can have non-zero weight later - not removed anymore. the same is probably true for bestK approach...
+
+- for allosmod: try to simultaneiusly optimize ensemble selection for two exp. profiles, by preferring similar structures? why?

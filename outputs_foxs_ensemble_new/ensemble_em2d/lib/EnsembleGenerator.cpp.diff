@@ -1,0 +1,26 @@
+14,15c14,15
+<                                      std::vector<EnsembleScore*>& scorers) :
+<   N_(population_size), K_(best_k), scorers_(scorers) {
+---
+>                                      EnsembleScore *score) :
+>   N_(population_size), K_(best_k), score_(score) {
+27c27
+<     e.set_score(get_score(e));
+---
+>     e.set_score(score_->get_score(e));
+69c69
+<     IMP::saxs::WeightedFitParameters p=scorers_[0]->get_fit_parameters(ensembles[i]);
+---
+>     IMP::saxs::WeightedFitParameters p=score_->get_fit_parameters(ensembles[i]);
+108c108
+<         scorers_[0]->write_fit_file(sorted_ensembles[i], sorted_fps[i], fit_file_name);
+---
+>         score_->write_fit_file(sorted_ensembles[i], sorted_fps[i], fit_file_name);
+111c111
+<     scorers_[0]->output(out_file, sorted_ensembles, sorted_fps);
+---
+>     score_->output(out_file, sorted_ensembles, sorted_fps);
+152c152
+<         double curr_score = get_score(new_ensemble);
+---
+>         double curr_score = score_->get_score(new_ensemble);

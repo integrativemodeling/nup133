@@ -1,0 +1,5 @@
+23922_SGX.pdb  0
+23922_merge_dammif_r.pdb  3.536
+23922_merge_gasbor_r.pdb  3.032
+24427_merged_dammifr.pdb  4.048
+24427_merged_gasborr.pdb  3.032
