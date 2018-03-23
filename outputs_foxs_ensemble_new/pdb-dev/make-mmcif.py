@@ -3,6 +3,7 @@
 import ihm.dumper
 import ihm.representation
 import ihm.model
+import ihm.protocol
 import pdb
 import mes
 import saxs
@@ -59,6 +60,7 @@ assembly = ihm.Assembly([asym], name='Modeled assembly')
 rep = ihm.representation.Representation(
         [ihm.representation.AtomicSegment(asym, rigid=False)])
 
+# Read in experimental datasets
 sf = saxs.SAXSFits(asym)
 saxs_restraints = list(sf.add_from_csv())
 system.restraints.extend(saxs_restraints)
@@ -67,12 +69,37 @@ em2d_fits = em2d.EM2DFits(assembly)
 em2d_restraints = list(em2d_fits.add_all())
 system.restraints.extend(em2d_restraints)
 
+# todo: add crosslink datasets
+
+saxs_em2d_datasets = ihm.dataset.DatasetGroup(r.dataset
+                                for r in saxs_restraints + em2d_restraints)
+
+# Describe the modeling protocol
+protocol = ihm.protocol.Protocol(name='Modeling')
+# Taking the original comparative model as input, first we ran AllosMod,
+# which didn't use the experimental datasets:
+protocol.steps.append(ihm.protocol.Step(
+                 assembly=assembly, dataset_group=None,
+                 method='AllosMod',
+                 name='MD-based conformational sampling',
+                 num_models_begin=1, num_models_end=7000))
+# Next we ran MES using both saxs and em2d:
+protocol.steps.append(ihm.protocol.Step(
+                 assembly=assembly, dataset_group=saxs_em2d_datasets,
+                 method='MES',
+                 name='Minimal Ensemble Search',
+                 num_models_begin=7000, num_models_end=4, multi_state=True))
+# todo: show validation against crosslinks
+
 g = ihm.model.StateGroup()
 for model, fraction in mes.get_models_with_fractions():
-    m = pdb.Model(assembly=assembly, protocol=None, representation=rep,
+    m = pdb.Model(assembly=assembly, protocol=protocol, representation=rep,
                   file_name=model, asym_units=[asym])
     em2d_fits.add_model(m, em2d_restraints)
     s = ihm.model.State([ihm.model.ModelGroup([m])],
+                        type='minimal ensemble',
+                        name='Minimal ensemble conformation',
+                        experiment_type='Fraction of bulk',
                         population_fraction=fraction)
     g.append(s)
 system.state_groups.append(g)
