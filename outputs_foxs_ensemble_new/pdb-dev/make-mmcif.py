@@ -23,6 +23,33 @@ system.citations.append(ihm.Citation(
                    'Burley SK', 'Chait BT', 'Almo SC', 'Rout MP', 'Sali A'],
           doi='10.1074/mcp.M114.040915'))
 
+# We used HHpred to detect remote homologs for some input subunits
+system.software.append(ihm.Software(
+          name='HHpred', classification='protein homology detection',
+          description='Protein homology detection by HMM-HMM comparison',
+          version='2.0.16',
+          location='https://toolkit.tuebingen.mpg.de/hhpred'))
+# We used PSIPRED to predict secondary structure for subunits
+system.software.append(ihm.Software(
+          name='PSIPRED', classification='secondary structure prediction',
+          description='Protein secondary structure prediction based on '
+                      'position-specific scoring matrices',
+          version='4.0',
+          location='http://bioinf.cs.ucl.ac.uk/psipred/'))
+# We used DISOPRED to predict (and remove) disordered regions in
+# the subunits
+system.software.append(ihm.Software(
+          name='DISOPRED', classification='disorder prediction',
+          description='prediction of protein disorder', version=3,
+          location='http://bioinf.cs.ucl.ac.uk/psipred/?disopred=1'))
+# We used various tools from IMP (e.g. FoXS)
+system.software.append(ihm.Software(
+          name="Integrative Modeling Platform (IMP)",
+          version="2.2",
+          classification="integrative model building",
+          description="integrative model building",
+          location='https://integrativemodeling.org'))
+
 entity = ihm.Entity(pdb.get_sequence(), description='Nup133')
 system.entities.append(entity)
 asym = ihm.AsymUnit(entity, details='Nup133')
