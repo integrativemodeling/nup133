@@ -1,0 +1,31 @@
+﻿Index,Protein,Sequence coverage,"Molecular Weight (Da)
+ESI / MALDI",Species name,"Protein ID",Genbank gi or Refseq P,"NYSGRC 
+clone ID",Purification Pool #,"Molecular Weight (Da)
+SAXS MoW","Qmin
+(Å-1)","Qmax
+(Å-1)","Rg","Dmax
+(Å)","FoXS fit score",References,Constructs per protein,Notes,,,,,,,,,,,,,
+1,NUP133,2 - 515,60134,Saccharomyces cerevisiae,23902,6322935,15133a2BCt11p1,1,69300,0.015,0.25,27.9,93.7,1.36,"Kim et al., 2014, MCP",40,,,,,,,,,,,,,,
+2,NUP133,2 - 1157,135154,Saccharomyces cerevisiae,23904,6322935,15133a4BCt5p1,1,144100,0.017,0.25,48.3,169.4,1.54,,,"Flexible, multi-domain construct",,,,,,,,,,,,,
+3,NUP133,27 - 515,57260,Saccharomyces cerevisiae,23905,6322935,15133a6BCt6p1,1,64900,0.023,0.25,28.0,99.9,1.40,,,,,,,,,,,,,,,,
+4,NUP133,27 - 483,53694,Saccharomyces cerevisiae,23906,6322935,15133a7BCt2p1,1,59700,0.018,0.25,25.7,94.2,1.61,,,,,,,,,,,,,,,,
+5,NUP133,41 - 483,52074,Saccharomyces cerevisiae,23907,6322935,15133a9BCt14p1,1,56000,0.022,0.25,25.1,95.2,1.61,,,,,,,,,,,,,,,,
+6,NUP133,41 - 515,55662,Saccharomyces cerevisiae,23908,6322935,15133a10BCt3p1,1,60600,0.022,0.25,26.5,92.5,1.45,,,,,,,,,,,,,,,,
+7,NUP133,41 - 1157,130698,Saccharomyces cerevisiae,23910,6322935,15133a12BCt7p1,1,148400,0.013,0.30,48.8,170.7,4.56,,,"Flexible, multi-domain construct",,,,,,,,,,,,,
+8,NUP133,52 - 483,50686,Saccharomyces cerevisiae,23911,6322935,15133a13BCt10p1,1,54700,0.021,0.25,25.8,90.9,2.00,,,,,,,,,,,,,,,,
+9,NUP133,52 - 515,54270,Saccharomyces cerevisiae,23912,6322935,15133a14BCt10p1,1,60700,0.015,0.25,26.5,83.8,1.25,,,,,,,,,,,,,,,,
+10,NUP133,490 - 822,40344,Saccharomyces cerevisiae,23915,6322935,15133a21BCt10p1,1,43100,0.016,0.27,25.4,86.1,1.29,,,,,,,,,,,,,,,,
+11,NUP133,490 - 879,47296,Saccharomyces cerevisiae,23916,6322935,15133a22BCt4p1,1,56500,0.019,0.30,31.6,111.8,1.78,,,,,,,,,,,,,,,,
+12,NUP133,490 - 1157,79198,Saccharomyces cerevisiae,23917,6322935,15133a23BCt4p1,2,89800,0.014,0.24,40.8,142.8,3.55,,,"Flexible, multi-domain construct",,,,,,,,,,,,,
+13,NUP133,508 - 822,38312,Saccharomyces cerevisiae,23918,6322935,15133a24BCt4p1,1,39500,0.010,0.25,23.9,92.4,1.89,,,,,,,,,,,,,,,,
+14,NUP133,508 - 879,45262,Saccharomyces cerevisiae,23919,6322935,15133a25BCt4p1,1,45000,0.034,0.18,30.1,101.5,1.29,,,,,,,,,,,,,,,,
+15,NUP133,508 - 1157,77160,Saccharomyces cerevisiae,23920,6322935,15133a26BCt14p1,1,77500,0.022,0.30,41.9,117.3,1.71,,,,,,,,,,,,,,,,
+16,NUP133,521 - 1157,75730,Saccharomyces cerevisiae,23921,6322935,15133a29BCt5p1,1,65800,0.046,0.25,41.0,104.3,2.90,,,,,,,,,,,,,,,,
+17,NUP133,881 - 1157,25876,Saccharomyces cerevisiae,23922,6322935,15133a31BCt11p1,1,26400,0.023,0.30,18.7,56.3,1.12,"Kim et al., 2014, MCP
+Sampathkumar et al, 2011, Proteins",,Yielded Nup133 (944-1157) due to N-terminal proteolysis,,,,,,,,,,,,,
+18,NUP133,41 - 879,99818,Saccharomyces cerevisiae,24047,6322935,15133a11BCt4p1,1,112900,0.020,0.25,38.0,137.9,3.26,"Kim et al., 2014, MCP",,"Flexible, multi-domain construct",,,,,,,,,,,,,
+19,NUP133,12 - 453,50717,Kluyveromyces lactis,24144,50302831,15133e5BCt12p1,1,60700,0.015,0.32,27.9,106.0,,,,,,,,,,,,,,,,,
+20,NUP133,35 - 453,48602,Kluyveromyces lactis,24145,50302831,15133e7BCt12p1,1,45100,0.013,0.32,24.8,71.5,,,,,,,,,,,,,,,,,
+21,NUP133,833 - 1105,32417,Kluyveromyces lactis,24147,50302831,15133e16BCt3p1,1,30900,0.020,0.31,20.8,68.4,,,,,,,,,,,,,,,,,
+22,NUP133,35 - 502,53824,Vanderwaltozyma polyspora,24155,156849045,15133f7BCt10p1,1,46800,0.013,0.32,25.5,82.5,,,,,,,,,,,,,,,,,
+23,NUP133,55 - 502,51628,Vanderwaltozyma polyspora,24159,156849045,15133f11BCt3p1,1,52200,0.014,0.30,24.4,77.8,1.14,"Kim et al., 2014, MCP",,Comparative Model,,,,,,,,,,,,,

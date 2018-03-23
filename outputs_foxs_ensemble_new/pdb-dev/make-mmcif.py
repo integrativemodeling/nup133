@@ -5,6 +5,7 @@ import ihm.representation
 import ihm.model
 import pdb
 import mes
+import saxs
 
 system = ihm.System()
 
@@ -29,6 +30,10 @@ system.asym_units.append(asym)
 assembly = ihm.Assembly([asym], name='Modeled assembly')
 rep = ihm.representation.Representation(
         [ihm.representation.AtomicSegment(asym, rigid=False)])
+
+sf = saxs.SAXSFits(asym)
+saxs_restraints = list(sf.add_from_csv())
+system.restraints.extend(saxs_restraints)
 
 g = ihm.model.StateGroup()
 for model, fraction in mes.get_models_with_fractions():
