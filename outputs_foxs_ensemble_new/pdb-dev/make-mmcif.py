@@ -36,14 +36,15 @@ sf = saxs.SAXSFits(asym)
 saxs_restraints = list(sf.add_from_csv())
 system.restraints.extend(saxs_restraints)
 
-ef = em2d.EM2DFits(assembly)
-em2d_restraints = list(ef.add_all())
+em2d_fits = em2d.EM2DFits(assembly)
+em2d_restraints = list(em2d_fits.add_all())
 system.restraints.extend(em2d_restraints)
 
 g = ihm.model.StateGroup()
 for model, fraction in mes.get_models_with_fractions():
     m = pdb.Model(assembly=assembly, protocol=None, representation=rep,
                   file_name=model, asym_units=[asym])
+    em2d_fits.add_model(m, em2d_restraints)
     s = ihm.model.State([ihm.model.ModelGroup([m])],
                         population_fraction=fraction)
     g.append(s)

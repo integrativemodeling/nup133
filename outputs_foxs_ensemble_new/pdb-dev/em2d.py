@@ -1,6 +1,8 @@
 import os
 import ihm.location
 import ihm.dataset
+import ihm.restraint
+from get_transformations import *
 
 em2d_dir = '../ISAC_p150_t346_m30'
 
@@ -25,3 +27,21 @@ class EM2DFits(object):
             yield r
             # todo: extract transformation from registration parameters file
             # todo: extract ccc from Table S3
+
+    def add_model(self, model, restraints):
+        """Add fit data to the given model for all restraints (images)"""
+        assert(len(restraints) == self.num_images)
+
+        centroid = get_centroid(model.file_name)
+        pixel_size = 2.28739
+        image_size = 128 # todo: check
+        regparam = os.path.join(model.file_name[:-4], 'registration.params')
+        for num, trans in get_transformations(regparam, centroid,
+                                              pixel_size, image_size):
+            rot = trans.get_rotation()
+            shift = [e for e in trans.get_translation()]
+            rm = [[e for e in rot.get_rotation_matrix_row(i)] for i in range(3)]
+
+            restraints[num].fits[model] = ihm.restraint.EM2DRestraintFit(
+                                                           rot_matrix=rm,
+                                                           tr_vector=shift)
