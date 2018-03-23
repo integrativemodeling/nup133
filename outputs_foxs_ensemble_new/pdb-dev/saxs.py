@@ -30,7 +30,8 @@ class SAXSFits(object):
         dataset = ihm.dataset.SASDataset(location=l)
         m = self.seqrange_re.match(row['Sequence coverage'])
         seqrange = (int(m.group(1)), int(m.group(2)))
-        assembly = ihm.Assembly([self.asym(*seqrange)], name='SAXS assembly')
+        c = ihm.AssemblyComponent(self.asym, seqrange)
+        assembly = ihm.Assembly([c], name='SAXS assembly')
         r = ihm.restraint.SASRestraint(dataset=dataset, assembly=assembly,
                 segment=False, fitting_method='FoXS')
         return r
