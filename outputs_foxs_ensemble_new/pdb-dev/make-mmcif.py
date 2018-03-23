@@ -6,6 +6,7 @@ import ihm.model
 import pdb
 import mes
 import saxs
+import em2d
 
 system = ihm.System()
 
@@ -34,6 +35,10 @@ rep = ihm.representation.Representation(
 sf = saxs.SAXSFits(asym)
 saxs_restraints = list(sf.add_from_csv())
 system.restraints.extend(saxs_restraints)
+
+ef = em2d.EM2DFits(assembly)
+em2d_restraints = list(ef.add_all())
+system.restraints.extend(em2d_restraints)
 
 g = ihm.model.StateGroup()
 for model, fraction in mes.get_models_with_fractions():
