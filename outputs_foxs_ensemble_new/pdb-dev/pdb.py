@@ -28,4 +28,4 @@ class Model(ihm.model.Model):
                         coord = atom.get_vector()
                         yield ihm.model.Atom(asym_unit=asym, seq_id=nres+1,
                                 atom_id=atom.get_id(), x=coord[0], y=coord[1],
-                                z=coord[2])
+                                z=coord[2], type_symbol=atom.element)
