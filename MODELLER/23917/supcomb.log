@@ -1,0 +1,1890 @@
+supcomb20 3i4rB.pdb 23917.B99990001.pdb
+
+ Number of atoms read ................................... : 3168
+ Number of knots in the rough grid ...................... : 1129
+ Fineness of the template ............................... : 4.310
+ Number of atoms read ................................... : 5466
+ Number of knots in the rough grid ...................... : 1274
+ Fineness of the superimposed structure ................. : 5.205
+
+  Principal axes orientation table
+
+    Distance                       Orientation
+
+  0.81102300433295194                1          -1          -1
+   1.1463995116717327               -1          -1           1
+   1.7516165994647503               -1           1          -1
+ ---------------------------------------------
+   1.7535132459248051                1           1           1
+ Distance after inertia-axes alignment .................. : 0.8110
+ Distance after inertia-axes alignment .................. : 1.146
+ Distance after inertia-axes alignment .................. : 1.752
+ Distance after inertia-axes alignment .................. : 1.754
+
+  --- ith Transformation matrix --- 
+   0.999526  -0.020641  -0.022824  -1.027721
+   0.018929   0.997164  -0.072845   0.641048
+   0.024263   0.072378   0.997082  -3.710859
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 2.140
+  --- ith Transformation matrix --- 
+  -0.947864  -0.004472   0.318643 -19.805245
+  -0.097935  -0.947425  -0.304621  64.179123
+   0.303253  -0.319946   0.897593  11.847808
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 3.178
+  --- ith Transformation matrix --- 
+  -0.904043   0.033653  -0.426114  -2.533544
+  -0.062740   0.975652   0.210161  -1.173916
+   0.422811   0.216729  -0.879920  41.061690
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.389
+  --- ith Transformation matrix --- 
+   0.823436   0.138261  -0.550306   5.578581
+   0.175576  -0.984345   0.015409  66.157547
+  -0.539561  -0.109309  -0.834821  42.652203
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.187
+ Fineness of the template ............................... : 1.364
+ Fineness of the superimposed structure ................. : 1.373
+ Initial distance ....................................... : 2.140
+
+  Minimization started ...
+
+
+ Minimization completed with Ifail ...................... : 0
+ Distance after minimization ............................ : 2.125
+
+ Shift vector  X ........................................ : -0.7150
+ Shift vector  Y ........................................ : -3.044e-2
+ Shift vector  Z ........................................ : 4.379e-2
+ Euler angle Alpha (grad) ............................... : 142.9
+ Euler angle Beta  (grad) ............................... : 1.713
+ Euler angle Gamma (grad) ............................... : 217.1
+supcomb20 3i4rB.pdb 23917.B99990002.pdb
+
+ Number of atoms read ................................... : 3168
+ Number of knots in the rough grid ...................... : 1129
+ Fineness of the template ............................... : 4.310
+ Number of atoms read ................................... : 5466
+ Number of knots in the rough grid ...................... : 1249
+ Fineness of the superimposed structure ................. : 5.205
+
+  Principal axes orientation table
+
+    Distance                       Orientation
+
+  0.79189104951887923                1           1           1
+   1.2457760197524155               -1           1          -1
+   1.8004617505405569                1          -1          -1
+ ---------------------------------------------
+   1.8217892945916769               -1          -1           1
+ Distance after inertia-axes alignment .................. : 0.7919
+ Distance after inertia-axes alignment .................. : 1.246
+ Distance after inertia-axes alignment .................. : 1.801
+ Distance after inertia-axes alignment .................. : 1.822
+
+  --- ith Transformation matrix --- 
+   0.992912   0.012779  -0.118166   0.924257
+  -0.020833   0.997524  -0.067173   1.942363
+   0.117015   0.069158   0.990719  -3.291007
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 2.124
+  --- ith Transformation matrix --- 
+  -0.950454  -0.019346   0.310262 -21.270808
+  -0.064416  -0.964142  -0.257451  61.179971
+   0.304117  -0.264681   0.915127   8.393354
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 3.138
+  --- ith Transformation matrix --- 
+   0.791653   0.145151  -0.593479   8.397057
+   0.208554  -0.977226   0.039187  63.490637
+  -0.574274  -0.154795  -0.803895  42.512623
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.433
+  --- ith Transformation matrix --- 
+  -0.946195  -0.011119  -0.323407  -5.303649
+  -0.072783   0.981115   0.179211   2.026048
+   0.315306   0.193107  -0.929135  44.350771
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.767
+ Fineness of the template ............................... : 1.364
+ Fineness of the superimposed structure ................. : 1.373
+ Initial distance ....................................... : 2.124
+
+  Minimization started ...
+
+
+ Minimization completed with Ifail ...................... : 0
+ Distance after minimization ............................ : 2.113
+
+ Shift vector  X ........................................ : 0.3387
+ Shift vector  Y ........................................ : -6.378e-2
+ Shift vector  Z ........................................ : 8.976e-2
+ Euler angle Alpha (grad) ............................... : 7.412e-2
+ Euler angle Beta  (grad) ............................... : 1.106
+ Euler angle Gamma (grad) ............................... : 0.7711
+supcomb20 3i4rB.pdb 23917.B99990003.pdb
+
+ Number of atoms read ................................... : 3168
+ Number of knots in the rough grid ...................... : 1129
+ Fineness of the template ............................... : 4.310
+ Number of atoms read ................................... : 5466
+ Number of knots in the rough grid ...................... : 1295
+ Fineness of the superimposed structure ................. : 5.205
+
+  Principal axes orientation table
+
+    Distance                       Orientation
+
+  0.79337987491458883                1           1           1
+   1.2285809124918083               -1           1          -1
+   1.6988143386348744               -1          -1           1
+ ---------------------------------------------
+   1.7368694314261330                1          -1          -1
+ Distance after inertia-axes alignment .................. : 0.7934
+ Distance after inertia-axes alignment .................. : 1.229
+ Distance after inertia-axes alignment .................. : 1.699
+ Distance after inertia-axes alignment .................. : 1.737
+
+  --- ith Transformation matrix --- 
+   0.996535  -0.041172  -0.072276   0.845970
+   0.038461   0.998518  -0.038501   1.702422
+   0.073754   0.035588   0.996641  -0.832819
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 2.207
+  --- ith Transformation matrix --- 
+  -0.926749   0.014524   0.375400 -21.156943
+  -0.145240  -0.935408  -0.322363  61.378656
+   0.346470  -0.353273   0.868998  13.034007
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 3.166
+  --- ith Transformation matrix --- 
+  -0.929451   0.029601  -0.367756  -5.196407
+  -0.054391   0.974892   0.215934   0.661618
+   0.364914   0.220702  -0.904504  40.265059
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.184
+  --- ith Transformation matrix --- 
+   0.839350   0.106321  -0.533093   6.859149
+   0.132288  -0.991154   0.010608  63.146119
+  -0.527250  -0.079426  -0.845990  40.994042
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.151
+ Fineness of the template ............................... : 1.364
+ Fineness of the superimposed structure ................. : 1.373
+ Initial distance ....................................... : 2.207
+
+  Minimization started ...
+
+
+ Minimization completed with Ifail ...................... : 0
+ Distance after minimization ............................ : 2.197
+
+ Shift vector  X ........................................ : 0.6040
+ Shift vector  Y ........................................ : -0.5659
+ Shift vector  Z ........................................ : 0.1955
+ Euler angle Alpha (grad) ............................... : 79.08
+ Euler angle Beta  (grad) ............................... : 0.3964
+ Euler angle Gamma (grad) ............................... : 280.5
+supcomb20 3i4rB.pdb 23917.B99990004.pdb
+
+ Number of atoms read ................................... : 3168
+ Number of knots in the rough grid ...................... : 1129
+ Fineness of the template ............................... : 4.310
+ Number of atoms read ................................... : 5466
+ Number of knots in the rough grid ...................... : 1271
+ Fineness of the superimposed structure ................. : 5.205
+
+  Principal axes orientation table
+
+    Distance                       Orientation
+
+  0.78681739451645771                1           1           1
+   1.2041253191023815               -1           1          -1
+   1.7560899435653303               -1          -1           1
+ ---------------------------------------------
+   1.7746298465903783                1          -1          -1
+ Distance after inertia-axes alignment .................. : 0.7868
+ Distance after inertia-axes alignment .................. : 1.204
+ Distance after inertia-axes alignment .................. : 1.756
+ Distance after inertia-axes alignment .................. : 1.775
+
+  --- ith Transformation matrix --- 
+   0.994835  -0.010159  -0.100994  -1.114502
+   0.008177   0.999766  -0.020012   0.771514
+   0.101174   0.019082   0.994686  -2.240196
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 2.122
+  --- ith Transformation matrix --- 
+  -0.940188  -0.054477   0.336271 -17.266126
+  -0.071882  -0.933178  -0.352152  63.873389
+   0.332985  -0.355261   0.873447  11.893129
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 3.089
+  --- ith Transformation matrix --- 
+  -0.953761  -0.006401  -0.300499  -3.329859
+  -0.086388   0.963426   0.253669  -0.534646
+   0.287884   0.267899  -0.919431  39.958168
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.375
+  --- ith Transformation matrix --- 
+   0.801883   0.192471  -0.565631   4.210312
+   0.218508  -0.975583  -0.022193  64.610337
+  -0.556091  -0.105799  -0.824360  42.585581
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.347
+ Fineness of the template ............................... : 1.364
+ Fineness of the superimposed structure ................. : 1.373
+ Initial distance ....................................... : 2.122
+
+  Minimization started ...
+
+
+ Minimization completed with Ifail ...................... : 0
+ Distance after minimization ............................ : 2.097
+
+ Shift vector  X ........................................ : -0.5536
+ Shift vector  Y ........................................ : -1.028
+ Shift vector  Z ........................................ : 0.4700
+ Euler angle Alpha (grad) ............................... : 140.3
+ Euler angle Beta  (grad) ............................... : 1.658
+ Euler angle Gamma (grad) ............................... : 220.1
+supcomb20 3i4rB.pdb 23917.B99990005.pdb
+
+ Number of atoms read ................................... : 3168
+ Number of knots in the rough grid ...................... : 1129
+ Fineness of the template ............................... : 4.310
+ Number of atoms read ................................... : 5466
+ Number of knots in the rough grid ...................... : 1276
+ Fineness of the superimposed structure ................. : 5.205
+
+  Principal axes orientation table
+
+    Distance                       Orientation
+
+  0.80890262060228713                1          -1          -1
+   1.1933843185527435               -1          -1           1
+   1.7621688365576356               -1           1          -1
+ ---------------------------------------------
+   1.7803649591020405                1           1           1
+ Distance after inertia-axes alignment .................. : 0.8089
+ Distance after inertia-axes alignment .................. : 1.193
+ Distance after inertia-axes alignment .................. : 1.762
+ Distance after inertia-axes alignment .................. : 1.780
+
+  --- ith Transformation matrix --- 
+   0.993300  -0.059602   0.099011  -1.059544
+   0.060771   0.998113  -0.008834   1.673377
+  -0.098298   0.014792   0.995047  -3.215837
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 2.153
+  --- ith Transformation matrix --- 
+  -0.969392   0.001161   0.245514 -20.219123
+  -0.081488  -0.944824  -0.317281  60.502262
+   0.231599  -0.327576   0.916000   9.763319
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 3.113
+  --- ith Transformation matrix --- 
+  -0.838969   0.055890  -0.541301  -1.394768
+  -0.060368   0.979013   0.194650   1.869194
+   0.540820   0.195982  -0.817988  43.737147
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.387
+  --- ith Transformation matrix --- 
+   0.903949   0.111786  -0.412772   6.846145
+   0.139731  -0.989459   0.038040  61.176170
+  -0.404168  -0.092063  -0.910040  44.021771
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.328
+ Fineness of the template ............................... : 1.364
+ Fineness of the superimposed structure ................. : 1.373
+ Initial distance ....................................... : 2.153
+
+  Minimization started ...
+
+
+ Minimization completed with Ifail ...................... : 0
+ Distance after minimization ............................ : 2.139
+
+ Shift vector  X ........................................ : -0.3605
+ Shift vector  Y ........................................ : 0.6846
+ Shift vector  Z ........................................ : -0.4729
+ Euler angle Alpha (grad) ............................... : 187.3
+ Euler angle Beta  (grad) ............................... : 2.013
+ Euler angle Gamma (grad) ............................... : 172.3
+supcomb20 3i4rB.pdb 23917.B99990006.pdb
+
+ Number of atoms read ................................... : 3168
+ Number of knots in the rough grid ...................... : 1129
+ Fineness of the template ............................... : 4.310
+ Number of atoms read ................................... : 5466
+ Number of knots in the rough grid ...................... : 1262
+ Fineness of the superimposed structure ................. : 5.205
+
+  Principal axes orientation table
+
+    Distance                       Orientation
+
+  0.77856796599076761                1           1           1
+   1.3764213544737456               -1           1          -1
+   1.6689805027518907               -1          -1           1
+ ---------------------------------------------
+   1.7695725191321363                1          -1          -1
+ Distance after inertia-axes alignment .................. : 0.7786
+ Distance after inertia-axes alignment .................. : 1.376
+ Distance after inertia-axes alignment .................. : 1.669
+ Distance after inertia-axes alignment .................. : 1.770
+
+  --- ith Transformation matrix --- 
+   0.992289  -0.025710  -0.121252   1.556677
+   0.023965   0.999588  -0.015825  -0.546473
+   0.121609   0.012797   0.992496  -0.299671
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 2.113
+  --- ith Transformation matrix --- 
+  -0.925198   0.010948   0.379326 -22.393296
+  -0.146615  -0.932279  -0.330695  63.897888
+   0.350018  -0.361573   0.864148  13.363209
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 3.338
+  --- ith Transformation matrix --- 
+  -0.975386   0.064401  -0.210891  -9.852494
+   0.009703   0.968009   0.250728  -2.494175
+   0.220291   0.242510  -0.944807  40.563751
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.407
+  --- ith Transformation matrix --- 
+   0.829689   0.127831  -0.543393   6.498805
+   0.157605  -0.987467   0.008344  65.327929
+  -0.535516  -0.092565  -0.839437  41.608006
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.197
+ Fineness of the template ............................... : 1.364
+ Fineness of the superimposed structure ................. : 1.373
+ Initial distance ....................................... : 2.113
+
+  Minimization started ...
+
+
+ Minimization completed with Ifail ...................... : 0
+ Distance after minimization ............................ : 2.105
+
+ Shift vector  X ........................................ : -0.4510
+ Shift vector  Y ........................................ : 0.4153
+ Shift vector  Z ........................................ : -2.468e-3
+ Euler angle Alpha (grad) ............................... : 277.4
+ Euler angle Beta  (grad) ............................... : 0.4123
+ Euler angle Gamma (grad) ............................... : 82.96
+supcomb20 3i4rB.pdb 23917.B99990007.pdb
+
+ Number of atoms read ................................... : 3168
+ Number of knots in the rough grid ...................... : 1129
+ Fineness of the template ............................... : 4.310
+ Number of atoms read ................................... : 5466
+ Number of knots in the rough grid ...................... : 1273
+ Fineness of the superimposed structure ................. : 5.205
+
+  Principal axes orientation table
+
+    Distance                       Orientation
+
+  0.79779269189349833                1           1           1
+   1.2334242645086591               -1           1          -1
+   1.7631329971024525                1          -1          -1
+ ---------------------------------------------
+   1.7916149768593577               -1          -1           1
+ Distance after inertia-axes alignment .................. : 0.7978
+ Distance after inertia-axes alignment .................. : 1.233
+ Distance after inertia-axes alignment .................. : 1.763
+ Distance after inertia-axes alignment .................. : 1.792
+
+  --- ith Transformation matrix --- 
+   0.964963  -0.018392  -0.261740   7.747610
+   0.019471   0.999809   0.001532   1.209981
+   0.261661  -0.006574   0.965137  -0.172942
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 2.125
+  --- ith Transformation matrix --- 
+  -0.890163  -0.030554   0.454617 -25.476841
+  -0.139780  -0.931328  -0.336289  61.316324
+   0.433672  -0.362899   0.824763  14.186273
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 3.163
+  --- ith Transformation matrix --- 
+   0.716923   0.174168  -0.675046  11.052554
+   0.171764  -0.982570  -0.071092  65.282701
+  -0.675662  -0.064981  -0.734343  37.718714
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.314
+  --- ith Transformation matrix --- 
+  -0.980641   0.028944  -0.193665 -10.814043
+  -0.025422   0.961826   0.272477  -0.914200
+   0.194159   0.272126  -0.942470  42.331752
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.535
+ Fineness of the template ............................... : 1.364
+ Fineness of the superimposed structure ................. : 1.373
+ Initial distance ....................................... : 2.125
+
+  Minimization started ...
+
+
+ Minimization completed with Ifail ...................... : 0
+ Distance after minimization ............................ : 2.101
+
+ Shift vector  X ........................................ : -1.274
+ Shift vector  Y ........................................ : -0.6603
+ Shift vector  Z ........................................ : 0.4374
+ Euler angle Alpha (grad) ............................... : 162.7
+ Euler angle Beta  (grad) ............................... : 2.154
+ Euler angle Gamma (grad) ............................... : 197.8
+supcomb20 3i4rB.pdb 23917.B99990008.pdb
+
+ Number of atoms read ................................... : 3168
+ Number of knots in the rough grid ...................... : 1129
+ Fineness of the template ............................... : 4.310
+ Number of atoms read ................................... : 5466
+ Number of knots in the rough grid ...................... : 1267
+ Fineness of the superimposed structure ................. : 5.205
+
+  Principal axes orientation table
+
+    Distance                       Orientation
+
+  0.77529529951379372                1           1           1
+   1.2925267208561217               -1           1          -1
+   1.6817832285867034               -1          -1           1
+ ---------------------------------------------
+   1.8142350740602173                1          -1          -1
+ Distance after inertia-axes alignment .................. : 0.7753
+ Distance after inertia-axes alignment .................. : 1.293
+ Distance after inertia-axes alignment .................. : 1.682
+ Distance after inertia-axes alignment .................. : 1.814
+
+  --- ith Transformation matrix --- 
+   0.999883   0.001081  -0.015268  -2.270904
+  -0.001238   0.999947  -0.010266  -1.830171
+   0.015256   0.010284   0.999831  -0.738851
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 2.120
+  --- ith Transformation matrix --- 
+  -0.970925  -0.040307   0.235965 -16.670368
+  -0.045442  -0.936766  -0.346994  64.938091
+   0.235030  -0.347628   0.907698  12.551935
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 3.248
+  --- ith Transformation matrix --- 
+  -0.934063   0.004726  -0.357076  -4.905304
+  -0.079246   0.972238   0.220167  -2.851853
+   0.348204   0.233947  -0.907757  39.613003
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.167
+  --- ith Transformation matrix --- 
+   0.856293   0.164780  -0.489500   3.545657
+   0.193809  -0.981000   0.008800  66.807810
+  -0.478750  -0.102404  -0.871959  42.866293
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.353
+ Fineness of the template ............................... : 1.364
+ Fineness of the superimposed structure ................. : 1.373
+ Initial distance ....................................... : 2.120
+
+  Minimization started ...
+
+
+ Minimization completed with Ifail ...................... : 0
+ Distance after minimization ............................ : 2.116
+
+ Shift vector  X ........................................ : -0.1666
+ Shift vector  Y ........................................ : 0.4278
+ Shift vector  Z ........................................ : -0.3645
+ Euler angle Alpha (grad) ............................... : 188.3
+ Euler angle Beta  (grad) ............................... : 1.419
+ Euler angle Gamma (grad) ............................... : 170.9
+supcomb20 3i4rB.pdb 23917.B99990009.pdb
+
+ Number of atoms read ................................... : 3168
+ Number of knots in the rough grid ...................... : 1129
+ Fineness of the template ............................... : 4.310
+ Number of atoms read ................................... : 5466
+ Number of knots in the rough grid ...................... : 1254
+ Fineness of the superimposed structure ................. : 5.205
+
+  Principal axes orientation table
+
+    Distance                       Orientation
+
+  0.81407828715418817                1           1           1
+   1.2766980154549559               -1           1          -1
+   1.7471312392406897               -1          -1           1
+ ---------------------------------------------
+   1.7521377357879202                1          -1          -1
+ Distance after inertia-axes alignment .................. : 0.8141
+ Distance after inertia-axes alignment .................. : 1.277
+ Distance after inertia-axes alignment .................. : 1.747
+ Distance after inertia-axes alignment .................. : 1.752
+
+  --- ith Transformation matrix --- 
+   0.969232  -0.038645  -0.243097   3.382479
+   0.026264   0.998197  -0.053969   2.611701
+   0.244744   0.045924   0.968499  -1.729068
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 2.192
+  --- ith Transformation matrix --- 
+  -0.872932   0.014638   0.487623 -23.792489
+  -0.161916  -0.951582  -0.261293  59.168325
+   0.460188  -0.307045   0.833037  11.546844
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 3.188
+  --- ith Transformation matrix --- 
+  -0.965483   0.019757  -0.259716  -5.287377
+  -0.029834   0.982168   0.185622   3.303808
+   0.258752   0.186963  -0.947677  43.704946
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.222
+  --- ith Transformation matrix --- 
+   0.724226   0.122841  -0.678533   9.379140
+   0.167782  -0.985824   0.000608  61.252175
+  -0.668840  -0.114286  -0.734569  39.973357
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.289
+ Fineness of the template ............................... : 1.364
+ Fineness of the superimposed structure ................. : 1.373
+ Initial distance ....................................... : 2.192
+
+  Minimization started ...
+
+
+ Minimization completed with Ifail ...................... : 0
+ Distance after minimization ............................ : 2.182
+
+ Shift vector  X ........................................ : 0.4910
+ Shift vector  Y ........................................ : 0.1409
+ Shift vector  Z ........................................ : -0.3144
+ Euler angle Alpha (grad) ............................... : 178.0
+ Euler angle Beta  (grad) ............................... : 1.309
+ Euler angle Gamma (grad) ............................... : 181.1
+supcomb20 3i4rB.pdb 23917.B99990010.pdb
+
+ Number of atoms read ................................... : 3168
+ Number of knots in the rough grid ...................... : 1129
+ Fineness of the template ............................... : 4.310
+ Number of atoms read ................................... : 5466
+ Number of knots in the rough grid ...................... : 1276
+ Fineness of the superimposed structure ................. : 5.205
+
+  Principal axes orientation table
+
+    Distance                       Orientation
+
+  0.79965461978370345                1           1           1
+   1.1869342073765405               -1           1          -1
+   1.7489240557578745               -1          -1           1
+ ---------------------------------------------
+   1.7519426122399731                1          -1          -1
+ Distance after inertia-axes alignment .................. : 0.7997
+ Distance after inertia-axes alignment .................. : 1.187
+ Distance after inertia-axes alignment .................. : 1.749
+ Distance after inertia-axes alignment .................. : 1.752
+
+  --- ith Transformation matrix --- 
+   0.998625  -0.052217   0.004599  -2.024504
+   0.052416   0.995616  -0.077468   5.018842
+  -0.000534   0.077603   0.996984  -1.502356
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 2.140
+  --- ith Transformation matrix --- 
+  -0.952146   0.025053   0.304615 -19.005621
+  -0.114248  -0.953563  -0.278684  58.124096
+   0.283488  -0.300150   0.910794  10.880523
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 3.155
+  --- ith Transformation matrix --- 
+  -0.893109   0.046806  -0.447399  -2.336129
+  -0.043471   0.980937   0.189401   3.904725
+   0.447735   0.188605  -0.874049  41.279195
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.313
+  --- ith Transformation matrix --- 
+   0.823736   0.118332  -0.554488   5.211151
+   0.150821  -0.988474   0.013108  61.480110
+  -0.546545  -0.094426  -0.832089  41.007171
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.208
+ Fineness of the template ............................... : 1.364
+ Fineness of the superimposed structure ................. : 1.373
+ Initial distance ....................................... : 2.140
+
+  Minimization started ...
+
+
+ Minimization completed with Ifail ...................... : 0
+ Distance after minimization ............................ : 2.116
+
+ Shift vector  X ........................................ : 0.5027
+ Shift vector  Y ........................................ : -0.9560
+ Shift vector  Z ........................................ : 0.3899
+ Euler angle Alpha (grad) ............................... : 109.5
+ Euler angle Beta  (grad) ............................... : 1.153
+ Euler angle Gamma (grad) ............................... : 249.9
+supcomb20 3i4rB.pdb 23917.B99990011.pdb
+
+ Number of atoms read ................................... : 3168
+ Number of knots in the rough grid ...................... : 1129
+ Fineness of the template ............................... : 4.310
+ Number of atoms read ................................... : 5466
+ Number of knots in the rough grid ...................... : 1276
+ Fineness of the superimposed structure ................. : 5.205
+
+  Principal axes orientation table
+
+    Distance                       Orientation
+
+  0.80317979917985693                1          -1          -1
+   1.1653961126357433               -1          -1           1
+   1.6831379499288550                1           1           1
+ ---------------------------------------------
+   1.7290584376310283               -1           1          -1
+ Distance after inertia-axes alignment .................. : 0.8032
+ Distance after inertia-axes alignment .................. : 1.165
+ Distance after inertia-axes alignment .................. : 1.683
+ Distance after inertia-axes alignment .................. : 1.729
+
+  --- ith Transformation matrix --- 
+   0.999524   0.030724   0.002722  -2.283296
+  -0.030655   0.999276  -0.022535  -0.551183
+  -0.003413   0.022441   0.999742  -2.379139
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 2.154
+  --- ith Transformation matrix --- 
+  -0.957798  -0.069637   0.278878 -18.007802
+  -0.028999  -0.941849  -0.334782  63.849501
+   0.285974  -0.328741   0.900083  11.345087
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 3.357
+  --- ith Transformation matrix --- 
+   0.757914   0.231070  -0.610060   4.751399
+   0.246802  -0.967223  -0.059734  66.207585
+  -0.603867  -0.105291  -0.790101  40.421643
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.106
+  --- ith Transformation matrix --- 
+  -0.891139   0.014946  -0.453484  -1.016403
+  -0.119864   0.956196   0.267060  -0.512521
+   0.437612   0.292344  -0.850312  39.191375
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.349
+ Fineness of the template ............................... : 1.364
+ Fineness of the superimposed structure ................. : 1.373
+ Initial distance ....................................... : 2.154
+
+  Minimization started ...
+
+
+ Minimization completed with Ifail ...................... : 0
+ Distance after minimization ............................ : 2.148
+
+ Shift vector  X ........................................ : 0.1353
+ Shift vector  Y ........................................ : 7.815e-2
+ Shift vector  Z ........................................ : -0.1558
+ Euler angle Alpha (grad) ............................... : 352.7
+ Euler angle Beta  (grad) ............................... : 1.213
+ Euler angle Gamma (grad) ............................... : 8.015
+supcomb20 3i4rB.pdb 23917.B99990012.pdb
+
+ Number of atoms read ................................... : 3168
+ Number of knots in the rough grid ...................... : 1129
+ Fineness of the template ............................... : 4.310
+ Number of atoms read ................................... : 5466
+ Number of knots in the rough grid ...................... : 1281
+ Fineness of the superimposed structure ................. : 5.205
+
+  Principal axes orientation table
+
+    Distance                       Orientation
+
+  0.81194766067824709                1           1           1
+   1.1538561675677856               -1           1          -1
+   1.7324715888074438                1          -1          -1
+ ---------------------------------------------
+   1.7627579491744081               -1          -1           1
+ Distance after inertia-axes alignment .................. : 0.8120
+ Distance after inertia-axes alignment .................. : 1.154
+ Distance after inertia-axes alignment .................. : 1.733
+ Distance after inertia-axes alignment .................. : 1.763
+
+  --- ith Transformation matrix --- 
+   0.994844  -0.007550  -0.101136   0.554332
+   0.004172   0.999428  -0.033567  -0.036616
+   0.101331   0.032972   0.994306  -3.697816
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 2.144
+  --- ith Transformation matrix --- 
+  -0.930956  -0.037125   0.363238 -20.832893
+  -0.086634  -0.943951  -0.318514  63.906450
+   0.354704  -0.327991   0.875561  10.605913
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 3.137
+  --- ith Transformation matrix --- 
+   0.826797   0.155274  -0.540644   6.094315
+   0.180163  -0.983612  -0.006976  65.646619
+  -0.532867  -0.091637  -0.841222  43.265724
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.167
+  --- ith Transformation matrix --- 
+  -0.955318  -0.015134  -0.295194  -4.599173
+  -0.091595   0.964686   0.246964  -2.321549
+   0.281031   0.262967  -0.922968  41.003820
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.518
+ Fineness of the template ............................... : 1.364
+ Fineness of the superimposed structure ................. : 1.373
+ Initial distance ....................................... : 2.144
+
+  Minimization started ...
+
+
+ Minimization completed with Ifail ...................... : 0
+ Distance after minimization ............................ : 2.123
+
+ Shift vector  X ........................................ : -0.6288
+ Shift vector  Y ........................................ : -3.637e-3
+ Shift vector  Z ........................................ : -5.199e-2
+ Euler angle Alpha (grad) ............................... : 172.5
+ Euler angle Beta  (grad) ............................... : 1.734
+ Euler angle Gamma (grad) ............................... : 188.1
+supcomb20 3i4rB.pdb 23917.B99990013.pdb
+
+ Number of atoms read ................................... : 3168
+ Number of knots in the rough grid ...................... : 1129
+ Fineness of the template ............................... : 4.310
+ Number of atoms read ................................... : 5466
+ Number of knots in the rough grid ...................... : 1288
+ Fineness of the superimposed structure ................. : 5.205
+
+  Principal axes orientation table
+
+    Distance                       Orientation
+
+  0.83026724555054665                1           1           1
+   1.2846873703615018               -1           1          -1
+   1.7603646301139413               -1          -1           1
+ ---------------------------------------------
+   1.8129987599479260                1          -1          -1
+ Distance after inertia-axes alignment .................. : 0.8303
+ Distance after inertia-axes alignment .................. : 1.285
+ Distance after inertia-axes alignment .................. : 1.760
+ Distance after inertia-axes alignment .................. : 1.813
+
+  --- ith Transformation matrix --- 
+   0.997269   0.063550  -0.037636  -2.310261
+  -0.063741   0.997959  -0.003886  -0.162622
+   0.037312   0.006275   0.999284  -1.894276
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 2.253
+  --- ith Transformation matrix --- 
+  -0.966426  -0.070980   0.246948 -17.798351
+  -0.015380  -0.943384  -0.331345  61.140684
+   0.256486  -0.324019   0.910619   9.823279
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 3.358
+  --- ith Transformation matrix --- 
+  -0.860858  -0.015284  -0.508616   0.298381
+  -0.148180   0.963758   0.221841  -0.539987
+   0.486793   0.266340  -0.831923  40.563838
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.369
+  --- ith Transformation matrix --- 
+   0.810244   0.241405  -0.534068   3.762448
+   0.257173  -0.965263  -0.046148  64.978405
+  -0.526656  -0.099956  -0.844181  41.727640
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.345
+ Fineness of the template ............................... : 1.364
+ Fineness of the superimposed structure ................. : 1.373
+ Initial distance ....................................... : 2.253
+
+  Minimization started ...
+
+
+ Minimization completed with Ifail ...................... : 0
+ Distance after minimization ............................ : 2.246
+
+ Shift vector  X ........................................ : -0.2885
+ Shift vector  Y ........................................ : 0.5714
+ Shift vector  Z ........................................ : -0.2831
+ Euler angle Alpha (grad) ............................... : 179.7
+ Euler angle Beta  (grad) ............................... : 1.557
+ Euler angle Gamma (grad) ............................... : 179.7
+supcomb20 3i4rB.pdb 23917.B99990014.pdb
+
+ Number of atoms read ................................... : 3168
+ Number of knots in the rough grid ...................... : 1129
+ Fineness of the template ............................... : 4.310
+ Number of atoms read ................................... : 5466
+ Number of knots in the rough grid ...................... : 1269
+ Fineness of the superimposed structure ................. : 5.204
+
+  Principal axes orientation table
+
+    Distance                       Orientation
+
+  0.77557786906517923                1           1           1
+   1.1655305656768562               -1           1          -1
+   1.7119856447171788               -1          -1           1
+ ---------------------------------------------
+   1.7378902173999153                1          -1          -1
+ Distance after inertia-axes alignment .................. : 0.7756
+ Distance after inertia-axes alignment .................. : 1.166
+ Distance after inertia-axes alignment .................. : 1.712
+ Distance after inertia-axes alignment .................. : 1.738
+
+  --- ith Transformation matrix --- 
+   0.995528  -0.085757  -0.039624   2.155680
+   0.084453   0.995865  -0.033476   0.243828
+   0.042331   0.029979   0.998654  -3.091877
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 2.004
+  --- ith Transformation matrix --- 
+  -0.909655   0.014786   0.415100 -22.892990
+  -0.172050  -0.923014  -0.344155  63.754816
+   0.378055  -0.384481   0.842169  14.907187
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 3.127
+  --- ith Transformation matrix --- 
+  -0.947595   0.082722  -0.308580  -6.944984
+   0.008871   0.972336   0.233417  -0.831348
+   0.319352   0.218448  -0.922114  42.838410
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.214
+  --- ith Transformation matrix --- 
+   0.805618   0.092355  -0.585192   8.825281
+   0.107465  -0.994169  -0.008956  64.303549
+  -0.582607  -0.055672  -0.810845  40.561327
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.229
+ Fineness of the template ............................... : 1.364
+ Fineness of the superimposed structure ................. : 1.373
+ Initial distance ....................................... : 2.004
+
+  Minimization started ...
+
+
+ Minimization completed with Ifail ...................... : 0
+ Distance after minimization ............................ : 1.983
+
+ Shift vector  X ........................................ : -0.3819
+ Shift vector  Y ........................................ : 0.2697
+ Shift vector  Z ........................................ : 0.6307
+ Euler angle Alpha (grad) ............................... : 118.3
+ Euler angle Beta  (grad) ............................... : 0.7769
+ Euler angle Gamma (grad) ............................... : 241.7
+supcomb20 3i4rB.pdb 23917.B99990015.pdb
+
+ Number of atoms read ................................... : 3168
+ Number of knots in the rough grid ...................... : 1129
+ Fineness of the template ............................... : 4.310
+ Number of atoms read ................................... : 5466
+ Number of knots in the rough grid ...................... : 1285
+ Fineness of the superimposed structure ................. : 5.205
+
+  Principal axes orientation table
+
+    Distance                       Orientation
+
+  0.79460904299145974                1           1           1
+   1.1815871154027535               -1           1          -1
+   1.6957689225187478                1          -1          -1
+ ---------------------------------------------
+   1.6999063192520971               -1          -1           1
+ Distance after inertia-axes alignment .................. : 0.7946
+ Distance after inertia-axes alignment .................. : 1.182
+ Distance after inertia-axes alignment .................. : 1.696
+ Distance after inertia-axes alignment .................. : 1.700
+
+  --- ith Transformation matrix --- 
+   0.997257  -0.005493  -0.073818   1.443729
+   0.003715   0.999700  -0.024205  -0.004807
+   0.073929   0.023865   0.996978  -1.746243
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 2.191
+  --- ith Transformation matrix --- 
+  -0.920502  -0.010725   0.390591 -22.798126
+  -0.131456  -0.932854  -0.335415  64.266429
+   0.367962  -0.360096   0.857283  13.763481
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 3.299
+  --- ith Transformation matrix --- 
+   0.771547   0.176977  -0.611060   6.987265
+   0.177740  -0.982243  -0.060059  67.580068
+  -0.610838  -0.062271  -0.789303  38.919598
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.000
+  --- ith Transformation matrix --- 
+  -0.949217   0.039554  -0.312126  -6.381276
+  -0.049718   0.960743   0.272949  -1.565221
+   0.310669   0.274606  -0.909987  40.042022
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.242
+ Fineness of the template ............................... : 1.364
+ Fineness of the superimposed structure ................. : 1.373
+ Initial distance ....................................... : 2.191
+
+  Minimization started ...
+
+
+ Minimization completed with Ifail ...................... : 0
+ Distance after minimization ............................ : 2.180
+
+ Shift vector  X ........................................ : 0.2356
+ Shift vector  Y ........................................ : -0.1331
+ Shift vector  Z ........................................ : 0.3553
+ Euler angle Alpha (grad) ............................... : 330.3
+ Euler angle Beta  (grad) ............................... : 1.209
+ Euler angle Gamma (grad) ............................... : 29.86
+supcomb20 3i4rB.pdb 23917.B99990016.pdb
+
+ Number of atoms read ................................... : 3168
+ Number of knots in the rough grid ...................... : 1129
+ Fineness of the template ............................... : 4.310
+ Number of atoms read ................................... : 5466
+ Number of knots in the rough grid ...................... : 1254
+ Fineness of the superimposed structure ................. : 5.204
+
+  Principal axes orientation table
+
+    Distance                       Orientation
+
+  0.75388454465702148                1           1           1
+   1.2488535946587891               -1           1          -1
+   1.7083356531875082               -1          -1           1
+ ---------------------------------------------
+   1.7481151269349178                1          -1          -1
+ Distance after inertia-axes alignment .................. : 0.7539
+ Distance after inertia-axes alignment .................. : 1.249
+ Distance after inertia-axes alignment .................. : 1.708
+ Distance after inertia-axes alignment .................. : 1.748
+
+  --- ith Transformation matrix --- 
+   0.992808  -0.018895  -0.118216   1.928537
+   0.016235   0.999594  -0.023422   0.337620
+   0.118611   0.021335   0.992712  -0.560542
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 1.997
+  --- ith Transformation matrix --- 
+  -0.930714   0.000639   0.365748 -21.658417
+  -0.122735  -0.942559  -0.310674  61.139363
+   0.344541  -0.334038   0.877331  12.742991
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 3.168
+  --- ith Transformation matrix --- 
+  -0.951915   0.048496  -0.302501  -7.001111
+  -0.026494   0.970662   0.238985   0.327612
+   0.305216   0.235507  -0.922702  41.702930
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.356
+  --- ith Transformation matrix --- 
+   0.817494   0.119352  -0.563434   7.921773
+   0.155472  -0.987705   0.016352  63.106792
+  -0.554555  -0.100966  -0.825999  40.576911
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.245
+ Fineness of the template ............................... : 1.364
+ Fineness of the superimposed structure ................. : 1.373
+ Initial distance ....................................... : 1.997
+
+  Minimization started ...
+
+
+ Minimization completed with Ifail ...................... : 0
+ Distance after minimization ............................ : 1.966
+
+ Shift vector  X ........................................ : -0.4914
+ Shift vector  Y ........................................ : 0.8812
+ Shift vector  Z ........................................ : -0.2450
+ Euler angle Alpha (grad) ............................... : 187.1
+ Euler angle Beta  (grad) ............................... : 1.707
+ Euler angle Gamma (grad) ............................... : 172.0
+supcomb20 3i4rB.pdb 23917.B99990017.pdb
+
+ Number of atoms read ................................... : 3168
+ Number of knots in the rough grid ...................... : 1129
+ Fineness of the template ............................... : 4.310
+ Number of atoms read ................................... : 5466
+ Number of knots in the rough grid ...................... : 1273
+ Fineness of the superimposed structure ................. : 5.205
+
+  Principal axes orientation table
+
+    Distance                       Orientation
+
+  0.82252256066004470                1           1           1
+   1.2713775001444267               -1           1          -1
+   1.7825701585883929               -1          -1           1
+ ---------------------------------------------
+   1.8198255303400548                1          -1          -1
+ Distance after inertia-axes alignment .................. : 0.8225
+ Distance after inertia-axes alignment .................. : 1.271
+ Distance after inertia-axes alignment .................. : 1.783
+ Distance after inertia-axes alignment .................. : 1.820
+
+  --- ith Transformation matrix --- 
+   0.990671   0.001442  -0.136266   0.190548
+  -0.002374   0.999975  -0.006682  -0.488671
+   0.136253   0.006943   0.990650  -0.347379
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 2.300
+  --- ith Transformation matrix --- 
+  -0.894101  -0.055435   0.444421 -20.127722
+  -0.116667  -0.929222  -0.350620  63.056504
+   0.432403  -0.365339   0.824351  14.844723
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 3.255
+  --- ith Transformation matrix --- 
+  -0.932627  -0.004121  -0.360819  -3.377372
+  -0.093137   0.968802   0.229670  -0.107252
+   0.348615   0.247802  -0.903915  40.183540
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.236
+  --- ith Transformation matrix --- 
+   0.779908   0.179974  -0.599460   5.740975
+   0.202805  -0.978760  -0.029997  65.051034
+  -0.592126  -0.098178  -0.799842  40.593614
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.373
+ Fineness of the template ............................... : 1.364
+ Fineness of the superimposed structure ................. : 1.373
+ Initial distance ....................................... : 2.300
+
+  Minimization started ...
+
+
+ Minimization completed with Ifail ...................... : 0
+ Distance after minimization ............................ : 2.270
+
+ Shift vector  X ........................................ : 1.480
+ Shift vector  Y ........................................ : -0.8092
+ Shift vector  Z ........................................ : 0.4949
+ Euler angle Alpha (grad) ............................... : 23.62
+ Euler angle Beta  (grad) ............................... : 2.110
+ Euler angle Gamma (grad) ............................... : 336.4
+supcomb20 3i4rB.pdb 23917.B99990018.pdb
+
+ Number of atoms read ................................... : 3168
+ Number of knots in the rough grid ...................... : 1129
+ Fineness of the template ............................... : 4.310
+ Number of atoms read ................................... : 5466
+ Number of knots in the rough grid ...................... : 1268
+ Fineness of the superimposed structure ................. : 5.204
+
+  Principal axes orientation table
+
+    Distance                       Orientation
+
+  0.84273642551762573                1          -1          -1
+   1.1550575238859546               -1          -1           1
+   1.6514185341666436                1           1           1
+ ---------------------------------------------
+   1.7814283070520802               -1           1          -1
+ Distance after inertia-axes alignment .................. : 0.8427
+ Distance after inertia-axes alignment .................. : 1.155
+ Distance after inertia-axes alignment .................. : 1.651
+ Distance after inertia-axes alignment .................. : 1.781
+
+  --- ith Transformation matrix --- 
+   0.998079   0.037899  -0.048999  -2.308033
+  -0.036510   0.998914   0.028950   0.958541
+   0.050043  -0.027106   0.998379  -1.645482
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 2.159
+  --- ith Transformation matrix --- 
+  -0.945425  -0.092614   0.312400 -18.247169
+  -0.033513  -0.926034  -0.375950  62.002611
+   0.324111  -0.365902   0.872392  11.786403
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 3.263
+  --- ith Transformation matrix --- 
+   0.799027   0.249917  -0.546897   3.182507
+   0.231847  -0.967254  -0.103274  65.179141
+  -0.554799  -0.044278  -0.830805  40.297846
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 4.985
+  --- ith Transformation matrix --- 
+  -0.985396  -0.036032  -0.166425  -7.637449
+  -0.092320   0.934294   0.344342  -1.482159
+   0.143083   0.354677  -0.923976  37.537241
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.515
+ Fineness of the template ............................... : 1.364
+ Fineness of the superimposed structure ................. : 1.373
+ Initial distance ....................................... : 2.159
+
+  Minimization started ...
+
+
+ Minimization completed with Ifail ...................... : 0
+ Distance after minimization ............................ : 2.145
+
+ Shift vector  X ........................................ : 0.5580
+ Shift vector  Y ........................................ : -0.5788
+ Shift vector  Z ........................................ : 0.4580
+ Euler angle Alpha (grad) ............................... : 16.23
+ Euler angle Beta  (grad) ............................... : 1.349
+ Euler angle Gamma (grad) ............................... : 344.6
+supcomb20 3i4rB.pdb 23917.B99990019.pdb
+
+ Number of atoms read ................................... : 3168
+ Number of knots in the rough grid ...................... : 1129
+ Fineness of the template ............................... : 4.310
+ Number of atoms read ................................... : 5466
+ Number of knots in the rough grid ...................... : 1287
+ Fineness of the superimposed structure ................. : 5.205
+
+  Principal axes orientation table
+
+    Distance                       Orientation
+
+  0.79048955991904923                1           1           1
+   1.2243418161157791               -1           1          -1
+   1.7165038901385794               -1          -1           1
+ ---------------------------------------------
+   1.7677760203140840                1          -1          -1
+ Distance after inertia-axes alignment .................. : 0.7905
+ Distance after inertia-axes alignment .................. : 1.224
+ Distance after inertia-axes alignment .................. : 1.717
+ Distance after inertia-axes alignment .................. : 1.768
+
+  --- ith Transformation matrix --- 
+   0.994951  -0.040009  -0.092045   2.006937
+   0.040805   0.999144   0.006784  -2.152082
+   0.091695  -0.010506   0.995732  -1.075481
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 2.156
+  --- ith Transformation matrix --- 
+  -0.901844  -0.045930   0.429614 -21.438629
+  -0.115471  -0.932544  -0.342093  64.756794
+   0.416347  -0.358122   0.835706  15.070307
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 3.129
+  --- ith Transformation matrix --- 
+  -0.958564   0.013567  -0.284553  -7.377194
+  -0.056219   0.970213   0.235639  -2.509372
+   0.279274   0.241873  -0.929249  41.172329
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.150
+  --- ith Transformation matrix --- 
+   0.821160   0.128493  -0.556044   7.759637
+   0.152421  -0.988310  -0.003289  66.057264
+  -0.549967  -0.082052  -0.831146  41.526290
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.205
+ Fineness of the template ............................... : 1.364
+ Fineness of the superimposed structure ................. : 1.373
+ Initial distance ....................................... : 2.156
+
+  Minimization started ...
+
+
+ Minimization completed with Ifail ...................... : 0
+ Distance after minimization ............................ : 2.142
+
+ Shift vector  X ........................................ : -9.711e-2
+ Shift vector  Y ........................................ : -0.5168
+ Shift vector  Z ........................................ : -0.4744
+ Euler angle Alpha (grad) ............................... : 3.373
+ Euler angle Beta  (grad) ............................... : 0.2345
+ Euler angle Gamma (grad) ............................... : 356.7
+supcomb20 3i4rB.pdb 23917.B99990020.pdb
+
+ Number of atoms read ................................... : 3168
+ Number of knots in the rough grid ...................... : 1129
+ Fineness of the template ............................... : 4.310
+ Number of atoms read ................................... : 5466
+ Number of knots in the rough grid ...................... : 1275
+ Fineness of the superimposed structure ................. : 5.205
+
+  Principal axes orientation table
+
+    Distance                       Orientation
+
+  0.79565259132849597                1           1           1
+   1.2224929901884620               -1           1          -1
+   1.6494539410945868               -1          -1           1
+ ---------------------------------------------
+   1.7899876473954908                1          -1          -1
+ Distance after inertia-axes alignment .................. : 0.7957
+ Distance after inertia-axes alignment .................. : 1.223
+ Distance after inertia-axes alignment .................. : 1.650
+ Distance after inertia-axes alignment .................. : 1.790
+
+  --- ith Transformation matrix --- 
+   0.999859  -0.016134  -0.004723  -0.196598
+   0.016075   0.999796  -0.012248   0.322203
+   0.004920   0.012170   0.999914  -2.735536
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 2.240
+  --- ith Transformation matrix --- 
+  -0.948958  -0.025242   0.314390 -20.727276
+  -0.086833  -0.937363  -0.337357  61.804249
+   0.303213  -0.347438   0.887327  11.960879
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 3.352
+  --- ith Transformation matrix --- 
+  -0.897757   0.022492  -0.439916  -4.400910
+  -0.077285   0.975161   0.207577  -2.397011
+   0.433658   0.220352  -0.873720  42.656498
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 4.827
+  --- ith Transformation matrix --- 
+   0.885572   0.130137  -0.445900   6.258738
+   0.154386  -0.987841   0.018314  64.511219
+  -0.438095  -0.085059  -0.894895  43.078297
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.310
+ Fineness of the template ............................... : 1.364
+ Fineness of the superimposed structure ................. : 1.373
+ Initial distance ....................................... : 2.240
+
+  Minimization started ...
+
+
+ Minimization completed with Ifail ...................... : 0
+ Distance after minimization ............................ : 2.227
+
+ Shift vector  X ........................................ : 0.6368
+ Shift vector  Y ........................................ : -0.7061
+ Shift vector  Z ........................................ : 0.6520
+ Euler angle Alpha (grad) ............................... : 114.0
+ Euler angle Beta  (grad) ............................... : 0.5289
+ Euler angle Gamma (grad) ............................... : 245.3
+supcomb20 3i4rB.pdb 23917.B99990021.pdb
+
+ Number of atoms read ................................... : 3168
+ Number of knots in the rough grid ...................... : 1129
+ Fineness of the template ............................... : 4.310
+ Number of atoms read ................................... : 5466
+ Number of knots in the rough grid ...................... : 1280
+ Fineness of the superimposed structure ................. : 5.205
+
+  Principal axes orientation table
+
+    Distance                       Orientation
+
+  0.79722929289718059                1           1           1
+   1.2907536474486991               -1           1          -1
+   1.7579707846956327               -1          -1           1
+ ---------------------------------------------
+   1.7716264352192945                1          -1          -1
+ Distance after inertia-axes alignment .................. : 0.7972
+ Distance after inertia-axes alignment .................. : 1.291
+ Distance after inertia-axes alignment .................. : 1.758
+ Distance after inertia-axes alignment .................. : 1.772
+
+  --- ith Transformation matrix --- 
+   0.983791   0.054736  -0.170758  -0.585876
+  -0.063261   0.996987  -0.044883   3.020281
+   0.167787   0.054958   0.984290  -1.824766
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 2.154
+  --- ith Transformation matrix --- 
+  -0.918256  -0.066114   0.390429 -19.591192
+  -0.060901  -0.950654  -0.304217  60.926976
+   0.391276  -0.303127   0.868917  10.251875
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 3.325
+  --- ith Transformation matrix --- 
+  -0.964158  -0.049942  -0.260587  -3.939610
+  -0.109376   0.969607   0.218860   1.363573
+   0.241736   0.239518  -0.940316  41.975179
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.520
+  --- ith Transformation matrix --- 
+   0.786460   0.198637  -0.584828   4.375996
+   0.229432  -0.973077  -0.021972  62.976153
+  -0.573446  -0.116898  -0.810860  42.060156
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.183
+ Fineness of the template ............................... : 1.364
+ Fineness of the superimposed structure ................. : 1.373
+ Initial distance ....................................... : 2.154
+
+  Minimization started ...
+
+
+ Minimization completed with Ifail ...................... : 0
+ Distance after minimization ............................ : 2.135
+
+ Shift vector  X ........................................ : -0.6328
+ Shift vector  Y ........................................ : 0.6421
+ Shift vector  Z ........................................ : -0.7311
+ Euler angle Alpha (grad) ............................... : 182.6
+ Euler angle Beta  (grad) ............................... : 2.290
+ Euler angle Gamma (grad) ............................... : 177.3
+supcomb20 3i4rB.pdb 23917.B99990022.pdb
+
+ Number of atoms read ................................... : 3168
+ Number of knots in the rough grid ...................... : 1129
+ Fineness of the template ............................... : 4.310
+ Number of atoms read ................................... : 5466
+ Number of knots in the rough grid ...................... : 1276
+ Fineness of the superimposed structure ................. : 5.205
+
+  Principal axes orientation table
+
+    Distance                       Orientation
+
+  0.81834436401066968                1           1           1
+   1.3282260858214079               -1           1          -1
+   1.7000540596720790               -1          -1           1
+ ---------------------------------------------
+   1.7563173354665640                1          -1          -1
+ Distance after inertia-axes alignment .................. : 0.8183
+ Distance after inertia-axes alignment .................. : 1.328
+ Distance after inertia-axes alignment .................. : 1.700
+ Distance after inertia-axes alignment .................. : 1.756
+
+  --- ith Transformation matrix --- 
+   0.966165   0.021778  -0.257002   3.876226
+  -0.024073   0.999693  -0.005789  -1.080386
+   0.256797   0.011780   0.966393   2.243733
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 2.325
+  --- ith Transformation matrix --- 
+  -0.900418  -0.022943   0.434421 -22.926770
+  -0.137939  -0.932021  -0.335127  63.148275
+   0.412578  -0.361678   0.836044  15.488928
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 3.239
+  --- ith Transformation matrix --- 
+  -0.946419   0.036456   0.320877 -22.100306
+   0.136957   0.945140   0.296570  -2.887038
+  -0.292462   0.324626  -0.899491  33.295241
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.451
+  --- ith Transformation matrix --- 
+   0.772520   0.152684  -0.616360   6.808406
+   0.162235  -0.985905  -0.040888  66.205579
+  -0.613915  -0.068408  -0.786402  37.950680
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.050
+ Fineness of the template ............................... : 1.364
+ Fineness of the superimposed structure ................. : 1.373
+ Initial distance ....................................... : 2.325
+
+  Minimization started ...
+
+
+ Minimization completed with Ifail ...................... : 0
+ Distance after minimization ............................ : 2.308
+
+ Shift vector  X ........................................ : -0.6093
+ Shift vector  Y ........................................ : 1.286
+ Shift vector  Z ........................................ : 8.965e-2
+ Euler angle Alpha (grad) ............................... : 271.1
+ Euler angle Beta  (grad) ............................... : 0.5753
+ Euler angle Gamma (grad) ............................... : 89.57
+supcomb20 3i4rB.pdb 23917.B99990023.pdb
+
+ Number of atoms read ................................... : 3168
+ Number of knots in the rough grid ...................... : 1129
+ Fineness of the template ............................... : 4.310
+ Number of atoms read ................................... : 5466
+ Number of knots in the rough grid ...................... : 1256
+ Fineness of the superimposed structure ................. : 5.204
+
+  Principal axes orientation table
+
+    Distance                       Orientation
+
+  0.85276336602620995                1          -1          -1
+   1.2003863545683264               -1          -1           1
+   1.7447354129936137                1           1           1
+ ---------------------------------------------
+   1.7619259832548091               -1           1          -1
+ Distance after inertia-axes alignment .................. : 0.8528
+ Distance after inertia-axes alignment .................. : 1.200
+ Distance after inertia-axes alignment .................. : 1.745
+ Distance after inertia-axes alignment .................. : 1.762
+
+  --- ith Transformation matrix --- 
+   0.997182  -0.039796  -0.063602   0.640358
+   0.039470   0.999200  -0.006383   0.452996
+   0.063805   0.003854   0.997955  -2.649466
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 2.387
+  --- ith Transformation matrix --- 
+  -0.947642  -0.002258   0.319327 -21.142472
+  -0.109011  -0.937618  -0.330135  63.067772
+   0.300152  -0.347660   0.888280  11.253996
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 3.268
+  --- ith Transformation matrix --- 
+   0.783835   0.156498  -0.600926   7.374269
+   0.157283  -0.986201  -0.051678  66.967315
+  -0.600721  -0.054008  -0.797632  40.861492
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.286
+  --- ith Transformation matrix --- 
+  -0.995637   0.055116   0.075297 -16.231782
+   0.076889   0.941776   0.327330  -3.325312
+  -0.052871   0.331692  -0.941905  38.111511
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.732
+ Fineness of the template ............................... : 1.364
+ Fineness of the superimposed structure ................. : 1.373
+ Initial distance ....................................... : 2.387
+
+  Minimization started ...
+
+
+ Minimization completed with Ifail ...................... : 0
+ Distance after minimization ............................ : 2.365
+
+ Shift vector  X ........................................ : -0.9946
+ Shift vector  Y ........................................ : 1.001
+ Shift vector  Z ........................................ : -1.049
+ Euler angle Alpha (grad) ............................... : 210.8
+ Euler angle Beta  (grad) ............................... : 1.988
+ Euler angle Gamma (grad) ............................... : 150.1
+supcomb20 3i4rB.pdb 23917.B99990024.pdb
+
+ Number of atoms read ................................... : 3168
+ Number of knots in the rough grid ...................... : 1129
+ Fineness of the template ............................... : 4.310
+ Number of atoms read ................................... : 5466
+ Number of knots in the rough grid ...................... : 1292
+ Fineness of the superimposed structure ................. : 5.205
+
+  Principal axes orientation table
+
+    Distance                       Orientation
+
+  0.76368980879974691                1           1           1
+   1.2188769500881227               -1           1          -1
+   1.6985703522817335               -1          -1           1
+ ---------------------------------------------
+   1.7515791354818557                1          -1          -1
+ Distance after inertia-axes alignment .................. : 0.7637
+ Distance after inertia-axes alignment .................. : 1.219
+ Distance after inertia-axes alignment .................. : 1.699
+ Distance after inertia-axes alignment .................. : 1.752
+
+  --- ith Transformation matrix --- 
+   0.996830  -0.013338  -0.078430   0.634820
+   0.010713   0.999371  -0.033792  -1.200325
+   0.078831   0.032844   0.996347  -0.056220
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 2.022
+  --- ith Transformation matrix --- 
+  -0.898952  -0.045455   0.435682 -20.407493
+  -0.114650  -0.935516  -0.334164  64.391713
+   0.422776  -0.350349   0.835773  15.866206
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 3.176
+  --- ith Transformation matrix --- 
+  -0.957661   0.025328  -0.286782  -6.701533
+  -0.057305   0.959420   0.276095  -0.488724
+   0.282138   0.280840  -0.917348  38.105409
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.219
+  --- ith Transformation matrix --- 
+   0.817660   0.156373  -0.554058   5.161412
+   0.191922  -0.981390   0.006252  65.598836
+  -0.542769  -0.111448  -0.832455  40.265847
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.160
+ Fineness of the template ............................... : 1.364
+ Fineness of the superimposed structure ................. : 1.373
+ Initial distance ....................................... : 2.022
+
+  Minimization started ...
+
+
+ Minimization completed with Ifail ...................... : 0
+ Distance after minimization ............................ : 2.006
+
+ Shift vector  X ........................................ : -0.4276
+ Shift vector  Y ........................................ : 0.5800
+ Shift vector  Z ........................................ : 0.1478
+ Euler angle Alpha (grad) ............................... : 125.8
+ Euler angle Beta  (grad) ............................... : 0.2804
+ Euler angle Gamma (grad) ............................... : 234.8
+supcomb20 3i4rB.pdb 23917.B99990025.pdb
+
+ Number of atoms read ................................... : 3168
+ Number of knots in the rough grid ...................... : 1129
+ Fineness of the template ............................... : 4.310
+ Number of atoms read ................................... : 5466
+ Number of knots in the rough grid ...................... : 1266
+ Fineness of the superimposed structure ................. : 5.204
+
+  Principal axes orientation table
+
+    Distance                       Orientation
+
+  0.78350718064391112                1          -1          -1
+   1.1858845395103179               -1          -1           1
+   1.7760514237147929               -1           1          -1
+ ---------------------------------------------
+   1.7998884323384239                1           1           1
+ Distance after inertia-axes alignment .................. : 0.7835
+ Distance after inertia-axes alignment .................. : 1.186
+ Distance after inertia-axes alignment .................. : 1.776
+ Distance after inertia-axes alignment .................. : 1.800
+
+  --- ith Transformation matrix --- 
+   0.999380  -0.034867  -0.004913   0.176578
+   0.034861   0.999391  -0.001387   0.059086
+   0.004958   0.001214   0.999987  -3.410960
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 2.114
+  --- ith Transformation matrix --- 
+  -0.967626  -0.020071   0.251590 -19.426039
+  -0.078335  -0.923721  -0.374971  64.316315
+   0.239925  -0.382540   0.892244  11.405346
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 3.107
+  --- ith Transformation matrix --- 
+  -0.881138   0.031110  -0.471835  -2.350407
+  -0.091390   0.967816   0.234480  -1.113125
+   0.463944   0.249730  -0.849936  41.751464
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.359
+  --- ith Transformation matrix --- 
+   0.872190   0.147169  -0.466504   6.245900
+   0.158744  -0.987211  -0.014644  64.154358
+  -0.462693  -0.061283  -0.884398  42.685796
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.364
+ Fineness of the template ............................... : 1.364
+ Fineness of the superimposed structure ................. : 1.373
+ Initial distance ....................................... : 2.114
+
+  Minimization started ...
+
+
+ Minimization completed with Ifail ...................... : 0
+ Distance after minimization ............................ : 2.098
+
+ Shift vector  X ........................................ : 0.4232
+ Shift vector  Y ........................................ : -0.7557
+ Shift vector  Z ........................................ : 1.385
+ Euler angle Alpha (grad) ............................... : 66.02
+ Euler angle Beta  (grad) ............................... : 1.350
+ Euler angle Gamma (grad) ............................... : 293.9
+supcomb20 3i4rB.pdb 23917.B99990026.pdb
+
+ Number of atoms read ................................... : 3168
+ Number of knots in the rough grid ...................... : 1129
+ Fineness of the template ............................... : 4.310
+ Number of atoms read ................................... : 5466
+ Number of knots in the rough grid ...................... : 1275
+ Fineness of the superimposed structure ................. : 5.205
+
+  Principal axes orientation table
+
+    Distance                       Orientation
+
+  0.75676016657360490                1           1           1
+   1.2352625086438305               -1           1          -1
+   1.7455258940112650               -1          -1           1
+ ---------------------------------------------
+   1.8085463159779416                1          -1          -1
+ Distance after inertia-axes alignment .................. : 0.7568
+ Distance after inertia-axes alignment .................. : 1.235
+ Distance after inertia-axes alignment .................. : 1.746
+ Distance after inertia-axes alignment .................. : 1.809
+
+  --- ith Transformation matrix --- 
+   0.991839  -0.009716  -0.127123   0.938010
+   0.007046   0.999745  -0.021438  -1.779460
+   0.127299   0.020367   0.991655  -2.889898
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 2.013
+  --- ith Transformation matrix --- 
+  -0.909459  -0.030045   0.414707 -21.811487
+  -0.119117  -0.936755  -0.329091  65.755496
+   0.398367  -0.348693   0.848362  12.828253
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 3.117
+  --- ith Transformation matrix --- 
+  -0.956124   0.012358  -0.292702  -4.582243
+  -0.059230   0.970323   0.234448  -2.420292
+   0.286912   0.241498  -0.927017  42.383263
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.349
+  --- ith Transformation matrix --- 
+   0.796645   0.156916  -0.583724   6.949382
+   0.188955  -0.981967  -0.006092  67.022216
+  -0.574154  -0.105444  -0.811929  43.467783
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.403
+ Fineness of the template ............................... : 1.364
+ Fineness of the superimposed structure ................. : 1.373
+ Initial distance ....................................... : 2.013
+
+  Minimization started ...
+
+
+ Minimization completed with Ifail ...................... : 0
+ Distance after minimization ............................ : 1.994
+
+ Shift vector  X ........................................ : -0.4486
+ Shift vector  Y ........................................ : 0.3830
+ Shift vector  Z ........................................ : -0.5046
+ Euler angle Alpha (grad) ............................... : 174.7
+ Euler angle Beta  (grad) ............................... : 2.372
+ Euler angle Gamma (grad) ............................... : 185.2
+supcomb20 3i4rB.pdb 23917.B99990027.pdb
+
+ Number of atoms read ................................... : 3168
+ Number of knots in the rough grid ...................... : 1129
+ Fineness of the template ............................... : 4.310
+ Number of atoms read ................................... : 5466
+ Number of knots in the rough grid ...................... : 1277
+ Fineness of the superimposed structure ................. : 5.205
+
+  Principal axes orientation table
+
+    Distance                       Orientation
+
+  0.84365467592378995                1           1           1
+   1.3067754973398877               -1           1          -1
+   1.7201104149734947               -1          -1           1
+ ---------------------------------------------
+   1.8137151270187637                1          -1          -1
+ Distance after inertia-axes alignment .................. : 0.8437
+ Distance after inertia-axes alignment .................. : 1.307
+ Distance after inertia-axes alignment .................. : 1.720
+ Distance after inertia-axes alignment .................. : 1.814
+
+  --- ith Transformation matrix --- 
+   0.997741  -0.021304  -0.063718   2.311278
+   0.018586   0.998904  -0.042949  -1.595485
+   0.064563   0.041668   0.997043  -0.168788
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 2.283
+  --- ith Transformation matrix --- 
+  -0.945460   0.003072   0.325724 -21.737008
+  -0.104542  -0.949920  -0.294489  62.763425
+   0.308507  -0.312479   0.898432  13.661495
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 3.256
+  --- ith Transformation matrix --- 
+  -0.899060   0.004982  -0.437797  -5.372130
+  -0.072922   0.984264   0.160953  -1.367723
+   0.431710   0.176632  -0.884549  41.989081
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.111
+  --- ith Transformation matrix --- 
+   0.820470   0.147072  -0.552449   7.005645
+   0.196853  -0.979927   0.031481  65.628964
+  -0.536730  -0.134580  -0.832952  39.719440
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.397
+ Fineness of the template ............................... : 1.364
+ Fineness of the superimposed structure ................. : 1.373
+ Initial distance ....................................... : 2.283
+
+  Minimization started ...
+
+
+ Minimization completed with Ifail ...................... : 0
+ Distance after minimization ............................ : 2.273
+
+ Shift vector  X ........................................ : -0.2184
+ Shift vector  Y ........................................ : 0.7026
+ Shift vector  Z ........................................ : -0.1742
+ Euler angle Alpha (grad) ............................... : 211.3
+ Euler angle Beta  (grad) ............................... : 1.379
+ Euler angle Gamma (grad) ............................... : 148.6
+supcomb20 3i4rB.pdb 23917.B99990028.pdb
+
+ Number of atoms read ................................... : 3168
+ Number of knots in the rough grid ...................... : 1129
+ Fineness of the template ............................... : 4.310
+ Number of atoms read ................................... : 5466
+ Number of knots in the rough grid ...................... : 1285
+ Fineness of the superimposed structure ................. : 5.204
+
+  Principal axes orientation table
+
+    Distance                       Orientation
+
+  0.79713090006789200                1           1           1
+   1.2392290125269680               -1           1          -1
+   1.7473162860683564               -1          -1           1
+ ---------------------------------------------
+   1.8819572530233593                1          -1          -1
+ Distance after inertia-axes alignment .................. : 0.7971
+ Distance after inertia-axes alignment .................. : 1.239
+ Distance after inertia-axes alignment .................. : 1.747
+ Distance after inertia-axes alignment .................. : 1.882
+
+  --- ith Transformation matrix --- 
+   0.998652  -0.013495  -0.050127   0.296814
+   0.012038   0.999500  -0.029253   2.552888
+   0.050497   0.028610   0.998314  -0.950378
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 2.137
+  --- ith Transformation matrix --- 
+  -0.963512  -0.012461   0.267374 -19.780213
+  -0.072959  -0.948864  -0.307140  60.365738
+   0.257529  -0.315440   0.913332  10.817561
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 3.220
+  --- ith Transformation matrix --- 
+  -0.961690   0.041925  -0.270916  -7.869233
+  -0.019674   0.975134   0.220742   1.982279
+   0.273434   0.217615  -0.936951  42.759953
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.416
+  --- ith Transformation matrix --- 
+   0.827902   0.150998  -0.540164   6.408145
+   0.186286  -0.982435   0.010887  62.532077
+  -0.529032  -0.109639  -0.841489  41.503326
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.648
+ Fineness of the template ............................... : 1.364
+ Fineness of the superimposed structure ................. : 1.373
+ Initial distance ....................................... : 2.137
+
+  Minimization started ...
+
+
+ Minimization completed with Ifail ...................... : 0
+ Distance after minimization ............................ : 2.128
+
+ Shift vector  X ........................................ : -0.1975
+ Shift vector  Y ........................................ : 5.732e-3
+ Shift vector  Z ........................................ : -0.3891
+ Euler angle Alpha (grad) ............................... : 22.09
+ Euler angle Beta  (grad) ............................... : 0.6008
+ Euler angle Gamma (grad) ............................... : 338.4
+supcomb20 3i4rB.pdb 23917.B99990029.pdb
+
+ Number of atoms read ................................... : 3168
+ Number of knots in the rough grid ...................... : 1129
+ Fineness of the template ............................... : 4.310
+ Number of atoms read ................................... : 5466
+ Number of knots in the rough grid ...................... : 1283
+ Fineness of the superimposed structure ................. : 5.205
+
+  Principal axes orientation table
+
+    Distance                       Orientation
+
+  0.80074824713057580                1          -1          -1
+   1.2337762605117044               -1          -1           1
+   1.7418891093087274                1           1           1
+ ---------------------------------------------
+   1.7487527672247607               -1           1          -1
+ Distance after inertia-axes alignment .................. : 0.8008
+ Distance after inertia-axes alignment .................. : 1.234
+ Distance after inertia-axes alignment .................. : 1.742
+ Distance after inertia-axes alignment .................. : 1.749
+
+  --- ith Transformation matrix --- 
+   0.999632  -0.022394  -0.015336  -0.534389
+   0.022254   0.999709  -0.009288   0.321587
+   0.015540   0.008943   0.999839  -1.606230
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 2.135
+  --- ith Transformation matrix --- 
+  -0.952643  -0.013321   0.303800 -20.096631
+  -0.099644  -0.930208  -0.353248  62.206900
+   0.287303  -0.366791   0.884828  13.244276
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 3.298
+  --- ith Transformation matrix --- 
+   0.833234   0.156183  -0.530404   5.877835
+   0.154895  -0.986801  -0.047243  65.793901
+  -0.530781  -0.042792  -0.846428  40.422509
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.197
+  --- ith Transformation matrix --- 
+  -0.849943   0.084715  -0.520019  -1.598706
+  -0.065886   0.962152   0.264429  -0.416671
+   0.522739   0.259012  -0.812193  39.943936
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.345
+ Fineness of the template ............................... : 1.364
+ Fineness of the superimposed structure ................. : 1.373
+ Initial distance ....................................... : 2.135
+
+  Minimization started ...
+
+
+ Minimization completed with Ifail ...................... : 0
+ Distance after minimization ............................ : 2.127
+
+ Shift vector  X ........................................ : 0.4100
+ Shift vector  Y ........................................ : -0.6118
+ Shift vector  Z ........................................ : 0.6996
+ Euler angle Alpha (grad) ............................... : 85.53
+ Euler angle Beta  (grad) ............................... : 0.7014
+ Euler angle Gamma (grad) ............................... : 274.3
+supcomb20 3i4rB.pdb 23917.B99990030.pdb
+
+ Number of atoms read ................................... : 3168
+ Number of knots in the rough grid ...................... : 1129
+ Fineness of the template ............................... : 4.310
+ Number of atoms read ................................... : 5466
+ Number of knots in the rough grid ...................... : 1274
+ Fineness of the superimposed structure ................. : 5.205
+
+  Principal axes orientation table
+
+    Distance                       Orientation
+
+  0.77288537278755320                1          -1          -1
+   1.2206053239410151               -1          -1           1
+   1.6588381142870490               -1           1          -1
+ ---------------------------------------------
+   1.7761147469130452                1           1           1
+ Distance after inertia-axes alignment .................. : 0.7729
+ Distance after inertia-axes alignment .................. : 1.221
+ Distance after inertia-axes alignment .................. : 1.659
+ Distance after inertia-axes alignment .................. : 1.776
+
+  --- ith Transformation matrix --- 
+   0.998319  -0.053737  -0.021730   1.439536
+   0.053389   0.998441  -0.016307   2.742893
+   0.022572   0.015120   0.999631  -4.733207
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 2.037
+  --- ith Transformation matrix --- 
+  -0.951694  -0.001808   0.307043 -21.811493
+  -0.107271  -0.935014  -0.337997  61.487704
+   0.287700  -0.354606   0.889653   9.609785
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 3.252
+  --- ith Transformation matrix --- 
+  -0.920629   0.040984  -0.388281  -5.146708
+  -0.053602   0.971792   0.229667  -0.763681
+   0.386741   0.232251  -0.892463  44.530279
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.104
+  --- ith Transformation matrix --- 
+   0.889368   0.128306  -0.438820   6.893354
+   0.147003  -0.989097   0.008734  62.710348
+  -0.432915  -0.072276  -0.898533  44.502331
+   0.000000   0.000000   0.000000   1.000000
+ ith Function value ..................................... : 5.265
+ Fineness of the template ............................... : 1.364
+ Fineness of the superimposed structure ................. : 1.373
+ Initial distance ....................................... : 2.037
+
+  Minimization started ...
+
+
+ Minimization completed with Ifail ...................... : 0
+ Distance after minimization ............................ : 2.020
+
+ Shift vector  X ........................................ : -1.059
+ Shift vector  Y ........................................ : -0.4053
+ Shift vector  Z ........................................ : 0.3446
+ Euler angle Alpha (grad) ............................... : 172.8
+ Euler angle Beta  (grad) ............................... : 2.684
+ Euler angle Gamma (grad) ............................... : 187.1
