@@ -2822,8 +2822,10 @@ _ihm_modeling_protocol.num_models_end
 _ihm_modeling_protocol.multi_scale_flag
 _ihm_modeling_protocol.multi_state_flag
 _ihm_modeling_protocol.ordered_flag
-1 1 1 1 . . Modeling 'MD-based conformational sampling' AllosMod 1 7000 NO NO NO
-2 1 2 1 1 . Modeling 'Minimal Ensemble Search' MES 7000 4 NO YES NO
+1 1 1 1 . 'All known components' Modeling 'MD-based conformational sampling'
+AllosMod 1 7000 NO NO NO
+2 1 2 1 1 'All known components' Modeling 'Minimal Ensemble Search' MES 7000 4
+NO YES NO
 #
 #
 loop_
