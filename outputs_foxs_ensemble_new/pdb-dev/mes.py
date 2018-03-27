@@ -10,11 +10,13 @@ def get_models_with_fractions():
             if line.startswith('    filename weight binary_score bit_count'):
                 return
         raise ValueError("Bad MES log file")
+    model_num = -1
     with open(os.path.join(mes_dir, 'new_mes4.log')) as log:
         skip_to_models(log)
         for model_line in log:
             if model_line == '\n':
                 return
             s = model_line.strip().split(' ')
-            yield os.path.join(mes_dir, s[0][:-4] + '.pdb'), float(s[1])
-
+            model_num += 1
+            yield (model_num, os.path.join(mes_dir, s[0][:-4] + '.pdb'),
+                   float(s[1]))

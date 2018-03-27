@@ -92,10 +92,10 @@ protocol.steps.append(ihm.protocol.Step(
 # todo: show validation against crosslinks
 
 g = ihm.model.StateGroup()
-for model, fraction in mes.get_models_with_fractions():
+for nmodel, model, fraction in mes.get_models_with_fractions():
     m = pdb.Model(assembly=assembly, protocol=protocol, representation=rep,
                   file_name=model, asym_units=[asym])
-    em2d_fits.add_model(m, em2d_restraints)
+    em2d_fits.add_model(nmodel, m, em2d_restraints)
     s = ihm.model.State([ihm.model.ModelGroup([m])],
                         type='minimal ensemble',
                         name='Minimal ensemble conformation',
