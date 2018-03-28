@@ -11,7 +11,7 @@ class MyModel(automodel):
 
 a = MyModel(env, 
             alnfile='all_align_final_23902a.ali',
-            knowns=('15133B', '15133A', '2jo8A', '2qiwA', '3cigH', '2eloA',
+            knowns=('15133B', '15133A', '2jo8A', '2qiwA', '3cigA', '2eloA',
                     '3guzA', '3i4rB'),
             sequence='23902a',
             assess_methods=(assess.DOPE, assess.GA341))
