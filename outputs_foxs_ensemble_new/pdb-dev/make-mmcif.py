@@ -4,10 +4,12 @@ import ihm.dumper
 import ihm.representation
 import ihm.model
 import ihm.protocol
+import ihm.analysis
 import pdb
 import mes
 import saxs
 import em2d
+import xlink
 
 system = ihm.System()
 
@@ -69,10 +71,13 @@ em2d_fits = em2d.EM2DFits(assembly)
 em2d_restraints = list(em2d_fits.add_all())
 system.restraints.extend(em2d_restraints)
 
-# todo: add crosslink datasets
+xlink_fits = xlink.CrossLinkFits(asym)
+xlink_restraints = list(xlink_fits.add_restraints())
+system.restraints.extend(xlink_restraints)
 
 saxs_em2d_datasets = ihm.dataset.DatasetGroup(r.dataset
                                 for r in saxs_restraints + em2d_restraints)
+xlink_datasets = ihm.dataset.DatasetGroup(r.dataset for r in xlink_restraints)
 
 # Describe the modeling protocol
 protocol = ihm.protocol.Protocol(name='Modeling')
@@ -89,7 +94,12 @@ protocol.steps.append(ihm.protocol.Step(
                  method='MES',
                  name='Minimal Ensemble Search',
                  num_models_begin=7000, num_models_end=4, multi_state=True))
-# todo: show validation against crosslinks
+# Finally we validated against crosslinks
+analysis = ihm.analysis.Analysis()
+analysis.steps.append(ihm.analysis.ValidationStep(
+                   assembly=assembly, dataset_group=xlink_datasets,
+                   feature='other', num_models_begin=4, num_models_end=4))
+protocol.analyses.append(analysis)
 
 g = ihm.model.StateGroup()
 for nmodel, model, fraction in mes.get_models_with_fractions():

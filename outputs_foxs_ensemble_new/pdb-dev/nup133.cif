@@ -2644,6 +2644,7 @@ _ihm_external_files.details
 40 1 ../ISAC_p150_t346_m30/23904_20.spi 'Input data or restraints' 59040 .
 41 1 ../ISAC_p150_t346_m30/23904_21.spi 'Input data or restraints' 59040 .
 42 1 ../ISAC_p150_t346_m30/23904_22.spi 'Input data or restraints' 59040 .
+43 1 ../../Crosslinks/DSS_EDC_crosslinks.txt 'Input data or restraints' 627 .
 #
 #
 loop_
@@ -2692,6 +2693,7 @@ _ihm_dataset_list.database_hosted
 40 '2DEM class average' NO
 41 '2DEM class average' NO
 42 '2DEM class average' NO
+43 'CX-MS data' NO
 #
 #
 loop_
@@ -2740,6 +2742,7 @@ _ihm_dataset_group.dataset_list_id
 40 1 40
 41 1 41
 42 1 42
+43 2 43
 #
 #
 loop_
@@ -2788,6 +2791,7 @@ _ihm_dataset_external_reference.file_id
 40 40 40
 41 41 41
 42 42 42
+43 43 43
 #
 #
 loop_
@@ -2826,6 +2830,139 @@ _ihm_modeling_protocol.ordered_flag
 AllosMod 1 7000 NO NO NO
 2 1 2 1 1 'All known components' Modeling 'Minimal Ensemble Search' MES 7000 4
 NO YES NO
+#
+#
+loop_
+_ihm_modeling_post_process.id
+_ihm_modeling_post_process.protocol_id
+_ihm_modeling_post_process.analysis_id
+_ihm_modeling_post_process.step_id
+_ihm_modeling_post_process.type
+_ihm_modeling_post_process.feature
+_ihm_modeling_post_process.num_models_begin
+_ihm_modeling_post_process.num_models_end
+_ihm_modeling_post_process.struct_assembly_id
+_ihm_modeling_post_process.dataset_group_id
+1 1 1 1 validation other 4 4 1 2
+#
+#
+loop_
+_ihm_cross_link_list.id
+_ihm_cross_link_list.group_id
+_ihm_cross_link_list.entity_description_1
+_ihm_cross_link_list.entity_id_1
+_ihm_cross_link_list.seq_id_1
+_ihm_cross_link_list.comp_id_1
+_ihm_cross_link_list.entity_description_2
+_ihm_cross_link_list.entity_id_2
+_ihm_cross_link_list.seq_id_2
+_ihm_cross_link_list.comp_id_2
+_ihm_cross_link_list.linker_type
+_ihm_cross_link_list.dataset_list_id
+1 1 Nup133 1 116 LYS Nup133 1 60 LYS DSS 43
+2 2 Nup133 1 60 LYS Nup133 1 6 LYS DSS 43
+3 3 Nup133 1 1035 LYS Nup133 1 947 LYS DSS 43
+4 4 Nup133 1 192 LYS Nup133 1 240 LYS DSS 43
+5 5 Nup133 1 545 LYS Nup133 1 489 LYS DSS 43
+6 6 Nup133 1 279 LYS Nup133 1 240 LYS DSS 43
+7 7 Nup133 1 507 LYS Nup133 1 60 LYS DSS 43
+8 8 Nup133 1 1073 LYS Nup133 1 1036 LYS DSS 43
+9 9 Nup133 1 1073 LYS Nup133 1 1035 LYS DSS 43
+10 10 Nup133 1 1073 LYS Nup133 1 937 LYS DSS 43
+11 11 Nup133 1 169 LYS Nup133 1 192 LYS DSS 43
+12 12 Nup133 1 489 LYS Nup133 1 443 LYS DSS 43
+13 13 Nup133 1 172 LYS Nup133 1 192 LYS DSS 43
+14 14 Nup133 1 533 LYS Nup133 1 489 LYS DSS 43
+15 15 Nup133 1 914 LYS Nup133 1 947 LYS DSS 43
+16 16 Nup133 1 967 LYS Nup133 1 964 LYS DSS 43
+17 17 Nup133 1 974 LYS Nup133 1 977 LYS DSS 43
+18 18 Nup133 1 947 LYS Nup133 1 913 LYS DSS 43
+19 19 Nup133 1 104 LYS Nup133 1 131 ASP EDC 43
+20 20 Nup133 1 104 LYS Nup133 1 132 GLU EDC 43
+21 21 Nup133 1 1073 LYS Nup133 1 1033 GLU EDC 43
+22 22 Nup133 1 1143 LYS Nup133 1 1069 GLU EDC 43
+23 23 Nup133 1 1143 LYS Nup133 1 1070 GLU EDC 43
+24 24 Nup133 1 1145 LYS Nup133 1 1069 GLU EDC 43
+25 25 Nup133 1 169 LYS Nup133 1 132 GLU EDC 43
+26 26 Nup133 1 172 LYS Nup133 1 128 ASP EDC 43
+27 27 Nup133 1 172 LYS Nup133 1 196 GLU EDC 43
+28 28 Nup133 1 172 LYS Nup133 1 198 GLU EDC 43
+29 29 Nup133 1 188 LYS Nup133 1 128 ASP EDC 43
+30 30 Nup133 1 395 LYS Nup133 1 455 ASP EDC 43
+31 31 Nup133 1 481 LYS Nup133 1 64 GLU EDC 43
+32 32 Nup133 1 485 GLU Nup133 1 443 LYS EDC 43
+33 33 Nup133 1 487 ASN Nup133 1 443 LYS EDC 43
+34 34 Nup133 1 507 LYS Nup133 1 563 GLU EDC 43
+35 35 Nup133 1 913 LYS Nup133 1 1098 GLU EDC 43
+36 36 Nup133 1 914 LYS Nup133 1 1098 GLU EDC 43
+37 37 Nup133 1 914 LYS Nup133 1 990 GLU EDC 43
+38 38 Nup133 1 937 LYS Nup133 1 393 ASP EDC 43
+39 39 Nup133 1 937 LYS Nup133 1 953 ASP EDC 43
+40 40 Nup133 1 947 LYS Nup133 1 1098 GLU EDC 43
+41 41 Nup133 1 947 LYS Nup133 1 936 GLU EDC 43
+#
+#
+loop_
+_ihm_cross_link_restraint.id
+_ihm_cross_link_restraint.group_id
+_ihm_cross_link_restraint.entity_id_1
+_ihm_cross_link_restraint.asym_id_1
+_ihm_cross_link_restraint.seq_id_1
+_ihm_cross_link_restraint.comp_id_1
+_ihm_cross_link_restraint.entity_id_2
+_ihm_cross_link_restraint.asym_id_2
+_ihm_cross_link_restraint.seq_id_2
+_ihm_cross_link_restraint.comp_id_2
+_ihm_cross_link_restraint.atom_id_1
+_ihm_cross_link_restraint.atom_id_2
+_ihm_cross_link_restraint.restraint_type
+_ihm_cross_link_restraint.conditional_crosslink_flag
+_ihm_cross_link_restraint.model_granularity
+_ihm_cross_link_restraint.distance_threshold
+_ihm_cross_link_restraint.psi
+_ihm_cross_link_restraint.sigma_1
+_ihm_cross_link_restraint.sigma_2
+1 1 1 A 116 LYS 1 A 60 LYS . . 'upper bound' . by-residue 35.000 . . .
+2 2 1 A 60 LYS 1 A 6 LYS . . 'upper bound' . by-residue 35.000 . . .
+3 3 1 A 1035 LYS 1 A 947 LYS . . 'upper bound' . by-residue 35.000 . . .
+4 4 1 A 192 LYS 1 A 240 LYS . . 'upper bound' . by-residue 35.000 . . .
+5 5 1 A 545 LYS 1 A 489 LYS . . 'upper bound' . by-residue 35.000 . . .
+6 6 1 A 279 LYS 1 A 240 LYS . . 'upper bound' . by-residue 35.000 . . .
+7 7 1 A 507 LYS 1 A 60 LYS . . 'upper bound' . by-residue 35.000 . . .
+8 8 1 A 1073 LYS 1 A 1036 LYS . . 'upper bound' . by-residue 35.000 . . .
+9 9 1 A 1073 LYS 1 A 1035 LYS . . 'upper bound' . by-residue 35.000 . . .
+10 10 1 A 1073 LYS 1 A 937 LYS . . 'upper bound' . by-residue 35.000 . . .
+11 11 1 A 169 LYS 1 A 192 LYS . . 'upper bound' . by-residue 35.000 . . .
+12 12 1 A 489 LYS 1 A 443 LYS . . 'upper bound' . by-residue 35.000 . . .
+13 13 1 A 172 LYS 1 A 192 LYS . . 'upper bound' . by-residue 35.000 . . .
+14 14 1 A 533 LYS 1 A 489 LYS . . 'upper bound' . by-residue 35.000 . . .
+15 15 1 A 914 LYS 1 A 947 LYS . . 'upper bound' . by-residue 35.000 . . .
+16 16 1 A 967 LYS 1 A 964 LYS . . 'upper bound' . by-residue 35.000 . . .
+17 17 1 A 974 LYS 1 A 977 LYS . . 'upper bound' . by-residue 35.000 . . .
+18 18 1 A 947 LYS 1 A 913 LYS . . 'upper bound' . by-residue 35.000 . . .
+19 19 1 A 104 LYS 1 A 131 ASP . . 'upper bound' . by-residue 25.000 . . .
+20 20 1 A 104 LYS 1 A 132 GLU . . 'upper bound' . by-residue 25.000 . . .
+21 21 1 A 1073 LYS 1 A 1033 GLU . . 'upper bound' . by-residue 25.000 . . .
+22 22 1 A 1143 LYS 1 A 1069 GLU . . 'upper bound' . by-residue 25.000 . . .
+23 23 1 A 1143 LYS 1 A 1070 GLU . . 'upper bound' . by-residue 25.000 . . .
+24 24 1 A 1145 LYS 1 A 1069 GLU . . 'upper bound' . by-residue 25.000 . . .
+25 25 1 A 169 LYS 1 A 132 GLU . . 'upper bound' . by-residue 25.000 . . .
+26 26 1 A 172 LYS 1 A 128 ASP . . 'upper bound' . by-residue 25.000 . . .
+27 27 1 A 172 LYS 1 A 196 GLU . . 'upper bound' . by-residue 25.000 . . .
+28 28 1 A 172 LYS 1 A 198 GLU . . 'upper bound' . by-residue 25.000 . . .
+29 29 1 A 188 LYS 1 A 128 ASP . . 'upper bound' . by-residue 25.000 . . .
+30 30 1 A 395 LYS 1 A 455 ASP . . 'upper bound' . by-residue 25.000 . . .
+31 31 1 A 481 LYS 1 A 64 GLU . . 'upper bound' . by-residue 25.000 . . .
+32 32 1 A 485 GLU 1 A 443 LYS . . 'upper bound' . by-residue 25.000 . . .
+33 33 1 A 487 ASN 1 A 443 LYS . . 'upper bound' . by-residue 25.000 . . .
+34 34 1 A 507 LYS 1 A 563 GLU . . 'upper bound' . by-residue 25.000 . . .
+35 35 1 A 913 LYS 1 A 1098 GLU . . 'upper bound' . by-residue 25.000 . . .
+36 36 1 A 914 LYS 1 A 1098 GLU . . 'upper bound' . by-residue 25.000 . . .
+37 37 1 A 914 LYS 1 A 990 GLU . . 'upper bound' . by-residue 25.000 . . .
+38 38 1 A 937 LYS 1 A 393 ASP . . 'upper bound' . by-residue 25.000 . . .
+39 39 1 A 937 LYS 1 A 953 ASP . . 'upper bound' . by-residue 25.000 . . .
+40 40 1 A 947 LYS 1 A 1098 GLU . . 'upper bound' . by-residue 25.000 . . .
+41 41 1 A 947 LYS 1 A 936 GLU . . 'upper bound' . by-residue 25.000 . . .
 #
 #
 loop_
