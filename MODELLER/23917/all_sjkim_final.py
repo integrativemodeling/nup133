@@ -5,7 +5,7 @@ from modeller.scripts import complete_pdb
 
 log.verbose()
 env = environ()
-#env.io.atom_files_directory = ['../']
+env.io.atom_files_directory = ['../templates']
 
 ######################### 1. build_profile.py ########################
 ##-- Read in the sequence database
