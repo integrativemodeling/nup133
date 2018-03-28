@@ -78,8 +78,13 @@ aln.write(file='all_align_23904_final.pap', alignment_format='PAP')
 aln.id_table(matrix_file='all_align_23904_final.mat')
 #aln.check()
 
+class MyModel(automodel):
+    def special_patches(self, aln):
+        self.rename_segments('A', 495)
+
 
 ######################### 4. model-single.py ########################
+# Use MyModel rather than automodel to get correct output numbering
 a = automodel(env, 
               alnfile='all_align_23904_final.ali',
               #knowns=('3i4rB', '2eloA', '3ly1A', '2ciwA', '1a92A', '1gdjA', '1x4oA', '3kfoA'),
