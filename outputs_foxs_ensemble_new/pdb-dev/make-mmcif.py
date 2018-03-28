@@ -10,6 +10,7 @@ import mes
 import saxs
 import em2d
 import xlink
+import compmodel
 
 system = ihm.System()
 
@@ -59,8 +60,11 @@ asym = ihm.AsymUnit(entity, details='Nup133')
 system.asym_units.append(asym)
 
 assembly = ihm.Assembly([asym], name='Modeled assembly')
+
+modeller_model = compmodel.get_starting_modeller_model(asym)
 rep = ihm.representation.Representation(
-        [ihm.representation.AtomicSegment(asym, rigid=False)])
+        [ihm.representation.AtomicSegment(asym, rigid=False,
+                                          starting_model=modeller_model)])
 
 # Read in experimental datasets
 sf = saxs.SAXSFits(asym)
