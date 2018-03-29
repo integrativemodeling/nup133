@@ -19,7 +19,7 @@ import subprocess
 # Put larger directories (keys) in uniquely-named zipfiles (values)
 ARCHIVES = {
   'SAXS': 'SAXS',
-  'outputs_foxs_ensemble_new/ISAC_p150_t346_m30/': 'ISAC',
+  'outputs_foxs_ensemble_new/ISAC_p150_t346_m30': 'ISAC',
   'Crosslinks': 'Crosslinks',
   'MODELLER/combined': 'MODELLER'
 }
