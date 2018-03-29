@@ -17,13 +17,13 @@ import compmodel
 sys.path.append('../../util/')
 import make_archive
 
-system = ihm.System()
+title = ("Integrative structure-function mapping of the nucleoporin "
+         "Nup133 suggests a conserved mechanism for membrane anchoring "
+         "of the nuclear pore complex.")
+system = ihm.System(title=title)
 
 system.citations.append(ihm.Citation(
-          pmid='25139911',
-          title="Integrative structure-function mapping of the nucleoporin "
-                "Nup133 suggests a conserved mechanism for membrane anchoring "
-                "of the nuclear pore complex.",
+          pmid='25139911', title=title,
           journal="Mol Cell Proteomics", volume=13, page_range=(2911,2926),
           year=2014,
           authors=['Kim SJ', 'Fernandez-Martinez J', 'Sampathkumar P',
