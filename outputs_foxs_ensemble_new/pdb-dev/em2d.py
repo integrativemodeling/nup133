@@ -10,7 +10,7 @@ em2d_dir = '../ISAC_p150_t346_m30'
 class EM2DFits(object):
 
     num_images = 23
-    image_name_format = '23904_%02d.spi'
+    image_name_format = '23904_%02d.pgm'
 
     def __init__(self, assembly):
         self.assembly = assembly

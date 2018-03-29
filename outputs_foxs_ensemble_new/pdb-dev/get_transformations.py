@@ -38,11 +38,7 @@ def get_transformations(registrations, centroid, pixel_size, image_size):
     to_centroid = IMP.algebra.Transformation3D(IMP.algebra.Vector3D(-centroid))
     image_origin = pixel_size * image_size * 0.5
 
-    # em2d code uses the unusual convention of x=row and y=column, so correct
-    # for this with a 90 degree rotation about the origin
-    xy_rot = IMP.algebra.get_rotation_about_axis(
-                           IMP.algebra.Vector3D(0., 0., 1.), -0.5 * math.pi)
-    cleanup = IMP.algebra.Transformation3D(xy_rot,
+    cleanup = IMP.algebra.Transformation3D(
                           IMP.algebra.Vector3D(image_origin, image_origin, 0.))
 
     for num, quat, shift in get_registrations(registrations):
