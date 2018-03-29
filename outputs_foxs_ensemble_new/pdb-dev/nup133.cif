@@ -2586,7 +2586,14 @@ _ihm_external_reference_info.reference_type
 _ihm_external_reference_info.reference
 _ihm_external_reference_info.refers_to
 _ihm_external_reference_info.associated_url
-1 . 'Supplementary Files' . Other .
+1 Zenodo DOI 10.5281/zenodo.1209508 Archive
+https://zenodo.org/record/1209508/files/SAXS.zip
+2 Zenodo DOI 10.5281/zenodo.1209508 Archive
+https://zenodo.org/record/1209508/files/ISAC.zip
+3 Zenodo DOI 10.5281/zenodo.1209508 Archive
+https://zenodo.org/record/1209508/files/Crosslinks.zip
+4 Zenodo DOI 10.5281/zenodo.1209508 Archive
+https://zenodo.org/record/1209508/files/MODELLER.zip
 #
 #
 loop_
@@ -2596,58 +2603,58 @@ _ihm_external_files.file_path
 _ihm_external_files.content_type
 _ihm_external_files.file_size_bytes
 _ihm_external_files.details
-1 1 ../../SAXS/23902_merge_new2_q25.dat 'Input data or restraints' 11525 .
-2 1 ../../SAXS/23904_merge2_q25.dat 'Input data or restraints' 11997
+1 1 SAXS/23902_merge_new2_q25.dat 'Input data or restraints' 11525 .
+2 1 SAXS/23904_merge2_q25.dat 'Input data or restraints' 11997
 'Flexible, multi-domain construct'
-3 1 ../../SAXS/23905_merge2_q25.dat 'Input data or restraints' 11653 .
-4 1 ../../SAXS/23906_merge2_q25.dat 'Input data or restraints' 11567 .
-5 1 ../../SAXS/23907_merge2_q25.dat 'Input data or restraints' 11610 .
-6 1 ../../SAXS/23908_merge2_q25.dat 'Input data or restraints' 11565 .
-7 1 ../../SAXS/23910_merged3.dat 'Input data or restraints' 24020
+3 1 SAXS/23905_merge2_q25.dat 'Input data or restraints' 11653 .
+4 1 SAXS/23906_merge2_q25.dat 'Input data or restraints' 11567 .
+5 1 SAXS/23907_merge2_q25.dat 'Input data or restraints' 11610 .
+6 1 SAXS/23908_merge2_q25.dat 'Input data or restraints' 11565 .
+7 1 SAXS/23910_merged3.dat 'Input data or restraints' 24020
 'Flexible, multi-domain construct'
-8 1 ../../SAXS/23911_merged2_q25.dat 'Input data or restraints' 11653 .
-9 1 ../../SAXS/23912_merged2_q25.dat 'Input data or restraints' 11954 .
-10 1 ../../SAXS/23915_LBNL_q27.dat 'Input data or restraints' 18017 .
-11 1 ../../SAXS/23916_merge2_q30.dat 'Input data or restraints' 14276 .
-12 1 ../../SAXS/23917_merge2_q30.dat 'Input data or restraints' 14534
+8 1 SAXS/23911_merged2_q25.dat 'Input data or restraints' 11653 .
+9 1 SAXS/23912_merged2_q25.dat 'Input data or restraints' 11954 .
+10 1 SAXS/23915_LBNL_q27.dat 'Input data or restraints' 18017 .
+11 1 SAXS/23916_merge2_q30.dat 'Input data or restraints' 14276 .
+12 1 SAXS/23917_merge2_q30.dat 'Input data or restraints' 14534
 'Flexible, multi-domain construct'
-13 1 ../../SAXS/23918_merge2_q25.dat 'Input data or restraints' 12255 .
-14 1 ../../SAXS/23919_merged3_q18.dat 'Input data or restraints' 7611 .
-15 1 ../../SAXS/23920_merge2_q30.dat 'Input data or restraints' 14104 .
-16 1 ../../SAXS/23921_merge2_q25.dat 'Input data or restraints' 10363 .
-17 1 ../../SAXS/23922_merged.dat 'Input data or restraints' 22250
+13 1 SAXS/23918_merge2_q25.dat 'Input data or restraints' 12255 .
+14 1 SAXS/23919_merged3_q18.dat 'Input data or restraints' 7611 .
+15 1 SAXS/23920_merge2_q30.dat 'Input data or restraints' 14104 .
+16 1 SAXS/23921_merge2_q25.dat 'Input data or restraints' 10363 .
+17 1 SAXS/23922_merged.dat 'Input data or restraints' 22250
 'Yielded Nup133 (944-1157) due to N-terminal proteolysis'
-18 1 ../../SAXS/24047_merged2_q25.dat 'Input data or restraints' 16297
+18 1 SAXS/24047_merged2_q25.dat 'Input data or restraints' 16297
 'Flexible, multi-domain construct'
-19 1 ../../SAXS/24159_LBNL_merged_q30.dat 'Input data or restraints' 20255
+19 1 SAXS/24159_LBNL_merged_q30.dat 'Input data or restraints' 20255
 'Comparative Model'
-20 1 ../ISAC_p150_t346_m30/23904_00.spi 'Input data or restraints' 59040 .
-21 1 ../ISAC_p150_t346_m30/23904_01.spi 'Input data or restraints' 59040 .
-22 1 ../ISAC_p150_t346_m30/23904_02.spi 'Input data or restraints' 59040 .
-23 1 ../ISAC_p150_t346_m30/23904_03.spi 'Input data or restraints' 59040 .
-24 1 ../ISAC_p150_t346_m30/23904_04.spi 'Input data or restraints' 59040 .
-25 1 ../ISAC_p150_t346_m30/23904_05.spi 'Input data or restraints' 59040 .
-26 1 ../ISAC_p150_t346_m30/23904_06.spi 'Input data or restraints' 59040 .
-27 1 ../ISAC_p150_t346_m30/23904_07.spi 'Input data or restraints' 59040 .
-28 1 ../ISAC_p150_t346_m30/23904_08.spi 'Input data or restraints' 59040 .
-29 1 ../ISAC_p150_t346_m30/23904_09.spi 'Input data or restraints' 59040 .
-30 1 ../ISAC_p150_t346_m30/23904_10.spi 'Input data or restraints' 59040 .
-31 1 ../ISAC_p150_t346_m30/23904_11.spi 'Input data or restraints' 59040 .
-32 1 ../ISAC_p150_t346_m30/23904_12.spi 'Input data or restraints' 59040 .
-33 1 ../ISAC_p150_t346_m30/23904_13.spi 'Input data or restraints' 59040 .
-34 1 ../ISAC_p150_t346_m30/23904_14.spi 'Input data or restraints' 59040 .
-35 1 ../ISAC_p150_t346_m30/23904_15.spi 'Input data or restraints' 59040 .
-36 1 ../ISAC_p150_t346_m30/23904_16.spi 'Input data or restraints' 59040 .
-37 1 ../ISAC_p150_t346_m30/23904_17.spi 'Input data or restraints' 59040 .
-38 1 ../ISAC_p150_t346_m30/23904_18.spi 'Input data or restraints' 59040 .
-39 1 ../ISAC_p150_t346_m30/23904_19.spi 'Input data or restraints' 59040 .
-40 1 ../ISAC_p150_t346_m30/23904_20.spi 'Input data or restraints' 59040 .
-41 1 ../ISAC_p150_t346_m30/23904_21.spi 'Input data or restraints' 59040 .
-42 1 ../ISAC_p150_t346_m30/23904_22.spi 'Input data or restraints' 59040 .
-43 1 ../../Crosslinks/DSS_EDC_crosslinks.txt 'Input data or restraints' 627 .
-44 1 ../../MODELLER/23904/23904.B99990030.pdb 'Input data or restraints' 750225
+20 2 ISAC_p150_t346_m30/23904_00.spi 'Input data or restraints' 59040 .
+21 2 ISAC_p150_t346_m30/23904_01.spi 'Input data or restraints' 59040 .
+22 2 ISAC_p150_t346_m30/23904_02.spi 'Input data or restraints' 59040 .
+23 2 ISAC_p150_t346_m30/23904_03.spi 'Input data or restraints' 59040 .
+24 2 ISAC_p150_t346_m30/23904_04.spi 'Input data or restraints' 59040 .
+25 2 ISAC_p150_t346_m30/23904_05.spi 'Input data or restraints' 59040 .
+26 2 ISAC_p150_t346_m30/23904_06.spi 'Input data or restraints' 59040 .
+27 2 ISAC_p150_t346_m30/23904_07.spi 'Input data or restraints' 59040 .
+28 2 ISAC_p150_t346_m30/23904_08.spi 'Input data or restraints' 59040 .
+29 2 ISAC_p150_t346_m30/23904_09.spi 'Input data or restraints' 59040 .
+30 2 ISAC_p150_t346_m30/23904_10.spi 'Input data or restraints' 59040 .
+31 2 ISAC_p150_t346_m30/23904_11.spi 'Input data or restraints' 59040 .
+32 2 ISAC_p150_t346_m30/23904_12.spi 'Input data or restraints' 59040 .
+33 2 ISAC_p150_t346_m30/23904_13.spi 'Input data or restraints' 59040 .
+34 2 ISAC_p150_t346_m30/23904_14.spi 'Input data or restraints' 59040 .
+35 2 ISAC_p150_t346_m30/23904_15.spi 'Input data or restraints' 59040 .
+36 2 ISAC_p150_t346_m30/23904_16.spi 'Input data or restraints' 59040 .
+37 2 ISAC_p150_t346_m30/23904_17.spi 'Input data or restraints' 59040 .
+38 2 ISAC_p150_t346_m30/23904_18.spi 'Input data or restraints' 59040 .
+39 2 ISAC_p150_t346_m30/23904_19.spi 'Input data or restraints' 59040 .
+40 2 ISAC_p150_t346_m30/23904_20.spi 'Input data or restraints' 59040 .
+41 2 ISAC_p150_t346_m30/23904_21.spi 'Input data or restraints' 59040 .
+42 2 ISAC_p150_t346_m30/23904_22.spi 'Input data or restraints' 59040 .
+43 3 Crosslinks/DSS_EDC_crosslinks.txt 'Input data or restraints' 627 .
+44 4 combined/23904.B99990030.pdb 'Input data or restraints' 750225
 'Starting model structure'
-45 1 ../../MODELLER/combined/combined.ali 'Input data or restraints' 17894
+45 4 combined/combined.ali 'Input data or restraints' 17894
 'Alignment for starting comparative model'
 #
 #
