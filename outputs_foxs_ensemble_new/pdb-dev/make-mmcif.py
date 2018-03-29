@@ -127,12 +127,12 @@ system.state_groups.append(g)
 repos = []
 for subdir, zipname in make_archive.ARCHIVES.items():
     repos.append(ihm.location.Repository(
-          doi="10.5281/zenodo.1209508", root="../../%s" % subdir,
-          url="https://zenodo.org/record/1209508/files/%s.zip" % zipname,
+          doi="10.5281/zenodo.1209565", root="../../%s" % subdir,
+          url="https://zenodo.org/record/1209565/files/%s.zip" % zipname,
           top_directory=os.path.basename(subdir)))
 repos.append(ihm.location.Repository(
-             doi="10.5281/zenodo.1209508", root="../..",
-             url="https://zenodo.org/record/1209508/files/nup133-master.zip",
+             doi="10.5281/zenodo.1209565", root="../..",
+             url="https://zenodo.org/record/1209565/files/nup133-master.zip",
              top_directory="nup133-master"))
 system.update_locations_in_repositories(repos)
 

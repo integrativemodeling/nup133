@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1209508.svg)](https://doi.org/10.5281/zenodo.1209508)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1209565.svg)](https://doi.org/10.5281/zenodo.1209565)
 
 These scripts demonstrate the use of [IMP](https://integrativemodeling.org/),
 [MODELLER](https://salilab.org/modeller/),
