@@ -5,12 +5,16 @@ import ihm.representation
 import ihm.model
 import ihm.protocol
 import ihm.analysis
+import sys
 import pdb
 import mes
 import saxs
 import em2d
 import xlink
 import compmodel
+
+sys.path.append('../../util/')
+import make_archive
 
 system = ihm.System()
 
@@ -117,6 +121,19 @@ for nmodel, model, fraction in mes.get_models_with_fractions():
                         population_fraction=fraction)
     g.append(s)
 system.state_groups.append(g)
+
+# Replace local paths with pointers to deposited files at Zenodo
+repos = []
+for subdir, zipname in make_archive.ARCHIVES.items():
+    repos.append(ihm.location.Repository(
+          doi="10.5281/zenodo.1209508", root="../../%s" % subdir,
+          url="https://zenodo.org/record/1209508/files/%s.zip" % zipname,
+          top_directory=os.path.basename(subdir)))
+repos.append(ihm.location.Repository(
+             doi="10.5281/zenodo.1209508", root="../..",
+             url="https://zenodo.org/record/1209508/files/nup133-master.zip",
+             top_directory="nup133-master"))
+system.update_locations_in_repositories(repos)
 
 with open('nup133.cif', 'w') as fh:
     ihm.dumper.write(fh, [system])

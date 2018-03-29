@@ -3,7 +3,7 @@ import ihm.metadata
 import ihm.model
 import Bio.PDB
 
-pdb_file = '../../MODELLER/23904/23904.B99990030.pdb'
+pdb_file = '../../MODELLER/combined/23904.B99990030.pdb'
 offset = 1  # numbering starts at 0, but ours does at 1
 chain = 'A'
 
