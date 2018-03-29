@@ -48,7 +48,7 @@ Results from running Minimal Ensemble Search can be found in the
 `outputs_foxs_ensemble_new/MES_results` directory. `new_mes4.log` contains
 the final selected ensemble of four models, also present in this directory.
 The electron microscopy class averages used are also present in the
-`ISAC_p150_t346_m30` subdirectory.
+`outputs_foxs_ensemble_new/ISAC_p150_t346_m30` directory.
 
 ### Validation against cross-links
 
