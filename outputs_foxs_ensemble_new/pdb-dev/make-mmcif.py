@@ -5,6 +5,7 @@ import ihm.representation
 import ihm.model
 import ihm.protocol
 import ihm.analysis
+import os
 import sys
 import pdb
 import mes
