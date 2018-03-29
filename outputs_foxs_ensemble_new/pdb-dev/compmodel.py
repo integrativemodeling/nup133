@@ -1,3 +1,6 @@
+"""Add the comparative model used as a starting guess for the integrative
+   modeling."""
+
 import ihm.startmodel
 import ihm.metadata
 import ihm.model
@@ -8,11 +11,15 @@ offset = 1  # numbering starts at 0, but ours does at 1
 chain = 'A'
 
 class StartingModel(ihm.startmodel.StartingModel):
+    # Override StartingModel so we can provide coordinates
+
     def __init__(self, file_name, **kwargs):
         super(StartingModel, self).__init__(**kwargs)
         self.file_name = file_name
 
     def get_atoms(self):
+        # Read atoms from our starting model using BioPython, and yield
+        # ihm.model.Atom objects
         p = Bio.PDB.PDBParser()
         s = p.get_structure('rep', self.file_name)
         for model in s:

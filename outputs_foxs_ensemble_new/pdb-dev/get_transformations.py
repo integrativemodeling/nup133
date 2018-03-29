@@ -2,8 +2,7 @@
    for each image into a set of transformations, each of which transforms
    the model coordinates so that they superpose on the corresponding class
    average (assuming that the class average image lies in the xy plane
-   with its origin at (0,0,0)). Print each transformation in a form suitable
-   for including in an IHM mmCIF file."""
+   with its origin at (0,0,0))."""
 
 from __future__ import print_function
 import IMP.algebra

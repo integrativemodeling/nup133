@@ -12,6 +12,7 @@ class CrossLinkFits(object):
         self.asym = asym
 
     def add_restraints(self):
+        """Parse the crosslinks text file and return a set of restraints"""
         fname = os.path.join(xlink_dir, 'DSS_EDC_crosslinks.txt')
         l = ihm.location.InputFileLocation(fname)
         d = ihm.dataset.CXMSDataset(l)

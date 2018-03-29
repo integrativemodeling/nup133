@@ -1,5 +1,10 @@
 #!/usr/bin/env python
 
+"""Collect data on the Nup133 system and output an mmCIF file suitable for
+   deposition at PDB-Dev, https://pdb-dev.wwpdb.org/. This uses the python-ihm
+   library, available at https://github.com/ihmwg/python-ihm.
+"""
+
 import ihm.dumper
 import ihm.representation
 import ihm.model
@@ -59,6 +64,7 @@ system.software.append(ihm.Software(
           description="integrative model building",
           location='https://integrativemodeling.org'))
 
+# System is a single chain - extract its sequence from one of the output PDBs
 entity = ihm.Entity(pdb.get_sequence(), description='Nup133')
 system.entities.append(entity)
 asym = ihm.AsymUnit(entity, details='Nup133')
@@ -66,6 +72,7 @@ system.asym_units.append(asym)
 
 assembly = ihm.Assembly([asym], name='Modeled assembly')
 
+# Atomic model, starting from a Modeller comparative model
 modeller_model = compmodel.get_starting_modeller_model(asym)
 rep = ihm.representation.Representation(
         [ihm.representation.AtomicSegment(asym, rigid=False,
@@ -110,6 +117,8 @@ analysis.steps.append(ihm.analysis.ValidationStep(
                    feature='other', num_models_begin=4, num_models_end=4))
 protocol.analyses.append(analysis)
 
+# Output the final models selected by MES. Each is represented as a state
+# with given population fraction
 g = ihm.model.StateGroup()
 for nmodel, model, fraction in mes.get_models_with_fractions():
     m = pdb.Model(assembly=assembly, protocol=protocol, representation=rep,
@@ -136,5 +145,6 @@ repos.append(ihm.location.Repository(
              top_directory="nup133-master"))
 system.update_locations_in_repositories(repos)
 
+# Write out an mmCIF file
 with open('nup133.cif', 'w') as fh:
     ihm.dumper.write(fh, [system])

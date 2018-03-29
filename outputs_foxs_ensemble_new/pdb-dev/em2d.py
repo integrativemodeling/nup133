@@ -1,3 +1,5 @@
+"""Add information on the fit to EM class average data."""
+
 import os
 import csv
 import ihm.location
@@ -42,6 +44,7 @@ class EM2DFits(object):
         return im_per_class, ccc
 
     def add_all(self):
+        """Point to the raw image files used for the EM2D restraint"""
         for image in range(self.num_images):
             fname = os.path.join(em2d_dir, self.image_name_format % image)
             l = ihm.location.InputFileLocation(fname)
@@ -62,6 +65,7 @@ class EM2DFits(object):
         pixel_size = 2.28739
         image_size = 128 # todo: check
         regparam = os.path.join(model.file_name[:-4], 'registration.params')
+        # Convert registration parameters to standard transformation matrices
         for num, trans in get_transformations(regparam, centroid,
                                               pixel_size, image_size):
             ccc = self.ccc[num][nmodel]

@@ -18,6 +18,8 @@ class Model(ihm.model.Model):
         self.asym_units = asym_units
 
     def get_atoms(self):
+        # Use BioPython to read the structure from a PDB file, and then yield
+        # a set of ihm.model.Atom objects
         p = Bio.PDB.PDBParser()
         s = p.get_structure('rep', self.file_name)
         for model in s:
