@@ -101,7 +101,7 @@ MET 'L-peptide linking'
 ASP 'L-peptide linking'
 PHE 'L-peptide linking'
 THR 'L-peptide linking'
-GLY 'L-peptide linking'
+GLY 'Peptide linking'
 TRP 'L-peptide linking'
 CYS 'L-peptide linking'
 #
