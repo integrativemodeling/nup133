@@ -67,7 +67,9 @@ system.software.append(ihm.Software(
 # System is a single chain - extract its sequence from one of the output PDBs
 entity = ihm.Entity(pdb.get_sequence(), description='Nup133')
 system.entities.append(entity)
-asym = ihm.AsymUnit(entity, details='Nup133')
+# Note that our published model is numbered from 0, i.e. offset by -1
+# from the internal 1-based mmCIF numbering
+asym = ihm.AsymUnit(entity, details='Nup133', auth_seq_id_map=-1)
 system.asym_units.append(asym)
 
 assembly = ihm.Assembly([asym], name='Modeled assembly')
