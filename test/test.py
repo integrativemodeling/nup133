@@ -25,6 +25,26 @@ class Tests(unittest.TestCase):
         self.run_modeller_script('combined', 'combined.py',
                                  'combined', (0, 1165))
 
+    def test_23917(self):
+        """Test generation of comparative model for construct 23917"""
+        self.run_modeller_script('23917', 'all_sjkim_final.py',
+                                 '23917', (1, 664))
+
+    def test_23902(self):
+        """Test generation of comparative model for construct 23902"""
+        self.run_modeller_script('23902', 'all_sjkim_final_23902a.py',
+                                 '23902a', (0, 523))
+
+    def test_23904C(self):
+        """Test generation of comparative model for construct 23904C"""
+        self.run_modeller_script('23904C', 'all_sjkim_final_23904.py',
+                                 '23904', (1, 664))
+
+    def test_23904(self):
+        """Test generation of comparative model for construct 23904"""
+        self.run_modeller_script('23904', 'all_sjkim_final_23904.py',
+                                 '23904', (0, 1165))
+
     def test_mmcif(self):
         """Test generation of mmCIF output"""
         os.chdir(os.path.join(TOPDIR, 'outputs_foxs_ensemble_new', 'pdb-dev'))

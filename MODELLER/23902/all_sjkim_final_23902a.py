@@ -1,5 +1,6 @@
 from modeller import *
 from modeller.automodel import *
+import sys
 
 log.verbose()
 env = environ()
@@ -17,5 +18,5 @@ a = MyModel(env,
             assess_methods=(assess.DOPE, assess.GA341))
 a.starting_model = 1
 a.ending_model = 200
-
+if '--test' in sys.argv: a.ending_model = 1
 a.make()

@@ -1,6 +1,7 @@
 from modeller import *
 from modeller.automodel import *
 from modeller.scripts import complete_pdb
+import sys
 #import pylab
 
 log.verbose()
@@ -93,7 +94,7 @@ a = automodel(env,
               assess_methods=(assess.DOPE, assess.GA341))
 a.starting_model = 1
 a.ending_model = 100
-
+if '--test' in sys.argv: a.ending_model = 1
 a.make()
 
 ## Good : Number 4!!
