@@ -42,4 +42,4 @@ def get_starting_modeller_model(asym):
     m = p.parse_file(pdb_file)
     return StartingModel(file_name=pdb_file, asym_unit=asym,
                          dataset=m['dataset'], asym_id=chain,
-                         templates=m['templates'], offset=offset)
+                         templates=m['templates'][chain], offset=offset)
