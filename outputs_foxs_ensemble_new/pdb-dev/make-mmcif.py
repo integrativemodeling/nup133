@@ -63,6 +63,11 @@ system.software.append(ihm.Software(
           classification="integrative model building",
           description="integrative model building",
           location='https://integrativemodeling.org'))
+# We used AllosMod for sampling
+allosmod = ihm.Software(
+          name='AllosMod', classification='sampling',
+          description='modeling on a custom energy landscape',
+          location='https://salilab.org/allosmod')
 
 # System is a single chain - extract its sequence from one of the output PDBs
 entity = ihm.Entity(pdb.get_sequence(), description='Nup133')
@@ -105,7 +110,8 @@ protocol.steps.append(ihm.protocol.Step(
                  assembly=assembly, dataset_group=None,
                  method='AllosMod',
                  name='MD-based conformational sampling',
-                 num_models_begin=1, num_models_end=7000))
+                 num_models_begin=1, num_models_end=7000,
+                 software=allosmod))
 # Next we ran MES using both saxs and em2d:
 protocol.steps.append(ihm.protocol.Step(
                  assembly=assembly, dataset_group=saxs_em2d_datasets,

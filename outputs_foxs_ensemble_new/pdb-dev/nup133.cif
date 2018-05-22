@@ -21,6 +21,11 @@ https://toolkit.tuebingen.mpg.de/hhpred
 http://bioinf.cs.ucl.ac.uk/psipred/?disopred=1
 4 'Integrative Modeling Platform (IMP)' 'integrative model building'
 'integrative model building' 2.2 program https://integrativemodeling.org
+5 MODELLER 'comparative modeling'
+'Comparative modeling by satisfaction of spatial restraints, build 2014/04/13 15:25:30'
+9.13 program https://salilab.org/modeller/
+6 AllosMod sampling 'modeling on a custom energy landscape' . program
+https://salilab.org/allosmod
 #
 #
 loop_
@@ -2904,19 +2909,21 @@ _ihm_starting_comparative_models.template_sequence_identity
 _ihm_starting_comparative_models.template_sequence_identity_denominator
 _ihm_starting_comparative_models.template_dataset_list_id
 _ihm_starting_comparative_models.alignment_file_id
-1 1 A 1 62 A 36 104 17.400 1 49 45
-2 1 A 26 52 A 223 249 14.800 1 48 45
-3 1 A 26 56 A 6 37 18.800 1 47 45
-4 1 A 57 482 B 61 497 21.200 1 46 45
-5 1 A 59 482 A 63 497 21.600 1 46 45
-6 1 A 486 499 A 16 29 35.700 1 50 45
-7 1 A 496 1067 B 518 1105 14.000 1 44 45
-8 1 A 511 516 A 58 63 50.000 1 51 45
-9 1 A 549 557 A 30 38 55.600 1 52 45
-10 1 A 683 716 A 27 57 32.300 1 53 45
-11 1 A 819 836 A 16 33 5.600 1 54 45
-12 1 A 854 870 A 40 56 11.800 1 55 45
-13 1 A 956 1159 A 955 1158 95.800 1 45 45
+_ihm_starting_comparative_models.software_id
+_ihm_starting_comparative_models.script_file_id
+1 1 A 1 62 A 36 104 17.400 1 49 45 5 .
+2 1 A 26 52 A 223 249 14.800 1 48 45 5 .
+3 1 A 26 56 A 6 37 18.800 1 47 45 5 .
+4 1 A 57 482 B 61 497 21.200 1 46 45 5 .
+5 1 A 59 482 A 63 497 21.600 1 46 45 5 .
+6 1 A 486 499 A 16 29 35.700 1 50 45 5 .
+7 1 A 496 1067 B 518 1105 14.000 1 44 45 5 .
+8 1 A 511 516 A 58 63 50.000 1 51 45 5 .
+9 1 A 549 557 A 30 38 55.600 1 52 45 5 .
+10 1 A 683 716 A 27 57 32.300 1 53 45 5 .
+11 1 A 819 836 A 16 33 5.600 1 54 45 5 .
+12 1 A 854 870 A 40 56 11.800 1 55 45 5 .
+13 1 A 956 1159 A 955 1158 95.800 1 45 45 5 .
 #
 #
 loop_
@@ -12433,10 +12440,11 @@ _ihm_modeling_protocol.num_models_end
 _ihm_modeling_protocol.multi_scale_flag
 _ihm_modeling_protocol.multi_state_flag
 _ihm_modeling_protocol.ordered_flag
+_ihm_modeling_protocol.software_id
 1 1 1 1 . 'All known components' Modeling 'MD-based conformational sampling'
-AllosMod 1 7000 NO NO NO
+AllosMod 1 7000 NO NO NO 6
 2 1 2 1 1 'All known components' Modeling 'Minimal Ensemble Search' MES 7000 4
-NO YES NO
+NO YES NO .
 #
 #
 loop_
@@ -12450,7 +12458,8 @@ _ihm_modeling_post_process.num_models_begin
 _ihm_modeling_post_process.num_models_end
 _ihm_modeling_post_process.struct_assembly_id
 _ihm_modeling_post_process.dataset_group_id
-1 1 1 1 validation other 4 4 1 2
+_ihm_modeling_post_process.software_id
+1 1 1 1 validation other 4 4 1 2 .
 #
 #
 loop_
