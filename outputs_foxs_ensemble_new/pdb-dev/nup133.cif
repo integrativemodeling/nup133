@@ -2659,9 +2659,11 @@ _ihm_external_files.details
 41 2 ISAC_p150_t346_m30/23904_21.pgm 'Input data or restraints' 14415 .
 42 2 ISAC_p150_t346_m30/23904_22.pgm 'Input data or restraints' 14415 .
 43 3 Crosslinks/DSS_EDC_crosslinks.txt 'Input data or restraints' 627 .
-44 4 combined/23904.B99990030.pdb 'Input data or restraints' 750225
+44 4 combined/23904.B99990030.pdb 'Input data or restraints' 750268
 'Starting model structure'
-45 4 combined/combined.ali 'Input data or restraints' 17894
+45 4 combined/combined.py 'Modeling workflow or script' 606
+'Script for starting comparative model'
+46 4 combined/combined.ali 'Input data or restraints' 17894
 'Alignment for starting comparative model'
 #
 #
@@ -2911,19 +2913,19 @@ _ihm_starting_comparative_models.template_dataset_list_id
 _ihm_starting_comparative_models.alignment_file_id
 _ihm_starting_comparative_models.software_id
 _ihm_starting_comparative_models.script_file_id
-1 1 A 1 62 A 36 104 17.400 1 49 45 5 .
-2 1 A 26 52 A 223 249 14.800 1 48 45 5 .
-3 1 A 26 56 A 6 37 18.800 1 47 45 5 .
-4 1 A 57 482 B 61 497 21.200 1 46 45 5 .
-5 1 A 59 482 A 63 497 21.600 1 46 45 5 .
-6 1 A 486 499 A 16 29 35.700 1 50 45 5 .
-7 1 A 496 1067 B 518 1105 14.000 1 44 45 5 .
-8 1 A 511 516 A 58 63 50.000 1 51 45 5 .
-9 1 A 549 557 A 30 38 55.600 1 52 45 5 .
-10 1 A 683 716 A 27 57 32.300 1 53 45 5 .
-11 1 A 819 836 A 16 33 5.600 1 54 45 5 .
-12 1 A 854 870 A 40 56 11.800 1 55 45 5 .
-13 1 A 956 1159 A 955 1158 95.800 1 45 45 5 .
+1 1 A 1 62 A 36 104 17.400 1 49 46 5 45
+2 1 A 26 52 A 223 249 14.800 1 48 46 5 45
+3 1 A 26 56 A 6 37 18.800 1 47 46 5 45
+4 1 A 57 482 B 61 497 21.200 1 46 46 5 45
+5 1 A 59 482 A 63 497 21.600 1 46 46 5 45
+6 1 A 486 499 A 16 29 35.700 1 50 46 5 45
+7 1 A 496 1067 B 518 1105 14.000 1 44 46 5 45
+8 1 A 511 516 A 58 63 50.000 1 51 46 5 45
+9 1 A 549 557 A 30 38 55.600 1 52 46 5 45
+10 1 A 683 716 A 27 57 32.300 1 53 46 5 45
+11 1 A 819 836 A 16 33 5.600 1 54 46 5 45
+12 1 A 854 870 A 40 56 11.800 1 55 46 5 45
+13 1 A 956 1159 A 955 1158 95.800 1 45 46 5 45
 #
 #
 loop_
