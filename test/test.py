@@ -54,7 +54,7 @@ class Tests(unittest.TestCase):
         # Check size of output file
         with open("nup133.cif") as fh:
             wcl = len(fh.readlines())
-        self.assertEqual(wcl, 50803)
+        self.assertEqual(wcl, 50821)
 
 if __name__ == '__main__':
     unittest.main()

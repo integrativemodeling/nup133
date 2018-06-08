@@ -2899,6 +2899,13 @@ _ihm_starting_model_details.dataset_list_id
 #
 #
 loop_
+_ihm_starting_computational_models.starting_model_id
+_ihm_starting_computational_models.software_id
+_ihm_starting_computational_models.script_file_id
+1 5 45
+#
+#
+loop_
 _ihm_starting_comparative_models.ordinal_id
 _ihm_starting_comparative_models.starting_model_id
 _ihm_starting_comparative_models.starting_model_auth_asym_id
@@ -2911,21 +2918,19 @@ _ihm_starting_comparative_models.template_sequence_identity
 _ihm_starting_comparative_models.template_sequence_identity_denominator
 _ihm_starting_comparative_models.template_dataset_list_id
 _ihm_starting_comparative_models.alignment_file_id
-_ihm_starting_comparative_models.software_id
-_ihm_starting_comparative_models.script_file_id
-1 1 A 1 62 A 36 104 17.400 1 49 46 5 45
-2 1 A 26 52 A 223 249 14.800 1 48 46 5 45
-3 1 A 26 56 A 6 37 18.800 1 47 46 5 45
-4 1 A 57 482 B 61 497 21.200 1 46 46 5 45
-5 1 A 59 482 A 63 497 21.600 1 46 46 5 45
-6 1 A 486 499 A 16 29 35.700 1 50 46 5 45
-7 1 A 496 1067 B 518 1105 14.000 1 44 46 5 45
-8 1 A 511 516 A 58 63 50.000 1 51 46 5 45
-9 1 A 549 557 A 30 38 55.600 1 52 46 5 45
-10 1 A 683 716 A 27 57 32.300 1 53 46 5 45
-11 1 A 819 836 A 16 33 5.600 1 54 46 5 45
-12 1 A 854 870 A 40 56 11.800 1 55 46 5 45
-13 1 A 956 1159 A 955 1158 95.800 1 45 46 5 45
+1 1 A 1 62 A 36 104 17.400 1 49 46
+2 1 A 26 52 A 223 249 14.800 1 48 46
+3 1 A 26 56 A 6 37 18.800 1 47 46
+4 1 A 57 482 B 61 497 21.200 1 46 46
+5 1 A 59 482 A 63 497 21.600 1 46 46
+6 1 A 486 499 A 16 29 35.700 1 50 46
+7 1 A 496 1067 B 518 1105 14.000 1 44 46
+8 1 A 511 516 A 58 63 50.000 1 51 46
+9 1 A 549 557 A 30 38 55.600 1 52 46
+10 1 A 683 716 A 27 57 32.300 1 53 46
+11 1 A 819 836 A 16 33 5.600 1 54 46
+12 1 A 854 870 A 40 56 11.800 1 55 46
+13 1 A 956 1159 A 955 1158 95.800 1 45 46
 #
 #
 loop_
@@ -12443,10 +12448,11 @@ _ihm_modeling_protocol.multi_scale_flag
 _ihm_modeling_protocol.multi_state_flag
 _ihm_modeling_protocol.ordered_flag
 _ihm_modeling_protocol.software_id
+_ihm_modeling_protocol.script_file_id
 1 1 1 1 . 'All known components' Modeling 'MD-based conformational sampling'
-AllosMod 1 7000 NO NO NO 6
+AllosMod 1 7000 NO NO NO 6 .
 2 1 2 1 1 'All known components' Modeling 'Minimal Ensemble Search' MES 7000 4
-NO YES NO .
+NO YES NO . .
 #
 #
 loop_
@@ -12461,7 +12467,8 @@ _ihm_modeling_post_process.num_models_end
 _ihm_modeling_post_process.struct_assembly_id
 _ihm_modeling_post_process.dataset_group_id
 _ihm_modeling_post_process.software_id
-1 1 1 1 validation other 4 4 1 2 .
+_ihm_modeling_post_process.script_file_id
+1 1 1 1 validation other 4 4 1 2 . .
 #
 #
 loop_
