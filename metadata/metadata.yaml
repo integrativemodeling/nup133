@@ -2,7 +2,7 @@ title: Nup133
 tags: [MODELLER, FoXS, EM class average, multi-state, SAXS, X-ray, chemical crosslinks]
 pmid: 25139911
 accessions: [PDBDEV_00000016]
-prereqs: [modeller]
+prereqs: [modeller, python/biopython]
 test:
     runtime: 24h
     build: release
