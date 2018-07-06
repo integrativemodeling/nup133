@@ -1,6 +1,7 @@
 """Add information on the fit to EM class average data."""
 
 import os
+import sys
 import csv
 import ihm.location
 import ihm.dataset
@@ -8,6 +9,13 @@ import ihm.restraint
 from get_transformations import *
 
 em2d_dir = '../ISAC_p150_t346_m30'
+
+if sys.version_info[0] >= 3:
+    def open_csv(fname):
+        return open(fname, newline='')
+else:
+    def open_csv(fname):
+        return open(fname, 'rb')
 
 class EM2DFits(object):
 
@@ -23,7 +31,7 @@ class EM2DFits(object):
         """Parse Table S3 to get # of images and CCC per class"""
         im_per_class = [None] * self.num_images
         ccc = [None] * self.num_images
-        with open(fname, 'rb') as fh:
+        with open_csv(fname) as fh:
             for row in csv.reader(fh):
                 try:
                     class_id = int(row[0]) - 1
