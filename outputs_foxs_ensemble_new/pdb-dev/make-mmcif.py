@@ -153,6 +153,8 @@ repos.append(ihm.location.Repository(
              top_directory="nup133-master"))
 system.update_locations_in_repositories(repos)
 
-# Write out an mmCIF file
+# Write out in mmCIF and BinaryCIF format
 with open('nup133.cif', 'w') as fh:
     ihm.dumper.write(fh, [system])
+with open('nup133.bcif', 'wb') as fh:
+    ihm.dumper.write(fh, [system], format='BCIF')
