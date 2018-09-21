@@ -86,8 +86,8 @@ rep = ihm.representation.Representation(
                                           starting_model=modeller_model)])
 
 # Read in experimental datasets
-sf = saxs.SAXSFits(asym)
-saxs_restraints = list(sf.add_from_csv())
+saxs_fits = saxs.SAXSFits(asym)
+saxs_restraints = list(saxs_fits.add_from_csv())
 system.restraints.extend(saxs_restraints)
 
 em2d_fits = em2d.EM2DFits(assembly)
@@ -131,6 +131,7 @@ g = ihm.model.StateGroup()
 for nmodel, model, fraction in mes.get_models_with_fractions():
     m = pdb.Model(assembly=assembly, protocol=protocol, representation=rep,
                   file_name=model, asym_units=[asym])
+    saxs_fits.add_model(m, saxs_restraints)
     em2d_fits.add_model(nmodel, m, em2d_restraints)
     s = ihm.model.State([ihm.model.ModelGroup([m])],
                         type='minimal ensemble',

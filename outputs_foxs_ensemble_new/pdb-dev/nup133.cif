@@ -12830,6 +12830,96 @@ _ihm_2dem_class_average_fitting.tr_vector[3]
 #
 #
 loop_
+_ihm_sas_restraint.ordinal_id
+_ihm_sas_restraint.dataset_list_id
+_ihm_sas_restraint.model_id
+_ihm_sas_restraint.struct_assembly_id
+_ihm_sas_restraint.profile_segment_flag
+_ihm_sas_restraint.fitting_atom_type
+_ihm_sas_restraint.fitting_method
+_ihm_sas_restraint.fitting_state
+_ihm_sas_restraint.radius_of_gyration
+_ihm_sas_restraint.chi_value
+_ihm_sas_restraint.details
+1 1 1 2 NO . FoXS Multiple 27.9 1.36 .
+2 1 2 2 NO . FoXS Multiple 27.9 1.36 .
+3 1 3 2 NO . FoXS Multiple 27.9 1.36 .
+4 1 4 2 NO . FoXS Multiple 27.9 1.36 .
+5 2 1 3 NO . FoXS Multiple 48.3 1.54 .
+6 2 2 3 NO . FoXS Multiple 48.3 1.54 .
+7 2 3 3 NO . FoXS Multiple 48.3 1.54 .
+8 2 4 3 NO . FoXS Multiple 48.3 1.54 .
+9 3 1 4 NO . FoXS Multiple 28.0 1.40 .
+10 3 2 4 NO . FoXS Multiple 28.0 1.40 .
+11 3 3 4 NO . FoXS Multiple 28.0 1.40 .
+12 3 4 4 NO . FoXS Multiple 28.0 1.40 .
+13 4 1 5 NO . FoXS Multiple 25.7 1.61 .
+14 4 2 5 NO . FoXS Multiple 25.7 1.61 .
+15 4 3 5 NO . FoXS Multiple 25.7 1.61 .
+16 4 4 5 NO . FoXS Multiple 25.7 1.61 .
+17 5 1 6 NO . FoXS Multiple 25.1 1.61 .
+18 5 2 6 NO . FoXS Multiple 25.1 1.61 .
+19 5 3 6 NO . FoXS Multiple 25.1 1.61 .
+20 5 4 6 NO . FoXS Multiple 25.1 1.61 .
+21 6 1 7 NO . FoXS Multiple 26.5 1.45 .
+22 6 2 7 NO . FoXS Multiple 26.5 1.45 .
+23 6 3 7 NO . FoXS Multiple 26.5 1.45 .
+24 6 4 7 NO . FoXS Multiple 26.5 1.45 .
+25 7 1 8 NO . FoXS Multiple 48.8 4.56 .
+26 7 2 8 NO . FoXS Multiple 48.8 4.56 .
+27 7 3 8 NO . FoXS Multiple 48.8 4.56 .
+28 7 4 8 NO . FoXS Multiple 48.8 4.56 .
+29 8 1 9 NO . FoXS Multiple 25.8 2.00 .
+30 8 2 9 NO . FoXS Multiple 25.8 2.00 .
+31 8 3 9 NO . FoXS Multiple 25.8 2.00 .
+32 8 4 9 NO . FoXS Multiple 25.8 2.00 .
+33 9 1 10 NO . FoXS Multiple 26.5 1.25 .
+34 9 2 10 NO . FoXS Multiple 26.5 1.25 .
+35 9 3 10 NO . FoXS Multiple 26.5 1.25 .
+36 9 4 10 NO . FoXS Multiple 26.5 1.25 .
+37 10 1 11 NO . FoXS Multiple 25.4 1.29 .
+38 10 2 11 NO . FoXS Multiple 25.4 1.29 .
+39 10 3 11 NO . FoXS Multiple 25.4 1.29 .
+40 10 4 11 NO . FoXS Multiple 25.4 1.29 .
+41 11 1 12 NO . FoXS Multiple 31.6 1.78 .
+42 11 2 12 NO . FoXS Multiple 31.6 1.78 .
+43 11 3 12 NO . FoXS Multiple 31.6 1.78 .
+44 11 4 12 NO . FoXS Multiple 31.6 1.78 .
+45 12 1 13 NO . FoXS Multiple 40.8 3.55 .
+46 12 2 13 NO . FoXS Multiple 40.8 3.55 .
+47 12 3 13 NO . FoXS Multiple 40.8 3.55 .
+48 12 4 13 NO . FoXS Multiple 40.8 3.55 .
+49 13 1 14 NO . FoXS Multiple 23.9 1.89 .
+50 13 2 14 NO . FoXS Multiple 23.9 1.89 .
+51 13 3 14 NO . FoXS Multiple 23.9 1.89 .
+52 13 4 14 NO . FoXS Multiple 23.9 1.89 .
+53 14 1 15 NO . FoXS Multiple 30.1 1.29 .
+54 14 2 15 NO . FoXS Multiple 30.1 1.29 .
+55 14 3 15 NO . FoXS Multiple 30.1 1.29 .
+56 14 4 15 NO . FoXS Multiple 30.1 1.29 .
+57 15 1 16 NO . FoXS Multiple 41.9 1.71 .
+58 15 2 16 NO . FoXS Multiple 41.9 1.71 .
+59 15 3 16 NO . FoXS Multiple 41.9 1.71 .
+60 15 4 16 NO . FoXS Multiple 41.9 1.71 .
+61 16 1 17 NO . FoXS Multiple 41.0 2.90 .
+62 16 2 17 NO . FoXS Multiple 41.0 2.90 .
+63 16 3 17 NO . FoXS Multiple 41.0 2.90 .
+64 16 4 17 NO . FoXS Multiple 41.0 2.90 .
+65 17 1 18 NO . FoXS Multiple 18.7 1.12 .
+66 17 2 18 NO . FoXS Multiple 18.7 1.12 .
+67 17 3 18 NO . FoXS Multiple 18.7 1.12 .
+68 17 4 18 NO . FoXS Multiple 18.7 1.12 .
+69 18 1 19 NO . FoXS Multiple 38.0 3.26 .
+70 18 2 19 NO . FoXS Multiple 38.0 3.26 .
+71 18 3 19 NO . FoXS Multiple 38.0 3.26 .
+72 18 4 19 NO . FoXS Multiple 38.0 3.26 .
+73 19 1 20 NO . FoXS Multiple 24.4 1.14 .
+74 19 2 20 NO . FoXS Multiple 24.4 1.14 .
+75 19 3 20 NO . FoXS Multiple 24.4 1.14 .
+76 19 4 20 NO . FoXS Multiple 24.4 1.14 .
+#
+#
+loop_
 _ihm_model_list.ordinal_id
 _ihm_model_list.model_id
 _ihm_model_list.model_group_id

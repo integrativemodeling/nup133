@@ -81,8 +81,8 @@ class Tests(unittest.TestCase):
         # PDB numbering should start at 0 (not 1)
         self.assertEqual(s.asym_units[0].residue(1).seq_id, 1)
         self.assertEqual(s.asym_units[0].residue(1).auth_seq_id, 0)
-        # 25 restraints - 2 XL datasets, 23 EM2D images
-        self.assertEqual(len(s.restraints), 25)
+        # 44 restraints - 2 XL datasets, 23 EM2D images, 19 SAXS restraints
+        self.assertEqual(len(s.restraints), 44)
         xl1, xl2 = s.restraints[:2]
         self.assertEqual(xl1.linker_type, 'DSS')
         self.assertEqual(len(xl1.experimental_cross_links), 18)
@@ -94,9 +94,15 @@ class Tests(unittest.TestCase):
 
         self.assertEqual(xl2.linker_type, 'EDC')
 
-        em2d_rsr = s.restraints[3:]
+        em2d_rsr = s.restraints[3:25]
         for i, em2d in enumerate(em2d_rsr):
             self.assertAlmostEqual(em2d.image_resolution, 15.0, places=1)
+
+        saxs_rsr = s.restraints[25:]
+        for r in saxs_rsr:
+            self.assertFalse(r.segment)
+            self.assertEqual(r.fitting_method, 'FoXS')
+            self.assertTrue(r.multi_state)
 
 
 if __name__ == '__main__':

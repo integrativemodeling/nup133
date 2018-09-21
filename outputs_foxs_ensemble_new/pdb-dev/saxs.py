@@ -40,7 +40,13 @@ class SAXSFits(object):
         seqrange = (int(m.group(1)), int(m.group(2)))
         assembly = ihm.Assembly([self.asym(*seqrange)], name='SAXS assembly')
         r = ihm.restraint.SASRestraint(dataset=dataset, assembly=assembly,
-                segment=False, fitting_method='FoXS')
+                segment=False, fitting_method='FoXS', multi_state=True,
+                radius_of_gyration=row['Rg'])
+        r._fit_score_all_models = row['FoXS fit score']
         return r
-        # todo: do something with fit data:
-        # row['Rg'], row['FoXS fit score']
+
+    def add_model(self, model, restraints):
+        """Add fit data for the given model against all restraints"""
+        for r in restraints:
+            r.fits[model] = ihm.restraint.SASRestraintFit(
+                                    chi_value=r._fit_score_all_models)
