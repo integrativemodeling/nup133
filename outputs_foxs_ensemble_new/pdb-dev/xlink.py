@@ -3,6 +3,11 @@ import csv
 import ihm.location
 import ihm.dataset
 import ihm.restraint
+try:
+    import ihm.cross_linkers
+    cross_linkers = {'DSS':ihm.cross_linkers.dss, 'EDC':ihm.cross_linkers.edc}
+except ImportError:
+    cross_linkers = None
 
 xlink_dir = '../../Crosslinks/'
 
@@ -25,7 +30,11 @@ class CrossLinkFits(object):
         threshold = {'DSS':35., 'EDC':25.}
         distance = ihm.restraint.UpperBoundDistanceRestraint(
                                         threshold[linker_type])
-        r = ihm.restraint.CrossLinkRestraint(dataset, linker_type)
+        if cross_linkers:
+            r = ihm.restraint.CrossLinkRestraint(dataset,
+                                            linker=cross_linkers[linker_type])
+        else:
+            r = ihm.restraint.CrossLinkRestraint(dataset, linker_type)
         for line in fh:
             if line.startswith(linker_type):
                 break
