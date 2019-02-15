@@ -92,7 +92,7 @@ class Tests(unittest.TestCase):
         if cross_linkers is None:
             self.assertEqual(xl1.linker_type, 'DSS')
         else:
-            self.assertEqual(xl1.linker, cross_linkers.dss)
+            self.assertEqual(xl1.linker.auth_name, cross_linkers.dss.auth_name)
         self.assertEqual(len(xl1.experimental_cross_links), 18)
         self.assertEqual(len(xl1.cross_links), 18)
         self.assertEqual(xl1.dataset.location.path,
@@ -103,7 +103,7 @@ class Tests(unittest.TestCase):
         if cross_linkers is None:
             self.assertEqual(xl2.linker_type, 'EDC')
         else:
-            self.assertEqual(xl2.linker, cross_linkers.edc)
+            self.assertEqual(xl2.linker.auth_name, cross_linkers.edc.auth_name)
 
         em2d_rsr = s.restraints[3:25]
         for i, em2d in enumerate(em2d_rsr):
