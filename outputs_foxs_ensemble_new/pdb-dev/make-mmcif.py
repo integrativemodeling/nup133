@@ -8,6 +8,10 @@
 import ihm.dumper
 import ihm.representation
 import ihm.model
+try:
+    import ihm.reference
+except ImportError:
+    pass
 import ihm.protocol
 import ihm.analysis
 import os
@@ -69,8 +73,18 @@ allosmod = ihm.Software(
           description='modeling on a custom energy landscape',
           location='https://salilab.org/allosmod')
 
-# System is a single chain - extract its sequence from one of the output PDBs
-entity = ihm.Entity(pdb.get_sequence(), description='Nup133')
+if hasattr(ihm, 'reference'):
+    # Sequence in UniProt
+    ref = ihm.reference.UniProtSequence.from_accession('P36161')
+    ref.alignments.append(ihm.reference.Alignment(db_begin=2, entity_begin=3))
+
+    # System is a single chain - extract its sequence from one of the
+    # output PDBs
+    entity = ihm.Entity(pdb.get_sequence(), description='Nup133',
+                        references=[ref])
+else:
+    entity = ihm.Entity(pdb.get_sequence(), description='Nup133')
+
 system.entities.append(entity)
 # Note that our published model is numbered from 0, i.e. offset by -1
 # from the internal 1-based mmCIF numbering
