@@ -69,7 +69,7 @@ _License_: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0
 International License.
 
-_Last known good IMP version_: [![build info](https://salilab.org/imp/systems/?sysstat=11&branch=master)](http://salilab.org/imp/systems/) [![build info](https://salilab.org/imp/systems/?sysstat=11&branch=develop)](http://salilab.org/imp/systems/)
+_Last known good IMP version_: [![build info](https://integrativemodeling.org/systems/11/badge.svg?branch=master)](https://integrativemodeling.org/systems/) [![build info](https://integrativemodeling.org/systems/11/badge.svg?branch=develop)](https://integrativemodeling.org/systems/)
 
 _Testable_: Yes.
 
