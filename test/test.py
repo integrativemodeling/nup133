@@ -56,7 +56,11 @@ class Tests(unittest.TestCase):
         os.chdir(os.path.join(TOPDIR, 'outputs_foxs_ensemble_new', 'pdb-dev'))
         if os.path.exists("nup133.cif"):
             os.unlink("nup133.cif")
-        p = subprocess.check_call(["./make-mmcif.py"])
+        # Potentially override methods that need network access
+        env = os.environ.copy()
+        env['PYTHONPATH'] = os.path.join(TOPDIR, 'test', 'mock') \
+                            + ':' + env.get('PYTHONPATH', '')
+        p = subprocess.check_call(["./make-mmcif.py"], env=env)
         # Check output files
         with open('nup133.cif') as fh:
             s, = ihm.reader.read(fh)
