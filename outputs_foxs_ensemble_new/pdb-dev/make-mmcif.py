@@ -12,6 +12,10 @@ try:
     import ihm.reference
 except ImportError:
     pass
+try:
+    import ihm.citations
+except ImportError:
+    pass
 import ihm.protocol
 import ihm.analysis
 import os
@@ -42,36 +46,60 @@ system.citations.append(ihm.Citation(
           doi='10.1074/mcp.M114.040915'))
 
 # We used HHpred to detect remote homologs for some input subunits
-system.software.append(ihm.Software(
+s = ihm.Software(
           name='HHpred', classification='protein homology detection',
           description='Protein homology detection by HMM-HMM comparison',
           version='2.0.16',
-          location='https://toolkit.tuebingen.mpg.de/hhpred'))
+          location='https://toolkit.tuebingen.mpg.de/hhpred')
+if hasattr(ihm, 'citations'):
+    s.citation = ihm.citations.hhpred
+system.software.append(s)
+
 # We used PSIPRED to predict secondary structure for subunits
-system.software.append(ihm.Software(
+s = ihm.Software(
           name='PSIPRED', classification='secondary structure prediction',
           description='Protein secondary structure prediction based on '
                       'position-specific scoring matrices',
           version='4.0',
-          location='http://bioinf.cs.ucl.ac.uk/psipred/'))
+          location='http://bioinf.cs.ucl.ac.uk/psipred/')
+if hasattr(ihm, 'citations'):
+    s.citation = ihm.citations.psipred
+system.software.append(s)
+
 # We used DISOPRED to predict (and remove) disordered regions in
 # the subunits
-system.software.append(ihm.Software(
+s = ihm.Software(
           name='DISOPRED', classification='disorder prediction',
           description='prediction of protein disorder', version=3,
-          location='http://bioinf.cs.ucl.ac.uk/psipred/?disopred=1'))
+          location='http://bioinf.cs.ucl.ac.uk/psipred/?disopred=1')
+if hasattr(ihm, 'citations'):
+    s.citation = ihm.citations.disopred
+system.software.append(s)
+
 # We used various tools from IMP (e.g. FoXS)
-system.software.append(ihm.Software(
+s = ihm.Software(
           name="Integrative Modeling Platform (IMP)",
           version="2.2",
           classification="integrative model building",
           description="integrative model building",
-          location='https://integrativemodeling.org'))
+          location='https://integrativemodeling.org')
+if hasattr(ihm, 'citations'):
+    s.citation = ihm.citations.imp
+system.software.append(s)
+
 # We used AllosMod for sampling
 allosmod = ihm.Software(
           name='AllosMod', classification='sampling',
           description='modeling on a custom energy landscape',
           location='https://salilab.org/allosmod')
+if hasattr(ihm, 'citations'):
+    allosmod.citation = ihm.Citation(
+        pmid='22403063',
+        title='Structure-based model of allostery predicts coupling '
+              'between distant sites.', journal='Proc Natl Acad Sci U S A',
+        volume=109, page_range=(4875, 4880), year=2012,
+        authors=['Weinkam P', 'Pons J', 'Sali A'],
+        doi='10.1073/pnas.1116274109')
 
 if hasattr(ihm, 'reference'):
     # Sequence in UniProt
