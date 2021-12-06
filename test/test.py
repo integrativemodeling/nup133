@@ -70,7 +70,7 @@ class Tests(unittest.TestCase):
         self._check_mmcif_file(s)
 
     def _check_mmcif_file(self, s):
-        self.assertEqual(len(s.citations), 1)
+        self.assertEqual(len(s.citations), 7)
         self.assertEqual(s.citations[0].doi, '10.1074/mcp.M114.040915')
         self.assertEqual(len(s.software), 6)
         self.assertEqual(len(s.orphan_starting_models), 1)
