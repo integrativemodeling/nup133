@@ -17,7 +17,7 @@ else:
 
 class SAXSFits(object):
     """Parse the SAXS csv file and add suitable fit data to the mmCIF file"""
-    seqrange_re = re.compile('(\d+)\s*\-\s*(\d+)')
+    seqrange_re = re.compile(r'(\d+)\s*\-\s*(\d+)')
 
     def __init__(self, asym):
         self.asym = asym
