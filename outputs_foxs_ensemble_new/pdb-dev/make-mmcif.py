@@ -29,53 +29,55 @@ title = ("Integrative structure-function mapping of the nucleoporin "
          "of the nuclear pore complex.")
 system = ihm.System(title=title)
 
+# Paper that describes this modeling
 system.citations.append(ihm.Citation(
-      pmid='25139911', title=title,
-      journal="Mol Cell Proteomics", volume=13, page_range=(2911, 2926),
-      year=2014,
-      authors=['Kim, S.J.', 'Fernandez-Martinez, J.', 'Sampathkumar, P.',
-               'Martel, A.', 'Matsui, T.', 'Tsuruta, H.', 'Weiss, T.M.',
-               'Shi, Y.', 'Markina-Inarrairaegui, A.', 'Bonanno, J.B.',
-               'Sauder, J.M.', 'Burley, S.K.', 'Chait, B.T.', 'Almo, S.C.',
-               'Rout, M.P.', 'Sali, A.'],
-      doi='10.1074/mcp.M114.040915'))
+    pmid='25139911', title=title,
+    journal="Mol Cell Proteomics", volume=13, page_range=(2911, 2926),
+    year=2014,
+    authors=['Kim, S.J.', 'Fernandez-Martinez, J.', 'Sampathkumar, P.',
+             'Martel, A.', 'Matsui, T.', 'Tsuruta, H.', 'Weiss, T.M.',
+             'Shi, Y.', 'Markina-Inarrairaegui, A.', 'Bonanno, J.B.',
+             'Sauder, J.M.', 'Burley, S.K.', 'Chait, B.T.', 'Almo, S.C.',
+             'Rout, M.P.', 'Sali, A.'],
+    doi='10.1074/mcp.M114.040915',
+    is_primary=True))
 
 # We used HHpred to detect remote homologs for some input subunits
 s = ihm.Software(
-      name='HHpred', classification='protein homology detection',
-      description='Protein homology detection by HMM-HMM comparison',
-      version='2.0.16',
-      location='https://toolkit.tuebingen.mpg.de/hhpred',
-      citation=ihm.citations.hhpred)
+    name='HHpred', classification='protein homology detection',
+    description='Protein homology detection by HMM-HMM comparison',
+    version='2.0.16',
+    location='https://toolkit.tuebingen.mpg.de/hhpred',
+    citation=ihm.citations.hhpred)
 system.software.append(s)
 
 # We used PSIPRED to predict secondary structure for subunits
 s = ihm.Software(
-      name='PSIPRED', classification='secondary structure prediction',
-      description='Protein secondary structure prediction based on '
-                  'position-specific scoring matrices',
-      version='4.0',
-      location='http://bioinf.cs.ucl.ac.uk/psipred/',
-      citation=ihm.citations.psipred)
+    name='PSIPRED', classification='secondary structure prediction',
+    description='Protein secondary structure prediction based on '
+                'position-specific scoring matrices',
+    version='4.0',
+    location='http://bioinf.cs.ucl.ac.uk/psipred/',
+    citation=ihm.citations.psipred)
 system.software.append(s)
 
 # We used DISOPRED to predict (and remove) disordered regions in
 # the subunits
 s = ihm.Software(
-      name='DISOPRED', classification='disorder prediction',
-      description='prediction of protein disorder', version=3,
-      location='http://bioinf.cs.ucl.ac.uk/psipred/?disopred=1',
-      citation=ihm.citations.disopred)
+    name='DISOPRED', classification='disorder prediction',
+    description='prediction of protein disorder', version=3,
+    location='http://bioinf.cs.ucl.ac.uk/psipred/?disopred=1',
+    citation=ihm.citations.disopred)
 system.software.append(s)
 
 # We used various tools from IMP (e.g. FoXS)
 s = ihm.Software(
-      name="Integrative Modeling Platform (IMP)",
-      version="2.2",
-      classification="integrative model building",
-      description="integrative model building",
-      location='https://integrativemodeling.org',
-      citation=ihm.citations.imp)
+    name="Integrative Modeling Platform (IMP)",
+    version="2.2",
+    classification="integrative model building",
+    description="integrative model building",
+    location='https://integrativemodeling.org',
+    citation=ihm.citations.imp)
 system.software.append(s)
 
 # We used AllosMod for sampling
