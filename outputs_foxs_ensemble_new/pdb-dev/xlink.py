@@ -2,12 +2,9 @@ import os
 import ihm.location
 import ihm.dataset
 import ihm.restraint
-try:
-    import ihm.cross_linkers
-    cross_linkers = {'DSS': ihm.cross_linkers.dss,
-                     'EDC': ihm.cross_linkers.edc}
-except ImportError:
-    cross_linkers = None
+import ihm.cross_linkers
+cross_linkers = {'DSS': ihm.cross_linkers.dss,
+                 'EDC': ihm.cross_linkers.edc}
 
 xlink_dir = '../../Crosslinks/'
 

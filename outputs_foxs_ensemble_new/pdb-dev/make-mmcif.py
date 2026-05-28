@@ -8,14 +8,8 @@
 import ihm.dumper
 import ihm.representation
 import ihm.model
-try:
-    import ihm.reference
-except ImportError:
-    pass
-try:
-    import ihm.citations
-except ImportError:
-    pass
+import ihm.reference
+import ihm.citations
 import ihm.protocol
 import ihm.analysis
 import os
@@ -36,82 +30,75 @@ title = ("Integrative structure-function mapping of the nucleoporin "
 system = ihm.System(title=title)
 
 system.citations.append(ihm.Citation(
-          pmid='25139911', title=title,
-          journal="Mol Cell Proteomics", volume=13, page_range=(2911, 2926),
-          year=2014,
-          authors=['Kim SJ', 'Fernandez-Martinez J', 'Sampathkumar P',
-                   'Martel A', 'Matsui T', 'Tsuruta H', 'Weiss TM', 'Shi Y',
-                   'Markina-Inarrairaegui A', 'Bonanno JB', 'Sauder JM',
-                   'Burley SK', 'Chait BT', 'Almo SC', 'Rout MP', 'Sali A'],
-          doi='10.1074/mcp.M114.040915'))
+      pmid='25139911', title=title,
+      journal="Mol Cell Proteomics", volume=13, page_range=(2911, 2926),
+      year=2014,
+      authors=['Kim SJ', 'Fernandez-Martinez J', 'Sampathkumar P',
+               'Martel A', 'Matsui T', 'Tsuruta H', 'Weiss TM', 'Shi Y',
+               'Markina-Inarrairaegui A', 'Bonanno JB', 'Sauder JM',
+               'Burley SK', 'Chait BT', 'Almo SC', 'Rout MP', 'Sali A'],
+      doi='10.1074/mcp.M114.040915'))
 
 # We used HHpred to detect remote homologs for some input subunits
 s = ihm.Software(
-          name='HHpred', classification='protein homology detection',
-          description='Protein homology detection by HMM-HMM comparison',
-          version='2.0.16',
-          location='https://toolkit.tuebingen.mpg.de/hhpred')
-if hasattr(ihm, 'citations'):
-    s.citation = ihm.citations.hhpred
+      name='HHpred', classification='protein homology detection',
+      description='Protein homology detection by HMM-HMM comparison',
+      version='2.0.16',
+      location='https://toolkit.tuebingen.mpg.de/hhpred',
+      citation=ihm.citations.hhpred)
 system.software.append(s)
 
 # We used PSIPRED to predict secondary structure for subunits
 s = ihm.Software(
-          name='PSIPRED', classification='secondary structure prediction',
-          description='Protein secondary structure prediction based on '
-                      'position-specific scoring matrices',
-          version='4.0',
-          location='http://bioinf.cs.ucl.ac.uk/psipred/')
-if hasattr(ihm, 'citations'):
-    s.citation = ihm.citations.psipred
+      name='PSIPRED', classification='secondary structure prediction',
+      description='Protein secondary structure prediction based on '
+                  'position-specific scoring matrices',
+      version='4.0',
+      location='http://bioinf.cs.ucl.ac.uk/psipred/',
+      citation=ihm.citations.psipred)
 system.software.append(s)
 
 # We used DISOPRED to predict (and remove) disordered regions in
 # the subunits
 s = ihm.Software(
-          name='DISOPRED', classification='disorder prediction',
-          description='prediction of protein disorder', version=3,
-          location='http://bioinf.cs.ucl.ac.uk/psipred/?disopred=1')
-if hasattr(ihm, 'citations'):
-    s.citation = ihm.citations.disopred
+      name='DISOPRED', classification='disorder prediction',
+      description='prediction of protein disorder', version=3,
+      location='http://bioinf.cs.ucl.ac.uk/psipred/?disopred=1',
+      citation=ihm.citations.disopred)
 system.software.append(s)
 
 # We used various tools from IMP (e.g. FoXS)
 s = ihm.Software(
-          name="Integrative Modeling Platform (IMP)",
-          version="2.2",
-          classification="integrative model building",
-          description="integrative model building",
-          location='https://integrativemodeling.org')
-if hasattr(ihm, 'citations'):
-    s.citation = ihm.citations.imp
+      name="Integrative Modeling Platform (IMP)",
+      version="2.2",
+      classification="integrative model building",
+      description="integrative model building",
+      location='https://integrativemodeling.org',
+      citation=ihm.citations.imp)
 system.software.append(s)
 
 # We used AllosMod for sampling
+citation = ihm.Citation(
+    pmid='22403063',
+    title='Structure-based model of allostery predicts coupling '
+          'between distant sites.', journal='Proc Natl Acad Sci U S A',
+    volume=109, page_range=(4875, 4880), year=2012,
+    authors=['Weinkam P', 'Pons J', 'Sali A'],
+    doi='10.1073/pnas.1116274109')
 allosmod = ihm.Software(
-          name='AllosMod', classification='sampling',
-          description='modeling on a custom energy landscape',
-          location='https://salilab.org/allosmod')
-if hasattr(ihm, 'citations'):
-    allosmod.citation = ihm.Citation(
-        pmid='22403063',
-        title='Structure-based model of allostery predicts coupling '
-              'between distant sites.', journal='Proc Natl Acad Sci U S A',
-        volume=109, page_range=(4875, 4880), year=2012,
-        authors=['Weinkam P', 'Pons J', 'Sali A'],
-        doi='10.1073/pnas.1116274109')
+    name='AllosMod', classification='sampling',
+    description='modeling on a custom energy landscape',
+    location='https://salilab.org/allosmod',
+    citation=citation)
 
-if hasattr(ihm, 'reference'):
-    # Sequence in UniProt
-    ref = ihm.reference.UniProtSequence.from_accession('P36161')
-    ref.alignments.append(ihm.reference.Alignment(db_begin=2, entity_begin=3))
+# Sequence in UniProt
+ref = ihm.reference.UniProtSequence.from_accession('P36161')
+ref.alignments.append(ihm.reference.Alignment(db_begin=2, entity_begin=3))
 
-    # System is a single chain - extract its sequence from one of the
-    # output PDBs
-    entity = ihm.Entity(pdb.get_sequence(), description='Nup133',
-                        references=[ref])
-else:
-    entity = ihm.Entity(pdb.get_sequence(), description='Nup133')
+# System is a single chain - extract its sequence from one of the
+# output PDBs
+entity = ihm.Entity(pdb.get_sequence(), description='Nup133',
+                    references=[ref])
 
 system.entities.append(entity)
 # Note that our published model is numbered from 0, i.e. offset by -1
