@@ -1,6 +1,5 @@
 import os
 import csv
-import sys
 import glob
 import re
 import ihm.location
@@ -8,15 +7,8 @@ import ihm.dataset
 
 saxs_dir = '../../SAXS'
 
-if sys.version_info[0] >= 3:
-    def open_csv(fname):
-        return open(fname, newline='')
-else:
-    def open_csv(fname):
-        return open(fname, 'rb')
 
-
-class SAXSFits(object):
+class SAXSFits:
     """Parse the SAXS csv file and add suitable fit data to the mmCIF file"""
     seqrange_re = re.compile(r'(\d+)\s*\-\s*(\d+)')
 
@@ -24,7 +16,7 @@ class SAXSFits(object):
         self.asym = asym
 
     def add_from_csv(self):
-        with open_csv(os.path.join(saxs_dir, 'Table6_SAXS.csv')) as fh:
+        with open(os.path.join(saxs_dir, 'Table6_SAXS.csv'), newline='') as fh:
             for row in csv.DictReader(fh):
                 if row['FoXS fit score'] and row['Protein'] == 'NUP133':
                     yield self._add_one(row)

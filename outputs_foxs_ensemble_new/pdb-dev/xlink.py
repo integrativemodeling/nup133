@@ -12,7 +12,7 @@ except ImportError:
 xlink_dir = '../../Crosslinks/'
 
 
-class CrossLinkFits(object):
+class CrossLinkFits:
 
     def __init__(self, asym):
         self.asym = asym

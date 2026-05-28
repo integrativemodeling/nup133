@@ -4,7 +4,6 @@
    average (assuming that the class average image lies in the xy plane
    with its origin at (0,0,0))."""
 
-from __future__ import print_function
 import IMP.algebra
 import IMP.atom
 
