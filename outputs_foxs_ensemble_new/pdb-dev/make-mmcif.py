@@ -33,10 +33,11 @@ system.citations.append(ihm.Citation(
       pmid='25139911', title=title,
       journal="Mol Cell Proteomics", volume=13, page_range=(2911, 2926),
       year=2014,
-      authors=['Kim SJ', 'Fernandez-Martinez J', 'Sampathkumar P',
-               'Martel A', 'Matsui T', 'Tsuruta H', 'Weiss TM', 'Shi Y',
-               'Markina-Inarrairaegui A', 'Bonanno JB', 'Sauder JM',
-               'Burley SK', 'Chait BT', 'Almo SC', 'Rout MP', 'Sali A'],
+      authors=['Kim, S.J.', 'Fernandez-Martinez, J.', 'Sampathkumar, P.',
+               'Martel, A.', 'Matsui, T.', 'Tsuruta, H.', 'Weiss, T.M.',
+               'Shi, Y.', 'Markina-Inarrairaegui, A.', 'Bonanno, J.B.',
+               'Sauder, J.M.', 'Burley, S.K.', 'Chait, B.T.', 'Almo, S.C.',
+               'Rout, M.P.', 'Sali, A.'],
       doi='10.1074/mcp.M114.040915'))
 
 # We used HHpred to detect remote homologs for some input subunits
@@ -83,7 +84,7 @@ citation = ihm.Citation(
     title='Structure-based model of allostery predicts coupling '
           'between distant sites.', journal='Proc Natl Acad Sci U S A',
     volume=109, page_range=(4875, 4880), year=2012,
-    authors=['Weinkam P', 'Pons J', 'Sali A'],
+    authors=['Weinkam, P.', 'Pons, J.', 'Sali, A.'],
     doi='10.1073/pnas.1116274109')
 allosmod = ihm.Software(
     name='AllosMod', classification='sampling',
