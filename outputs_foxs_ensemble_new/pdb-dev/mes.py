@@ -2,6 +2,7 @@ import os
 
 mes_dir = '../MES_results'
 
+
 def get_models_with_fractions():
     """Parse the MES log file to get the names of the output models and their
        population fractions"""

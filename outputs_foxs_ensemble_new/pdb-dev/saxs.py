@@ -15,6 +15,7 @@ else:
     def open_csv(fname):
         return open(fname, 'rb')
 
+
 class SAXSFits(object):
     """Parse the SAXS csv file and add suitable fit data to the mmCIF file"""
     seqrange_re = re.compile(r'(\d+)\s*\-\s*(\d+)')
@@ -32,16 +33,16 @@ class SAXSFits(object):
         protid = row['Protein ID']
         profile = (glob.glob('%s/%s_*.sub' % (saxs_dir, protid))
                    + glob.glob('%s/%s_*.dat' % (saxs_dir, protid)))[0]
-        l = ihm.location.InputFileLocation(profile,
-                             details = row['Notes'] if row['Notes']
-                                                    else None)
-        dataset = ihm.dataset.SASDataset(location=l)
+        loc = ihm.location.InputFileLocation(
+            profile, details=row['Notes'] if row['Notes'] else None)
+        dataset = ihm.dataset.SASDataset(location=loc)
         m = self.seqrange_re.match(row['Sequence coverage'])
         seqrange = (int(m.group(1)), int(m.group(2)))
         assembly = ihm.Assembly([self.asym(*seqrange)], name='SAXS assembly')
-        r = ihm.restraint.SASRestraint(dataset=dataset, assembly=assembly,
-                segment=False, fitting_method='FoXS', multi_state=True,
-                radius_of_gyration=row['Rg'])
+        r = ihm.restraint.SASRestraint(
+            dataset=dataset, assembly=assembly,
+            segment=False, fitting_method='FoXS', multi_state=True,
+            radius_of_gyration=row['Rg'])
         r._fit_score_all_models = row['FoXS fit score']
         return r
 

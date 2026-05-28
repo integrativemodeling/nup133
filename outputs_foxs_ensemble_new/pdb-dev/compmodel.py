@@ -10,6 +10,7 @@ pdb_file = '../../MODELLER/combined/23904.B99990030.pdb'
 offset = 1  # numbering starts at 0, but ours does at 1
 chain = 'A'
 
+
 class StartingModel(ihm.startmodel.StartingModel):
     # Override StartingModel so we can provide coordinates
 
@@ -24,15 +25,15 @@ class StartingModel(ihm.startmodel.StartingModel):
         s = p.get_structure('rep', self.file_name)
         for model in s:
             for nchain, chain in enumerate(model):
-                assert(nchain == 0) # should only be one chain
+                assert nchain == 0   # should only be one chain
                 for nres, residue in enumerate(chain):
                     for atom in residue:
                         coord = atom.get_vector()
-                        yield ihm.model.Atom(asym_unit=self.asym_unit,
-                                seq_id=nres+1,
-                                atom_id=atom.get_id(), x=coord[0], y=coord[1],
-                                z=coord[2], type_symbol=atom.element,
-                                biso=atom.get_bfactor())
+                        yield ihm.model.Atom(
+                            asym_unit=self.asym_unit, seq_id=nres+1,
+                            atom_id=atom.get_id(), x=coord[0], y=coord[1],
+                            z=coord[2], type_symbol=atom.element,
+                            biso=atom.get_bfactor())
 
 
 def get_starting_modeller_model(asym):

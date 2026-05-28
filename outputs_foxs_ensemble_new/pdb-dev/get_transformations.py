@@ -7,13 +7,14 @@
 from __future__ import print_function
 import IMP.algebra
 import IMP.atom
-import math
+
 
 def get_centroid(fname):
     """Return the coordinates of the centroid of the given PDB file"""
     m = IMP.Model()
     mh = IMP.atom.read_pdb(fname, m, IMP.atom.CAlphaPDBSelector())
     return IMP.core.get_centroid(IMP.atom.get_leaves(mh))
+
 
 def get_registrations(fname):
     """Yield information from the given registration parameters file"""
@@ -23,8 +24,9 @@ def get_registrations(fname):
                 continue
             spl = line.split('|')
             # Image #, quaternion plus x and y shift
-            yield(int(spl[0]), [float(spl[i]) for i in range(5,9)],
-                  [float(spl[i]) for i in range(9,11)])
+            yield (int(spl[0]), [float(spl[i]) for i in range(5, 9)],
+                   [float(spl[i]) for i in range(9, 11)])
+
 
 def get_transformations(registrations, centroid, pixel_size, image_size):
     """Yield a set of transformations from the given registration file"""

@@ -1,6 +1,7 @@
 import Bio.PDB
 import ihm.model
 
+
 def get_sequence():
     """Get the primary sequence"""
     p = Bio.PDB.PDBParser()
@@ -9,6 +10,7 @@ def get_sequence():
     ppb = Bio.PDB.PPBuilder()
     pp, = ppb.build_peptides(s)
     return str(pp.get_sequence())
+
 
 class Model(ihm.model.Model):
     """Pass a BioPython model through to IHM"""
@@ -28,6 +30,7 @@ class Model(ihm.model.Model):
                 for nres, residue in enumerate(chain):
                     for atom in residue:
                         coord = atom.get_vector()
-                        yield ihm.model.Atom(asym_unit=asym, seq_id=nres+1,
-                                atom_id=atom.get_id(), x=coord[0], y=coord[1],
-                                z=coord[2], type_symbol=atom.element)
+                        yield ihm.model.Atom(
+                            asym_unit=asym, seq_id=nres+1,
+                            atom_id=atom.get_id(), x=coord[0], y=coord[1],
+                            z=coord[2], type_symbol=atom.element)

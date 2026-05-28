@@ -37,7 +37,7 @@ system = ihm.System(title=title)
 
 system.citations.append(ihm.Citation(
           pmid='25139911', title=title,
-          journal="Mol Cell Proteomics", volume=13, page_range=(2911,2926),
+          journal="Mol Cell Proteomics", volume=13, page_range=(2911, 2926),
           year=2014,
           authors=['Kim SJ', 'Fernandez-Martinez J', 'Sampathkumar P',
                    'Martel A', 'Matsui T', 'Tsuruta H', 'Weiss TM', 'Shi Y',
@@ -140,8 +140,8 @@ xlink_fits = xlink.CrossLinkFits(asym)
 xlink_restraints = list(xlink_fits.add_restraints())
 system.restraints.extend(xlink_restraints)
 
-saxs_em2d_datasets = ihm.dataset.DatasetGroup(r.dataset
-                                for r in saxs_restraints + em2d_restraints)
+saxs_em2d_datasets = ihm.dataset.DatasetGroup(
+    r.dataset for r in saxs_restraints + em2d_restraints)
 xlink_datasets = ihm.dataset.DatasetGroup(r.dataset for r in xlink_restraints)
 
 # Describe the modeling protocol

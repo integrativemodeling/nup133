@@ -6,7 +6,7 @@ import csv
 import ihm.location
 import ihm.dataset
 import ihm.restraint
-from get_transformations import *
+from get_transformations import get_centroid, get_transformations
 
 em2d_dir = '../ISAC_p150_t346_m30'
 
@@ -17,6 +17,7 @@ else:
     def open_csv(fname):
         return open(fname, 'rb')
 
+
 class EM2DFits(object):
 
     num_images = 23
@@ -24,8 +25,8 @@ class EM2DFits(object):
 
     def __init__(self, assembly):
         self.assembly = assembly
-        self.im_per_class, self.ccc = \
-                 self.read_csv('../MES_results/Nup133_tableS3.csv')
+        self.im_per_class, self.ccc = self.read_csv(
+            '../MES_results/Nup133_tableS3.csv')
 
     def read_csv(self, fname):
         """Parse Table S3 to get # of images and CCC per class"""
@@ -36,7 +37,7 @@ class EM2DFits(object):
                 try:
                     class_id = int(row[0]) - 1
                     im_per_class[class_id], ccc[class_id] = \
-                            self._parse_csv_fit(row)
+                        self._parse_csv_fit(row)
                 except ValueError:
                     continue
         return im_per_class, ccc
@@ -55,23 +56,23 @@ class EM2DFits(object):
         """Point to the raw image files used for the EM2D restraint"""
         for image in range(self.num_images):
             fname = os.path.join(em2d_dir, self.image_name_format % image)
-            l = ihm.location.InputFileLocation(fname)
-            dataset = ihm.dataset.EM2DClassDataset(location=l)
-            r = ihm.restraint.EM2DRestraint(dataset=dataset,
-                     assembly=self.assembly, segment=False,
-                     # From ../2_em2d_0.sh
-                     pixel_size_width=2.28739, pixel_size_height=2.28739,
-                     number_raw_micrographs=self.im_per_class[image],
-                     number_of_projections=1000, image_resolution=15.)
+            loc = ihm.location.InputFileLocation(fname)
+            dataset = ihm.dataset.EM2DClassDataset(location=loc)
+            r = ihm.restraint.EM2DRestraint(
+                dataset=dataset, assembly=self.assembly, segment=False,
+                # From ../2_em2d_0.sh
+                pixel_size_width=2.28739, pixel_size_height=2.28739,
+                number_raw_micrographs=self.im_per_class[image],
+                number_of_projections=1000, image_resolution=15.)
             yield r
 
     def add_model(self, nmodel, model, restraints):
         """Add fit data to the given model for all restraints (images)"""
-        assert(len(restraints) == self.num_images)
+        assert len(restraints) == self.num_images
 
         centroid = get_centroid(model.file_name)
         pixel_size = 2.28739
-        image_size = 128 # todo: check
+        image_size = 128  # todo: check
         regparam = os.path.join(model.file_name[:-4], 'registration.params')
         # Convert registration parameters to standard transformation matrices
         for num, trans in get_transformations(regparam, centroid,
@@ -79,7 +80,8 @@ class EM2DFits(object):
             ccc = self.ccc[num][nmodel]
             rot = trans.get_rotation()
             shift = [e for e in trans.get_translation()]
-            rm = [[e for e in rot.get_rotation_matrix_row(i)] for i in range(3)]
+            rm = [[e for e in rot.get_rotation_matrix_row(i)]
+                  for i in range(3)]
 
             restraints[num].fits[model] = ihm.restraint.EM2DRestraintFit(
                                       rot_matrix=rm, tr_vector=shift,
