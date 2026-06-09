@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 """Collect data on the Nup133 system and output an mmCIF file suitable for
-   deposition at PDB-Dev, https://pdb-dev.wwpdb.org/. This uses the python-ihm
+   deposition at PDB-IHM, https://pdb-ihm.org/. This uses the python-ihm
    library, available at https://github.com/ihmwg/python-ihm.
 """
 
