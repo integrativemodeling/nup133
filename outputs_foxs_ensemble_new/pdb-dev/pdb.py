@@ -15,7 +15,7 @@ def get_sequence():
 class Model(ihm.model.Model):
     """Pass a BioPython model through to IHM"""
     def __init__(self, file_name, asym_units, **kwargs):
-        super(Model, self).__init__(**kwargs)
+        super().__init__(**kwargs)
         self.file_name = file_name
         self.asym_units = asym_units
 

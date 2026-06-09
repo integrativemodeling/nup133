@@ -15,7 +15,7 @@ class StartingModel(ihm.startmodel.StartingModel):
     # Override StartingModel so we can provide coordinates
 
     def __init__(self, file_name, **kwargs):
-        super(StartingModel, self).__init__(**kwargs)
+        super().__init__(**kwargs)
         self.file_name = file_name
 
     def get_atoms(self):
